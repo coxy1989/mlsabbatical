@@ -10,7 +10,7 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 
 ### Goal
 
-Full time work as **confident** practitioner of ML in an interesting/worthwhile domain.
+Full time work as a **confident** practitioner of ML in an interesting/worthwhile domain.
 
 - Role affords ML/data science activities:  obtaining and processing data, selecting, fitting and evaluating models.
 - Role affords software engineering activities: writing business logic, performance, scale, deployment.
