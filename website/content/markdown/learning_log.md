@@ -6,6 +6,8 @@
 
 ## Learning Log
 
+Check out the Kanban [here](https://github.com/coxy1989/mlsabbatical/projects/1)
+
 ### Satarday, 14/07/2018
 
 I spun up this website and began feeling out some resources that I may decide to include in the curriculum.
