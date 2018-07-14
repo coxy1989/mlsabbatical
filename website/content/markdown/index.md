@@ -6,7 +6,7 @@
 
 ## Home
 
-Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track my machine learning studies.
+Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track my machine learning studies, the site is statically hosted on S3 - you can find the source code [here](https://github.com/coxy1989/mlsabbatical).
 
 ### Goal
 
