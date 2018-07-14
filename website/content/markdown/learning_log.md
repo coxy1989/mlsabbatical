@@ -9,3 +9,8 @@
 ### Satarday, 14/07/2018
 
 I spun up this website and began feeling out some resources that I may decide to include in the curriculum.
+
+[issue 4](https://github.com/coxy1989/mlsabbatical/issues/4)
+[issue 5](https://github.com/coxy1989/mlsabbatical/issues/5)
+
+
