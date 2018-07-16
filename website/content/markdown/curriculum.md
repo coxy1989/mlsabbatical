@@ -29,9 +29,9 @@ I'll also be looking for overlap with the foundational track where possible, in 
 - PML: 11. Working With Unlabeled Data - Clustering Analysis
 - PML: 12. Training Artificial Neural Networks for Image Recognition.
 
-- Kaggle: 1.[Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview)
-- Kaggle: 2.[Forest Cover Type Prediction](https://www.kaggle.com/c/forest-cover-type-prediction)
-- Kaggle: 3.[Predicting Red Hat Business Value](https://www.kaggle.com/c/predicting-red-hat-business-value) 
+- Kaggle: [1.Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview)
+- Kaggle: [2.Forest Cover Type Prediction](https://www.kaggle.com/c/forest-cover-type-prediction)
+- Kaggle: [3.Predicting Red Hat Business Value](https://www.kaggle.com/c/predicting-red-hat-business-value) 
 
 - OSS contributions: TBD
 - Side project: TBD
