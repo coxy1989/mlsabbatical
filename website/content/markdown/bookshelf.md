@@ -7,7 +7,7 @@
 
 ## Bookshelf
 
-I'll keep a record of the books that I'm using / that may become useful to me here.
+I'll keep a record of the books that I'm using and those which may become useful to me here.
 
 | Title  | Author  | Free  | Purchased  |
 |---|---|---|---|
