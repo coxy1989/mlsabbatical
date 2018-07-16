@@ -12,10 +12,10 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 
 Full time work as a **confident** practitioner of ML in an interesting/worthwhile domain.
 
-- Role affords ML/data science activities:  obtaining and processing data, selecting, fitting and evaluating models.
-- Role affords software engineering activities: writing business logic, performance, scale, deployment.
+- Role affords engagement with ML/data science activities:  obtaining and processing data, selecting, fitting and evaluating models.
+- Role affords engagement with software engineering activities: writing business logic, performance, scale, deployment.
+- Role affords engagement with product - not “throwing models over the wall” to a product team.
 - Role is core to the business.
-- Role permits engagement with product - not “throwing models over the wall” to a product team.
 
 ### Time
 
