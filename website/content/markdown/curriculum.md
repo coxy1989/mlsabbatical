@@ -15,7 +15,7 @@ I like the idea of having two tracks; one applied, one foundational, with a prim
 PML: [Python Machine Learning](https://www.amazon.co.uk/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130)
 
 For each chapter I intend to publish my notes and working Jupyter Notebooks / python code that exercise the key ideas.
-I intend to cross reference the material as I go with the Andrew Ng course I've already completed and with other resources that I find along the way.
+I intend to cross reference the material as I go with the Andrew Ng courses I've already completed and with other resources that I find along the way.
 I'll also be looking for overlap with the foundational track where possible, in addition to diving deeper in patches where the content errs on "plug and chug".
 
 - PML: 1. Giving Computers the Ability to Learn From Data
@@ -35,6 +35,14 @@ I'll also be looking for overlap with the foundational track where possible, in 
 
 - OSS contributions: TBD
 - Side project: TBD
+
+#### Artefacts of achievement:
+
+- Well documented code that excercises the key ideas.
+- Daily learning log entries.
+- Jupyter notebooks / well documented code for Kaggle contest entries.
+- ? OSS contributions
+- ? Side project
 
 ### Track 2: Probability and statistics
 
@@ -61,10 +69,17 @@ I intend to cross reference the material as I go with other resources including:
 - SPS: 18.Inference: Relationships Q -> Q
 
 AOS: [All of statistics](https://www.amazon.co.uk/All-Statistics-Statistical-Inference-Springer/dp/0387402721)
-I gather that this text is ruthlessly dry, providing consise treatment of the key ideas in a sensible order, with plenty of examples. I intend to use it as a roadmap and expect to jump out to other resources and do heavy cross referencing for 2nd and 3rd explanations. I expect to make heavy use of MathMonk's YouTube videos. I've ordered [A first look at rigorous probability theory](https://www.amazon.co.uk/gp/product/9812703713/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) for bedside reading. I'm eying up [The Theory of Probability: explorations and Applications](https://www.amazon.co.uk/Theory-Probability-Explorations-Applications/dp/1107024471) as a second reference text to accompany Wasserman.
+
+I gather that this text is ruthlessly dry, providing consise treatment of the key ideas in a sensible order, with plenty of examples.
+
+I intend to use it as a roadmap and expect to jump out to other resources and do cross referencing for 2nd explanations. I expect to make use of MathMonk's YouTube videos. I've ordered [A first look at rigorous probability theory](https://www.amazon.co.uk/gp/product/9812703713/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) for bedside reading. I'm eying up [The Theory of Probability: explorations and Applications](https://www.amazon.co.uk/Theory-Probability-Explorations-Applications/dp/1107024471) as a second reference text to accompany Wasserman.
 
 - AOS: 1. Probability
 - AOS: 2. Random Variables
 - AOS: 3. Expectation
 
+#### Artefacts of achievement:
 
+- Well documented code/notes/proofs that excercise the key ideas.
+- HN publication of a notebook on a key idea - [see karls](http://karlrosaen.com/ml/learning-log/2016-05-17/)
+- Homeworks: TBD - [see karls](http://karlrosaen.com/ml/hw/)
