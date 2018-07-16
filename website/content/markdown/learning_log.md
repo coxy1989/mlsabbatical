@@ -28,6 +28,7 @@ In the first episode we were privy to a chat with: Yan LeCun, Yoshua Benugo and 
 In the second episode we met Ilya Sutskever. It was interesting hearing him explain his suprise that gradient decent is a good optimization algorithm in NNs given the high-dimensional non-convex surfaces of the functions they compute. He linked this to the AI winter, saying that in the 80s/90s people had failed to train deep neural networks for other reasons (badly initialized weights in paticular) and incorrectly concluded that optimizing deep NNS was not a tractable problem. In the third episode the host dug out a relevant paper from Yoshua Bengio’s Lab entitled: "Identifying and attacking the saddle point problem in high-dimensional non-convex optimization", the paper contains empirical and theoretical evidence that saddle points are more frequently the cause of slow training in large NNs than local minima, the paper also proposes some approaches for tackling this problem.
 
 Summary
+
 - A few people to follow on twitter to keep abreast of the moving frontier
 - A couple of earmarked textbooks
 - Interesting podcast, nice to get a historical context, nice technical level; not superficial but doesn't require frequest pausing / taking of notes. Will continue to listen.
