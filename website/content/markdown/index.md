@@ -1,7 +1,8 @@
 <p>
   <a style="padding-right:20px;" href="./index.html">Home</a>
   <a style="padding-right:20px;" href="./curriculum.html">Curriculum</a>
-  <a href="./learning_log.html">Learning Log</a>
+  <a style="padding-right:20px;" href="./learning_log.html">Learning Log</a>
+  <a style="padding-right:20px;" href="./bookshelf.html">Bookshelf</a>
 </p>
 
 ## Home
