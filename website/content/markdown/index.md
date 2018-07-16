@@ -19,17 +19,12 @@ Full time work as a **confident** practitioner of ML in an interesting/worthwhil
 
 ### Time
 
-3 - 6 months full time
-
-*< 3 months full time study not enough for good treatment of foundational material.*
-
-*> 6 months becomes unaffordable + risks going down a rabbit hole.*
-
+3 months
 
 ### Starting point
 
 - 3 years professional software engineering: variety of domains/platforms/languages.
 - Working maths knowledge.
-- Wet feet: Andrew Ng's ML course and course 1 and 2 from Ng’s deep learning specialisation. Nielsens neural nets book + various blogs, tutorials and messing around.
+- ML feet are wet: I've previously completed [Andrew Ng's ML course](https://www.coursera.org/learn/machine-learning) and [course 1](https://www.coursera.org/learn/neural-networks-deep-learning) and [course 2](https://www.coursera.org/learn/deep-neural-network) from Ng’s deep learning specialisation. I've worked though [Nielsen's neural nets book](http://neuralnetworksanddeeplearning.com/) + various blogs, tutorials and [messing around](https://github.com/coxy1989/clj_mnist).
 
 
