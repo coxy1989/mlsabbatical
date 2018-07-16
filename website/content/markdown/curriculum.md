@@ -72,7 +72,7 @@ AOS: [All of statistics](https://www.amazon.co.uk/All-Statistics-Statistical-Inf
 
 I gather that this text is ruthlessly dry, providing consise treatment of the key ideas in a sensible order, with plenty of examples.
 
-I intend to use it as a roadmap and expect to jump out to other resources and do cross referencing for 2nd explanations. I expect to make use of MathMonk's YouTube videos. I've ordered [A first look at rigorous probability theory](https://www.amazon.co.uk/gp/product/9812703713/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) for bedside reading. I'm eying up [The Theory of Probability: explorations and Applications](https://www.amazon.co.uk/Theory-Probability-Explorations-Applications/dp/1107024471) as a second reference text to accompany Wasserman.
+I intend to use it as a roadmap and expect to jump out to other resources and do cross referencing for 2nd explanations. I expect to make use of MathMonk's [Probability Primer](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4). I've ordered [A first look at rigorous probability theory](https://www.amazon.co.uk/gp/product/9812703713/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) for bedside reading. I'm eying up [The Theory of Probability: explorations and Applications](https://www.amazon.co.uk/Theory-Probability-Explorations-Applications/dp/1107024471) as a second reference text to accompany Wasserman.
 
 - AOS: 1. Probability
 - AOS: 2. Random Variables

@@ -31,7 +31,7 @@ Summary
 
 - A few people to follow on twitter to keep abreast of the moving frontier
 - A couple of earmarked textbooks
-- Interesting podcast, nice to get a historical context, nice technical level; not superficial but doesn't require frequest pausing / taking of notes. Will continue to listen.
+- Interesting podcast, nice to get a historical context, nice technical level; not superficial but doesn't require frequent pausing / taking of notes. Will continue to listen.
 
 
 ### Saturday, 14/07/2018
