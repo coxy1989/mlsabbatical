@@ -19,12 +19,11 @@ Full time work as a **confident** practitioner of ML in an interesting/worthwhil
 
 ### Time
 
-3 months
+3 Months Full-Time
 
 ### Starting point
 
 - 3 years professional software engineering: variety of domains/platforms/languages.
 - Working maths knowledge.
 - ML feet are wet: I've previously completed [Andrew Ng's ML course](https://www.coursera.org/learn/machine-learning) and [course 1](https://www.coursera.org/learn/neural-networks-deep-learning) and [course 2](https://www.coursera.org/learn/deep-neural-network) from Ng’s deep learning specialisation. I've worked though [Nielsen's neural nets book](http://neuralnetworksanddeeplearning.com/) + various blogs, tutorials and [messing around](https://github.com/coxy1989/clj_mnist).
-
 
