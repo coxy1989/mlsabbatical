@@ -78,6 +78,9 @@ I intend to use it as a roadmap and expect to jump out to other resources and do
 - AOS: 2. Random Variables
 - AOS: 3. Expectation
 
+Looking through [karl's learning log](http://karlrosaen.com/ml/learning-log/) (see my notes [here]())
+
+
 #### Artefacts of achievement:
 
 - Well documented code/notes/proofs that excercise the key ideas.
