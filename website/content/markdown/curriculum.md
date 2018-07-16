@@ -78,7 +78,7 @@ I intend to use it as a roadmap and expect to jump out to other resources and do
 - AOS: 2. Random Variables
 - AOS: 3. Expectation
 
-Looking through [karl's learning log](http://karlrosaen.com/ml/learning-log/) (see my notes [here]())
+Looking through [karl's learning log](http://karlrosaen.com/ml/learning-log/) (see my notes [here](https://github.com/coxy1989/mlsabbatical/blob/master/notes/01-karl-rosaen-learning-log-notes.md)) it looks like this is the most lonely part; an area where more hand holding may have sped things up. When I'm done with the Stanford Stats course and begin approaching Wasserman I'll have a low threshold for seeking another MOOC type experience to lubricate this track if I percieve that I'm not moving as fast as I should be.
 
 
 #### Artefacts of achievement:
