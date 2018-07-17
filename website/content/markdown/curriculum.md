@@ -7,6 +7,8 @@
 
 ## Curriculum
 
+**UNDER CONSTRUCTION**
+
 This curriculum is inspired by phase one from [Karl Rosen's curriculum](http://karlrosaen.com/ml/)
 
 I like the idea of having two tracks; one applied, one foundational, with a primary linear resource in each.
