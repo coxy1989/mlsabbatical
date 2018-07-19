@@ -17,7 +17,7 @@ I reviewed:
 - Principal Components Analysis
 - Anomaly Detection
 
-In the afternoon I started continued working through chapter 3 of "Python Machine Learning".
+In the afternoon I continued working through chapter 3 of "Python Machine Learning".
 
 ### Wednesday, 18/07/2018
 
