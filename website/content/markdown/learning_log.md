@@ -29,7 +29,7 @@ I reviewed:
 
 In the afternoon I started working through chapter 3 of "Python Machine Learning".
 
-In the evening I had a look at the UCL machine learning masters syllabus and made notes [here]()
+I took a look at the UCL machine learning masters syllabus and made notes [here](https://github.com/coxy1989/mlsabbatical/blob/master/notes/02-ucl-masters-curriculum.md)
 
 ### Tuesday, 17/07/2018
 
