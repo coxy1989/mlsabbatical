@@ -114,19 +114,22 @@ Reading List
 
 #### [COMP0090 - Introduction to Deep Learning](http://www.cs.ucl.ac.uk/current_students/syllabus/compgi/compgi23_introduction_to_deep_learning/) (15 credits)
 
-#### COMP0137 - Machine Vision (15 credits)
+#### [COMP0137 - Machine Vision](http://www.cs.ucl.ac.uk/current_students/syllabus/compgi/compgi14_machine_vision/) (15 credits)
 
-#### COMP0087 - Statistical Natural Language Processing (15 credits)
-
+#### [COMP0087 - Statistical Natural Language Processing](http://www.cs.ucl.ac.uk/current_students/syllabus/compgi/compgi19_statistical_natural_language_processing/) (15 credits)
 
 
 ### Elective Modules
 
-- COMP0118 - Computational Modelling for Biomedical Imaging (15 credits)
-- COMP0114 - Inverse Problems in Imaging (15 credits)
-- COMP0120 - Numerical Optimisation (15 credits)
-- COMP0128 - Robotic Control Theory and Systems (15 credits)
-- COMP0127 - Robotic Systems Engineering (15 credits)
+- [COMP0118 - Computational Modelling for Biomedical Imaging](http://www.cs.ucl.ac.uk/current_students/syllabus/compgv/compgv17_computational_modelling_for_biomedical_imaging/) (15 credits)
+
+- [COMP0114 - Inverse Problems in Imaging](http://www.cs.ucl.ac.uk/current_students/syllabus/compgv/compgv08_inverse_problems_in_imaging/) (15 credits)
+
+- [COMP0120 - Numerical Optimisation](http://www.cs.ucl.ac.uk/current_students/syllabus/compgv/compgv19_numerical_optimisation/) (15 credits)
+
+- [COMP0128 - Robotic Control Theory and Systems](http://www.cs.ucl.ac.uk/current_students/syllabus/compgx/compgx02_robotic_control_theory_and_systems/) (15 credits)
+
+- [COMP0127 - Robotic Systems Engineering](http://www.cs.ucl.ac.uk/current_students/syllabus/compgx/compgx01_robotic_systems_engineering/) (15 credits)
 
 Choose a minimum of 15 credits and a maximum of 30 credits from these elective modules.
 
