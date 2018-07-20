@@ -1,8 +1,8 @@
-week 1
+# Week 1
 
 14/3/2016 - Stanford stats course - “Examining Distributions” + notebook
 
-? 15/3/2016 - Stanford stats course - “Examining Distributions” + notebook
+?15/3/2016 - Stanford stats course - “Examining Distributions” + notebook
 
 16/03/2016 - Stanford stats course - “Examining Distributions” + notebook 
 
@@ -10,15 +10,15 @@ week 1
 
 18/03/2016 -  Python Machine Learning - Chap 2
 
-output
+## Output
 
-notebook for stats - http://nbviewer.jupyter.org/github/krosaen/ml-study/blob/master/basic-stats/nba-games-net-rating-boxplots/NbaTeamGameNetRatingsPlots.ipynb
+- [Notebook](http://nbviewer.jupyter.org/github/krosaen/ml-study/blob/master/basic-stats/nba-games-net-rating-boxplots/NbaTeamGameNetRatingsPlots.ipynb) demonstrating principles from Standford stats course
 
-notebook from PML - http://nbviewer.jupyter.org/github/krosaen/ml-study/blob/master/python-ml-book/ch02/ch02.ipynb
+- [Notebook chapter 2](http://nbviewer.jupyter.org/github/krosaen/ml-study/blob/master/python-ml-book/ch02/ch02.ipynb) for code from PML
 
-notes from PML chaps
+- Notes from PML chapters
 
-week 2
+# Week 2
 
 21/03/2016 - Stanford stats - “Examining relationships”
 ?22/03/2016 
@@ -26,29 +26,25 @@ week 2
 24/03/2016 - “Python for Data Analysis” improves notebooks, PML chap 2, calculus refreshed with some chain rule exercises 
 ?25/03/2016
 
-output
+## Output
 
-notebook for stats - http://nbviewer.jupyter.org/github/krosaen/ml-study/blob/master/basic-stats/nba-player-stats/NBA%20Player%20Stats.ipynb
+- [Notebook](http://nbviewer.jupyter.org/github/krosaen/ml-study/blob/master/basic-stats/nba-player-stats/NBA%20Player%20Stats.ipynb) demonstrating principles from Standford stats course
 
-?python code for PML
+- Improves [notebook chapter 2](http://nbviewer.jupyter.org/github/krosaen/ml-study/blob/master/python-ml-book/ch02/ch02.ipynb) for code from PML
 
-week 3
+# Week 3
 
 ?28/03/2016
 29/03/2016 - PML chap 2
 30/03/2016 - PML chap 2 - feature scaling
 
-output
+## Output
 
-python code for PML - https://github.com/krosaen/ml-study/blob/master/python-ml-book/ch02/adeline.py
+- [python code](https://github.com/krosaen/ml-study/blob/master/python-ml-book/ch02/adeline.py) for code from PML
 
+# 4 Weeks are missing from the learning log here, not sure what he got up to.
 
-?week 4
-?week 5
-?week 6
-?week 7
-
-week 8
+# Week 4
 
 ?25/04/2016
 ?26/04/2016
@@ -56,13 +52,13 @@ week 8
 28/04/2016 - Stanford Stats - “Probability intro” + python notebook
 29/04/2016 - Stanford Stats - “Finding probability of events”
 
-output
+## Output
 
-notes from stats chaps
+- notes from stats chaps
 
-notebook for stats chaps - http://karlrosaen.com/ml/notebooks/birthday-problem/
+- [Notebook](http://karlrosaen.com/ml/notebooks/birthday-problem/) demonstrating principles from Standford stats course
 
-week 9
+# Week 5
 
 02/05 - Stanford Stats / Wasserman / Norvig - Random Variables
 03/05 - Stanford Stats / Wasserman / Norvig - Random Variables + reviews curriculum
@@ -71,15 +67,15 @@ week 9
 ?06/05 
 sat, 07/05 - skims All of Statistics chapters
 
-output
+## Output
 
-notes about random variables
+- Notes about random variables
 
-homework from all of statistics book - http://karlrosaen.com/ml/hw/all-of-statistics-ch1-problem-1/
+- [Homework chapter 1](http://karlrosaen.com/ml/hw/all-of-statistics-ch1-problem-1/) from all of statistics book 
 
-notes about measure theory
+- Notes about measure theory
 
-week 10
+# Week 6
 
 09/05 - All of stats homework + internet research for resources.
 10/05 - talking machines warmup podcast + All of stats homework  + PML chap 2 finish
@@ -87,17 +83,15 @@ week 10
 12/05 - All of stats homework + PML chap 3
 ?13/05
 
+## Output
 
-output
+- Continues [homework chapter 1](http://karlrosaen.com/ml/hw/all-of-statistics-ch1-problem-1/) from all of statistics book
 
-homework from all of statistics book - http://karlrosaen.com/ml/hw/all-of-statistics-ch1-problem-1/
+- Continues [notebook chapter 2](http://nbviewer.jupyter.org/github/krosaen/ml-study/blob/master/python-ml-book/ch02/ch02.ipynb) for PML code
 
-notebook for PML code - http://nbviewer.jupyter.org/github/krosaen/ml-study/blob/master/python-ml-book/ch02/ch02.ipynb
+- Starts [notebook chapter 3](https://github.com/krosaen/ml-study/blob/master/python-ml-book/ch03/ch03.ipynb) for PML code
 
-notebook for PML code - https://github.com/krosaen/ml-study/blob/master/python-ml-book/ch03/ch03.ipynb
-
-
-week 11
+# Week 7
 
 16/05 - All of stats homework + PML chap 3 + notebook on the sigmoid function
 17/05 - PML chap 3 - implementing logistic reg from scratch, posts sigmoid fn notebook to HN.
@@ -105,15 +99,14 @@ week 11
 19/05 - PML chap 3 - implementing logistic reg from scratch
 20/05 - talking machines warmup podcast -> master algorithm -> YouTube video (karl’s “conference day“).
 
+## Output
 
-output
+- Continues [notebook](http://karlrosaen.com/ml/notebooks/logistic-regression-why-sigmoid/) on the sigmoid function
 
-notebook on the sigmoid function - http://karlrosaen.com/ml/notebooks/logistic-regression-why-sigmoid/
-
-homework from all of statistics book - http://karlrosaen.com/ml/hw/all-of-statistics-ch1-problem-1/
+- Continues [homework chapter 1](http://karlrosaen.com/ml/hw/all-of-statistics-ch1-problem-1/) from all of statistics book
 
 
-week 12
+# Week 8
 
 ?23/5
 24/5 - Random variables (MathMonk + internet + All of stats) + Chap 3 PML (regularization, SVMs, decision trees, random forest) 
@@ -121,26 +114,26 @@ week 12
 26/5 - Chap 3 PML (KNN) + Kaggle Titanic start
 ?27/5
 
-output
+## Output
 
-notes on PML and stats (Random vars) - http://karlrosaen.com/ml/learning-log/2016-05-24/
-notes on stats (prob density/mass fns) - http://karlrosaen.com/ml/learning-log/2016-05-25/
-titanic kaggle notebook - http://nbviewer.jupyter.org/github/krosaen/ml-study/blob/master/kaggle/titanic/titanic.ipynb
+- [Notes](http://karlrosaen.com/ml/learning-log/2016-05-24/) on Random Variables from stats work and PML
+- [Notes](http://karlrosaen.com/ml/learning-log/2016-05-25/) on Probabiluty Density and mass functions from stats work.
+- Titanic kaggle [notebook](http://nbviewer.jupyter.org/github/krosaen/ml-study/blob/master/kaggle/titanic/titanic.ipynb)
 
-week 13
+# Week 9
 
 30/5 - Titanic kaggle  + PML 4
 31/5 - Titanic gaggle + PML 4
 1/6 - Titanic kaggle  + PML 4 + Python for Data Analysts + pandas
 2/6 - PML 4
 
-output
+## Output
 
-kaggle notebook
-notes on PML topics + kaggle
+- Continues Titanic kaggle [notebook](http://nbviewer.jupyter.org/github/krosaen/ml-study/blob/master/kaggle/titanic/titanic.ipynb)
+- Notes on PML topics + kaggle life
 
 
-week 14
+# Week 10
 
 6/6 - all of stats chapter 2 homework (random variables), stats: marginal distributions and expectation (Wassserman chapter 3 + mathMonk)
 ?7/6
@@ -148,14 +141,14 @@ week 14
 9/6 - notebook on chap 2 topic
 10/6 - PML chap 5 - PCA / dim reduction: notes + a notebook
 
-output
+# Output
 
 stats notes on chap 2 topics
 notebook on stats topics  - http://karlrosaen.com/ml/notebooks/simulating-random-variables/
 notes + notebook on PCA
 
 
-week 15
+# Week 11
 
 ?13/6
 14/6 - Kaggle contest 2 -  forest cover
@@ -163,79 +156,78 @@ week 15
 ?16/6 - PML 6 + forest cover
 ?17/6 - PML 6 + forest cover
 
-output
+## Output
 
-kaggle notebook - http://nbviewer.jupyter.org/github/krosaen/ml-study/blob/master/kaggle/forest-cover-type-prediction/forest-cover-type-prediction.ipynb
+- Forest Cover kaggle [notebook](http://nbviewer.jupyter.org/github/krosaen/ml-study/blob/master/kaggle/forest-cover-type-prediction/forest-cover-type-prediction.ipynb)
 
 
-week 16
+# Week 12
 
 20/6 - v nice ‘pipelines’ write up + kaggle 
 ?21/6
 22/6 - Wasserman chap 3 + homework
 23/6 - skips to chap 12 PML 
 
-output
+## Output
 
-pipelines writeup - http://karlrosaen.com/ml/learning-log/2016-06-20/
-ch 3 Wassserman homework - http://karlrosaen.com/ml/hw/all-of-statistics-ch3-problem-02/
+- [Notes](http://karlrosaen.com/ml/learning-log/2016-06-20/) on pipelines
+- [Homework chapter 3](http://karlrosaen.com/ml/hw/all-of-statistics-ch3-problem-02/) all of statistics book 
 
-week 17
+# Week 13
 
 27/06 - Wasserman chap 3
 ?holiday
 
-output
+## Output
 
-stats write up -http://karlrosaen.com/ml/learning-log/2016-06-27/
+- [Notes](http://karlrosaen.com/ml/learning-log/2016-06-27/) on stats work
 
-?week 18 - holiday
-
-week 19 
+# A Couple of weeks off on holiday
 
 15/7 (fri) - Wasserman chap 2 homework + “automatic data science” side project
 
-output
+## Output
 
-homework
+- [Homework chapter 2](http://karlrosaen.com/ml/hw/) all of statistics book.
 
-?week 20 - holiday
+# Week 14
 
-week 21
 25/7 - probability homework + “automatic data science” side project
 ?26/7
 ?27/7
 28/7 - probability homework + “automatic data science” side project
 ?29/7
 
-output
+## Output
 
-homework - http://karlrosaen.com/ml/hw/all-of-statistics-chapter-2-independence-of-rvs-associated-with-coin-flips/
+- [Homework chapter 2](http://karlrosaen.com/ml/hw/all-of-statistics-chapter-2-independence-of-rvs-associated-with-coin-flips/)
 
-week 22
+
+# Week 15
+
 ?1/8
 2/8 - preparing homework + “automatic data science” side project
 ?3/8
 4/8 - chap 3 Wasserman homework + “automatic data science” side project
 ?5/8
 
-output
+## Output
 
-homework
+- [Homework chapter 3](http://karlrosaen.com/ml/hw/) all of statistics book.
 
-week 23
+# Week 16
 
 ?8/8
 9/8 - chap 3 Wasserman homework + “automatic data science” side project
 ?10/8
-11/8 - chap 3 Wasserman + homework 
+11/8 - chap 3 Wasserman + homework
 12/8
 
-output
+## Output
 
-homework
+- [Homework chapter 3](http://karlrosaen.com/ml/hw/) all of statistics book.
 
-week 24
+# Week 17
 
 15/8 - Chap 3 Wasserman + homework
 ?16/8
@@ -243,27 +235,27 @@ week 24
 ?18/8
 19/8 - MathMonk machine learning playlist - notes + problems
 
-output
+## Output
 
-homework
-math monk lecture notes
+- [Homework chapter 3](http://karlrosaen.com/ml/hw/) all of statistics book.
+- Notes on MathMonk lectures
 
-week 25
+# Week 18
 
 ?22/8
 23/8  - Chap 4 Wasserman
-24/8 - Kaggle contest - Predicting RedHat buzz value + “automatic data science” side project
+24/8 - Kaggle contest - Predicting RedHat bizz value + “automatic data science” side project
 ?25/8
 26/8 - “automatic data science” side project
 
-output
+## Output
 
-kaggle contest notebook
+- Predicting RedHat bizz value notebook
 
-week 26
+# Week 19
 
 29/8 - Chap 4 Wasserman
 30/8 - Kaggle contest - Predicting RedHat buzz value
 
 
-TAKES JOB ON 5/9
+**TAKES JOB ON 5/9**
