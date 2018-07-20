@@ -1,7 +1,8 @@
 ## [UCL Masters](http://www.cs.ucl.ac.uk/prospective_students/msc_machine_learning/)
 
-[module list](http://www.cs.ucl.ac.uk/prospective_students/msc_machine_learning/)
-[module directory](http://www.cs.ucl.ac.uk/current_students/syllabus/)
+- [module list](http://www.cs.ucl.ac.uk/prospective_students/msc_machine_learning/)
+
+- [module directory](http://www.cs.ucl.ac.uk/current_students/syllabus/)
 
 ### Compulsory / Core Modules
 
