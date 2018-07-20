@@ -1,6 +1,6 @@
 # [CMU masters](https://www.ml.cmu.edu/academics/ms-curriculum.html)
 
-This is a nice resource, the module sites have lecture notes, (recorded lectures), homeworks / practice papers and their solutions.
+This is a nice resource, the module sites have lecture notes, homeworks / practice papers and their solutions. Some have recorded lectures.
 
 ## Core Modules
 

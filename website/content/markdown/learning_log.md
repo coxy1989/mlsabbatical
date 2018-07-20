@@ -9,6 +9,17 @@
 
 Check out the Kanban [here](https://github.com/coxy1989/mlsabbatical/projects/1)
 
+### Friday, 20/07/2018
+
+I reviewed:
+
+- Recommender systems / low rank matrix factorization
+- Batch / Mini Batch / Stocastic GD
+
+Which concluded my review of my notes from Andrew Ng's ML course.
+
+I reviewed the curricula from some masters courses and made notes [here](https://github.com/coxy1989/mlsabbatical/tree/master/notes)
+
 ### Thursday, 19/07/2018
 
 I reviewed:
@@ -33,7 +44,7 @@ I took a look at the UCL machine learning masters syllabus and made notes [here]
 
 ### Tuesday, 17/07/2018
 
-Revisited my notes from Andrew Ng's course and cross referenced some topics with some more advanced resources. I found the book I was a little afraid of - Bishop's PRML is well written and accessible.
+Revisited my notes from Andrew Ng's course and cross referenced some topics with some more advanced resources. I found the book I was a little afraid of - Bishop's PRML is challenging but well written and accessible.
 
 I reviewed:
 
@@ -52,7 +63,7 @@ Morning working on my [curriculum](https://www.coxy1989.com/curriculum.html). Ac
 
 I hope to get a first draft out today and solicit some feedback. 
 
-I met up with a colleague in the afternoon. He's interested in pursuing a machine learning sabbatical of his own which is fantastic news. After talking for a few hours I'm convinced that I should take a slightly more measured approach to planning my curriculum. I'm going to take a step back and explore the space of possible curriculae a little further before seeking wider feedback. I plan to systematicaly review curiculae offered from masters programmes and look at the requirements on ML job listings. I'll also continue to thumb through more resources and feel out what looks promising. I'm going to meet up with said colleague early next week, we intend compare notes on what to include in what we plan on learning, we've agreed it makes sense to share a set of 'core modules' but to have the freedom to also pursue 'optional modules' so that we're not shackled to eachother and can still pursue interest.
+I met up with a colleague in the afternoon. He's interested in pursuing a machine learning sabbatical of his own which is fantastic news. After talking for a few hours I'm convinced that I should take a slightly more measured approach to planning my curriculum. I'm going to take a step back and explore the space of possible curricula a little further before seeking wider feedback. I plan to systematicaly review curiculae offered from masters programmes and look at the requirements on ML job listings. I'll also continue to thumb through more resources and feel out what looks promising. I'm going to meet up with said colleague early next week, we intend compare notes on what to include in what we plan on learning, we've agreed it makes sense to share a set of 'core modules' but to have the freedom to also pursue 'optional modules' so that we're not shackled to eachother and can still pursue interest.
 
 I'm going to spend the rest of this week engaging in the following activities:
 
