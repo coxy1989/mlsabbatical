@@ -1,8 +1,8 @@
-## [Imperial Masters](http://www.imperial.ac.uk/computing/prospective-students/courses/pg/specialist-degrees/ml/)
+# [Imperial Masters](http://www.imperial.ac.uk/computing/prospective-students/courses/pg/specialist-degrees/ml/)
 
-### Compulsory
+## Compulsory
 
-#### [Mathematics for Machine Learning](http://www.imperial.ac.uk/computing/current-students/courses/496/)
+### [Mathematics for Machine Learning](http://www.imperial.ac.uk/computing/current-students/courses/496/)
 
 - Bayesian Linear Regression
 - Vector Calculus (e.g., partial derivatives, chain rule, Jacobian)
@@ -34,42 +34,42 @@
 - Linear Algebra from [Mathematical Methods CO-145](http://wp.doc.ic.ac.uk/sml/teaching/co-145-mathematical-methods-autumn-2016/)
 - The contents of [Statistics 245](http://www.imperial.ac.uk/computing/current-students/courses/245/).
 
-#### [Short Introduction to Prolog](http://www.imperial.ac.uk/computing/current-students/courses/534/)
+### [Short Introduction to Prolog](http://www.imperial.ac.uk/computing/current-students/courses/534/)
 
-#### Individual Project
+### Individual Project
 
-### Optional
+## Optional
 
 Choose the equivalent of between five and eight full courses from the list below. Courses whose number ends in H are half courses.
 
-#### [Computer Vision](http://www.imperial.ac.uk/computing/current-students/courses/316/)
+### [Computer Vision](http://www.imperial.ac.uk/computing/current-students/courses/316/)
 
-#### [Robotics](http://www.imperial.ac.uk/computing/current-students/courses/333/)
+### [Robotics](http://www.imperial.ac.uk/computing/current-students/courses/333/)
 
-#### [Reinforcement Learning: Learning in Autonomous Systems (HALF)](http://www.imperial.ac.uk/computing/current-students/courses/424H/)
+### [Reinforcement Learning: Learning in Autonomous Systems (HALF)](http://www.imperial.ac.uk/computing/current-students/courses/424H/)
 
-#### [Computational Optimisation](http://www.imperial.ac.uk/computing/current-students/courses/477/)
+### [Computational Optimisation](http://www.imperial.ac.uk/computing/current-students/courses/477/)
 
-#### [Modal Logic](http://www.imperial.ac.uk/computing/current-students/courses/499H/)
+### [Modal Logic](http://www.imperial.ac.uk/computing/current-students/courses/499H/)
 
-#### [Prolog](http://www.imperial.ac.uk/computing/current-students/courses/531/)
+### [Prolog](http://www.imperial.ac.uk/computing/current-students/courses/531/)
 
-#### [Logic-Based Learning](http://www.imperial.ac.uk/computing/current-students/courses/304/)
+### [Logic-Based Learning](http://www.imperial.ac.uk/computing/current-students/courses/304/)
 
-#### [Introduction to Machine Learning](http://www.imperial.ac.uk/computing/current-students/courses/395/)
+### [Introduction to Machine Learning](http://www.imperial.ac.uk/computing/current-students/courses/395/)
 
-#### Machine Learning for imaging
+### Machine Learning for imaging
 
-#### [Advanced Robotics](http://www.imperial.ac.uk/computing/current-students/courses/433/)
+### [Advanced Robotics](http://www.imperial.ac.uk/computing/current-students/courses/433/)
 
-#### Deep Learning
+### Deep Learning
 
-#### [Probabilistic Inference](http://www.imperial.ac.uk/computing/current-students/courses/493/)
+### [Probabilistic Inference](http://www.imperial.ac.uk/computing/current-students/courses/493/)
 
-#### Temporal and Epistemic Logic (Half)
+### Temporal and Epistemic Logic (Half)
 
 
-### Bonus
+## Bonus
 
 Choose the equivalent of between zero and three full courses from the list below. Courses whose number ends in H are half courses
 
