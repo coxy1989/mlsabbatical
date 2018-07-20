@@ -23,4 +23,7 @@ I'll keep a record of the books that I'm using and those which may become useful
 | Machine Learning: A Probabilistic Perspective  | Kevin Murphy   | NO  |  NO |
 | An Elementary Introduction to Statistical Learning Theory  | Sanjeev Kulkarni   | NO  |  NO |
 | Fluent Python  | Luciano Ramalho   | NO  |  NO |
+| Bayesian Reasoning and Machine Learning  | David Barber   | NO  |  NO |
+
+ 
 

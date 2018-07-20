@@ -1,4 +1,3 @@
-
 # [Cambridge Masters](http://www.mlsalt.eng.cam.ac.uk/Main/CoreModules)
 
 ## Core Modules
