@@ -63,13 +63,13 @@ Morning working on my [curriculum](https://www.coxy1989.com/curriculum.html). Ac
 
 I hope to get a first draft out today and solicit some feedback. 
 
-I met up with a colleague in the afternoon. He's interested in pursuing a machine learning sabbatical of his own which is fantastic news. After talking for a few hours I'm convinced that I should take a slightly more measured approach to planning my curriculum. I'm going to take a step back and explore the space of possible curricula a little further before seeking wider feedback. I plan to systematicaly review curiculae offered from masters programmes and look at the requirements on ML job listings. I'll also continue to thumb through more resources and feel out what looks promising. I'm going to meet up with said colleague early next week, we intend compare notes on what to include in what we plan on learning, we've agreed it makes sense to share a set of 'core modules' but to have the freedom to also pursue 'optional modules' so that we're not shackled to eachother and can still pursue interest.
+I met up with a colleague in the afternoon. He's interested in pursuing a machine learning sabbatical of his own which is fantastic news. After talking for a few hours I'm convinced that I should take a slightly more measured approach to planning my curriculum. I'm going to take a step back and explore the space of possible curricula a little further before seeking wider feedback. I plan to systematicaly review curricula offered from masters programmes and look at the requirements on ML job listings. I'll also continue to thumb through more resources and feel out what looks promising. I'm going to meet up with said colleague early next week, we intend compare notes on what to include in what we plan on learning, we've agreed it makes sense to share a set of 'core modules' but to have the freedom to also pursue 'optional modules' so that we're not shackled to eachother and can still pursue interest.
 
 I'm going to spend the rest of this week engaging in the following activities:
 
 - Revisiting my notes from Andrew Ng's Machine Learning course.
 - Cross referencing the topics is the Andrew Ng course with some of the resources I have discovered and feeling out which are suitable.
-- Reviewing curiculae of masters programmes/
+- Reviewing curricula of masters programmes.
 - Exploring core and optional modules for inclusion in the curriculum.
 
 
