@@ -21,9 +21,13 @@
 # Week 2
 
 21/03/2016 - Stanford stats - “Examining relationships”
+
 ?22/03/2016 
+
 23/03/2016 - Stanford stats notebook on two var analysis
+
 24/03/2016 - “Python for Data Analysis” improves notebooks, PML chap 2, calculus refreshed with some chain rule exercises 
+
 ?25/03/2016
 
 ## Output
@@ -35,7 +39,9 @@
 # Week 3
 
 ?28/03/2016
+
 29/03/2016 - PML chap 2
+
 30/03/2016 - PML chap 2 - feature scaling
 
 ## Output
@@ -47,9 +53,13 @@
 # Week 4
 
 ?25/04/2016
+
 ?26/04/2016
+
 27/04/2016 - Stanford Stats - “Producing Data - Sampling + Designing Studies“
+
 28/04/2016 - Stanford Stats - “Probability intro” + python notebook
+
 29/04/2016 - Stanford Stats - “Finding probability of events”
 
 ## Output
@@ -61,10 +71,15 @@
 # Week 5
 
 02/05 - Stanford Stats / Wasserman / Norvig - Random Variables
+
 03/05 - Stanford Stats / Wasserman / Norvig - Random Variables + reviews curriculum
+
 04/05 - Internet Grokking - Measure Theory
+
 05/05 - MathMonk probability + All of stats  chapter 1 homework start
+
 ?06/05 
+
 sat, 07/05 - skims All of Statistics chapters
 
 ## Output
@@ -78,9 +93,13 @@ sat, 07/05 - skims All of Statistics chapters
 # Week 6
 
 09/05 - All of stats homework + internet research for resources.
+
 10/05 - talking machines warmup podcast + All of stats homework  + PML chap 2 finish
+
 11/05 - talking machines warmup podcast +  All of stats homework + PML chap 3
+
 12/05 - All of stats homework + PML chap 3
+
 ?13/05
 
 ## Output
@@ -94,9 +113,13 @@ sat, 07/05 - skims All of Statistics chapters
 # Week 7
 
 16/05 - All of stats homework + PML chap 3 + notebook on the sigmoid function
+
 17/05 - PML chap 3 - implementing logistic reg from scratch, posts sigmoid fn notebook to HN.
+
 18/05 - All of stats homework chapter 2 + MathMonk probability videos/ problem.
+
 19/05 - PML chap 3 - implementing logistic reg from scratch
+
 20/05 - talking machines warmup podcast -> master algorithm -> YouTube video (karl’s “conference day“).
 
 ## Output
@@ -109,9 +132,13 @@ sat, 07/05 - skims All of Statistics chapters
 # Week 8
 
 ?23/5
+
 24/5 - Random variables (MathMonk + internet + All of stats) + Chap 3 PML (regularization, SVMs, decision trees, random forest) 
+
 25/5 - Random variables / prob mass/density fns (MathMonk + internet + All of stats) +  reviews math approach (avoid rabbit holing)
+
 26/5 - Chap 3 PML (KNN) + Kaggle Titanic start
+
 ?27/5
 
 ## Output
@@ -123,8 +150,11 @@ sat, 07/05 - skims All of Statistics chapters
 # Week 9
 
 30/5 - Titanic kaggle  + PML 4
+
 31/5 - Titanic gaggle + PML 4
+
 1/6 - Titanic kaggle  + PML 4 + Python for Data Analysts + pandas
+
 2/6 - PML 4
 
 ## Output
@@ -136,36 +166,47 @@ sat, 07/05 - skims All of Statistics chapters
 # Week 10
 
 6/6 - all of stats chapter 2 homework (random variables), stats: marginal distributions and expectation (Wassserman chapter 3 + mathMonk)
+
 ?7/6
+
 8/6 -works through examples in chap 2 all of stats
+
 9/6 - notebook on chap 2 topic
+
 10/6 - PML chap 5 - PCA / dim reduction: notes + a notebook
 
 # Output
 
-stats notes on chap 2 topics
-notebook on stats topics  - http://karlrosaen.com/ml/notebooks/simulating-random-variables/
-notes + notebook on PCA
+- Stats notes on chap 2 topics
 
+- [Notebook](http://karlrosaen.com/ml/notebooks/simulating-random-variables/) on stats topics
+
+- Notes + notebook on PCA
 
 # Week 11
 
 ?13/6
+
 14/6 - Kaggle contest 2 -  forest cover
+
 ?15/6 - PML 6 + forest cover
+
 ?16/6 - PML 6 + forest cover
+
 ?17/6 - PML 6 + forest cover
 
 ## Output
 
 - Forest Cover kaggle [notebook](http://nbviewer.jupyter.org/github/krosaen/ml-study/blob/master/kaggle/forest-cover-type-prediction/forest-cover-type-prediction.ipynb)
 
-
 # Week 12
 
 20/6 - v nice ‘pipelines’ write up + kaggle 
+
 ?21/6
+
 22/6 - Wasserman chap 3 + homework
+
 23/6 - skips to chap 12 PML 
 
 ## Output
@@ -176,6 +217,7 @@ notes + notebook on PCA
 # Week 13
 
 27/06 - Wasserman chap 3
+
 ?holiday
 
 ## Output
@@ -193,9 +235,13 @@ notes + notebook on PCA
 # Week 14
 
 25/7 - probability homework + “automatic data science” side project
+
 ?26/7
+
 ?27/7
+
 28/7 - probability homework + “automatic data science” side project
+
 ?29/7
 
 ## Output
@@ -206,9 +252,13 @@ notes + notebook on PCA
 # Week 15
 
 ?1/8
+
 2/8 - preparing homework + “automatic data science” side project
+
 ?3/8
+
 4/8 - chap 3 Wasserman homework + “automatic data science” side project
+
 ?5/8
 
 ## Output
@@ -218,9 +268,13 @@ notes + notebook on PCA
 # Week 16
 
 ?8/8
+
 9/8 - chap 3 Wasserman homework + “automatic data science” side project
+
 ?10/8
+
 11/8 - chap 3 Wasserman + homework
+
 12/8
 
 ## Output
@@ -230,9 +284,13 @@ notes + notebook on PCA
 # Week 17
 
 15/8 - Chap 3 Wasserman + homework
+
 ?16/8
+
 ?17/8
+
 ?18/8
+
 19/8 - MathMonk machine learning playlist - notes + problems
 
 ## Output
@@ -243,9 +301,13 @@ notes + notebook on PCA
 # Week 18
 
 ?22/8
+
 23/8  - Chap 4 Wasserman
+
 24/8 - Kaggle contest - Predicting RedHat bizz value + “automatic data science” side project
+
 ?25/8
+
 26/8 - “automatic data science” side project
 
 ## Output
@@ -255,7 +317,7 @@ notes + notebook on PCA
 # Week 19
 
 29/8 - Chap 4 Wasserman
-30/8 - Kaggle contest - Predicting RedHat buzz value
 
+30/8 - Kaggle contest - Predicting RedHat buzz value
 
 **TAKES JOB ON 5/9**
