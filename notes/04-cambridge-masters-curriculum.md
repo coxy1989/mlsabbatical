@@ -1,5 +1,16 @@
 # [Cambridge Masters](http://www.mlsalt.eng.cam.ac.uk/Main/CoreModules)
 
+## Summary
+
+Complusory broad coverage via: `Introduction to ML`, `Probabilistic ML` and `Advanced ML` modules.
+
+Compulsory more specialised modules via: `Deep Learning and Structured Data` and `Weighted Automata Modules.`, `Reinforcement Learning and Decision Making`, `Machine Translation`.
+
+Focus on speech, unsual high number of compulsory modules on the subject: `Speech Recognition`, `Speech and Language Processing Applications`, `Statistical Spoken Dialogue Systems`, `Statistical Speech Synthesis`
+
+
+Student selects either Computer vision or NLP.
+
 ## Core Modules
 
 N.B. One module is equivalent to a 16 lecture taught course, possibly with supervised laboratory and practical exercises in place of lectures. Students will pick either Computer Vision or Natural Language Processing as their core module option.
@@ -10,6 +21,15 @@ N.B. One module is equivalent to a 16 lecture taught course, possibly with super
 ### [Deep Learning and Structured Data (4F10)](http://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iib-4f10-deep-learning-structured-data-2017-18)
 
 ### [Probabilistic Machine Learning (4F13)](http://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iib-4f13-probabilistic-machine-learning-2017-18)
+
+Slides and courseworks avaiable on module website as well as handy cribsheets that are good for checkboxing prerequiste maths.
+
+Recommended reference books:
+
+- Kevin P. Murphy Machine Learning: a Probabilistic Perspective, the MIT Press (2012).
+- David Barber Bayesian Reasoning and Machine Learning, Cambridge University Press (2012), avaiable freely on the web.
+- Christopher M. Bishop Pattern Recognition and Machine Learning. Springer (2006)
+- David J.C. MacKay Information Theory, Inference, and Learning Algorithms, Cambridge University Press (2003), available freely on the web.
 
 ### Speech Recognition
 

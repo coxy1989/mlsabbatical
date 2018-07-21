@@ -1,5 +1,11 @@
 # [Imperial Masters](http://www.imperial.ac.uk/computing/prospective-students/courses/pg/specialist-degrees/ml/)
 
+## Summary
+
+Compulsory `Mathematics for Machine Learning` module with highlights from calculus, linear algebra and probability/statistics.
+
+Student selected modules including: Reinforcement learning, machine vision, robotics
+
 ## Compulsory
 
 ### [Mathematics for Machine Learning](http://www.imperial.ac.uk/computing/current-students/courses/496/)

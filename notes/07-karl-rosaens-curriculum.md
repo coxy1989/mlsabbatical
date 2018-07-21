@@ -2,7 +2,15 @@
 
 Karl has made notes on his curriculum [here ](http://karlrosaen.com/ml/). I looked through his [learning log](http://karlrosaen.com/ml/learning-log/) and made [notes](https://github.com/coxy1989/mlsabbatical/blob/master/notes/01-karl-rosaen-learning-log-notes.md).
 
-The "Modules" he took down were:
+## Summary
+
+An "applied" and a "foundational" track.
+
+Python Machine Learning and kaggle contests for the applied track.
+
+Standford Prob/Stats course (entry level) followed by the CMU prob/stats course (Intermediate level).
+
+## Modules
 
 ## [Stanford Probability and Statistics](https://lagunita.stanford.edu/courses/OLI/ProbStat/Open/about)
 

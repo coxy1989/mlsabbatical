@@ -4,6 +4,27 @@
 
 - [module directory](http://www.cs.ucl.ac.uk/current_students/syllabus/)
 
+## Summary
+
+Compulsory `Supervised Learning` module gives a tour a dozen or so of the big models - recommended companion text for this module is: [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://www.amazon.co.uk/Elements-Statistical-Learning-Prediction-Statistics-ebook/dp/B00475AS2E)
+
+
+Compulsory to take either `Graphical Models` or `Probabilistic and Unsupervised Learning`. They both share:
+
+- Emphasis on probabilistic / statistical modelling
+- Bayesian Statistics
+- Hidden Markov models
+- Junction Trees
+
+Companion texts are: 
+
+- [Bayesian reasoning and machine learning](https://www.amazon.co.uk/Bayesian-Reasoning-Machine-Learning-Barber/dp/0521518148) - David Barber 2012 (The module is instructed by the author and follows the book very closely)
+
+- [Probabilistic and Unsupervised Learning - Information theory, inference, and learning algorithms](https://www.amazon.co.uk/Information-Theory-Inference-Learning-Algorithms/dp/0521642981)
+
+
+Student selected modules including: Reinforcement learning, machine vision, NLP, robotics
+
 ### Compulsory / Core Modules
 
 #### COMP0078 - [Supervised Learning](http://www.cs.ucl.ac.uk/current_students/syllabus/compgi/compgi01_supervised_learning/) (15 credits)
@@ -133,4 +154,5 @@ Reading List
 - [COMP0127 - Robotic Systems Engineering](http://www.cs.ucl.ac.uk/current_students/syllabus/compgx/compgx01_robotic_systems_engineering/) (15 credits)
 
 Choose a minimum of 15 credits and a maximum of 30 credits from these elective modules.
+
 

@@ -1,5 +1,24 @@
 # [Edinburgh Masters](http://www.mlsalt.eng.cam.ac.uk/Main/CoreModules)
 
+## Summary
+
+This is an "Artificial Intelligence" Masters.
+
+There are no compulsory modules that deliver content.
+
+Student selects all content modules, there is broad coverage in the modules available so this programme is wide open.
+
+The "fat modules" (by number of credits) are:
+
+- Introductory Applied Machine Learning
+- Machine Learning and Pattern Recognition
+- Probabilistic Modelling and Reasoning
+- Robotics: Science and Systems
+- Robot Learning and Sensorimotor Control
+- Principles and Design of IoT Systems
+- Accelerated Natural Language Processing
+- Natural Language Understanding, Generation, and Machine Translation
+
 ## Compulsory
 
 - [Dissertation](http://www.drps.ed.ac.uk/18-19/dpt/cxinfr11077.htm)

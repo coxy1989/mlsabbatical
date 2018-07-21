@@ -2,6 +2,12 @@
 
 This is a nice resource, the module sites have lecture notes, homeworks / practice papers and their solutions. Some have recorded lectures.
 
+## Summary
+
+Three compulsory modules: one `intro to ML` module that gives a tour of the big models / techniques (reference text is Bishop's PRML) then two applied probability/stats modules - the second building on the first.
+
+Student selected modules including: `Reinforcement Learning`, `Deep Learning` and `Data mining`.
+
 ## Core Modules
 
 MS students take all three Set Core courses:
@@ -45,6 +51,6 @@ Students take their choice of two Menu Core courses:
 
 The 12-unit Data Analysis Course focuses on applying machine learning techniques to real-world data, letting students explore how to use incomplete and imperfect data sets to gain useful results.
 
-##Electives and Research
+## Electives and Research
 
 Students take three electives, which can be any 12-unit course from the School of Computer Science or Department of Statistics & Data Science at the 700-level or above, including additional courses from the Menu Core. Additional examples of courses of interest can be found on the Master's Electives page.
