@@ -6,7 +6,7 @@ Complusory broad coverage via: `Introduction to ML`, `Probabilistic ML` and `Adv
 
 Compulsory more specialised modules via: `Deep Learning and Structured Data` and `Weighted Automata Modules.`, `Reinforcement Learning and Decision Making`, `Machine Translation`.
 
-Focus on speech, unsual high number of compulsory modules on the subject: `Speech Recognition`, `Speech and Language Processing Applications`, `Statistical Spoken Dialogue Systems`, `Statistical Speech Synthesis`
+Strong focus on speech - high number of compulsory modules on the subject: `Speech Recognition`, `Speech and Language Processing Applications`, `Statistical Spoken Dialogue Systems`, `Statistical Speech Synthesis`
 
 
 Student selects either Computer vision or NLP.
