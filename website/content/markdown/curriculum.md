@@ -12,13 +12,13 @@ Constructed in collaboration with [a-martyn](https://github.com/a-martyn/ml-sabb
 - Time: 3 months full-time
 - Prequesites: Python programming, A-level/intermediate undergrad level maths 
 
-This curriculum aims to provide a 3-month course teaching the prerequisite mathemtics and foundational principles of machine learning. We have opted for a bottom-up approach focussing on fundamental principles whilst also allowing scope for applied experimentation.
+This curriculum aims to provide a 3-month course teaching the prerequisite mathematics and foundational principles of machine learning. We have opted for a bottom-up approach focussing on fundamental principles whilst also allowing scope for applied experimentation.
 
 Three tracks of study pursued in parallel: 
 
 1. Foundational track: structured course-based study of fundamental concepts that apply broadly across machine learning including mathematics, statistics and core learning algorithms.
 2. Applied track: goal driven projects intended to test understanding and application of knowledge, and build strong communication of machine learning concepts
-3. Tecnhical interview training: refresh of computer science fundamentals and preparation for technical interviews
+3. technical interview training: refresh of computer science fundamentals and preparation for technical interviews
 
 ## 1. Foundational track
 
