@@ -9,6 +9,10 @@
 
 Check out the Kanban [here](https://github.com/coxy1989/mlsabbatical/projects/1)
 
+### Monday, 23/07/2018
+
+I met up with my study buddy, we compared notes and constructed [our curriculum](https://www.coxy1989.com/curriculum.html).
+
 ### Friday, 20/07/2018
 
 I reviewed:

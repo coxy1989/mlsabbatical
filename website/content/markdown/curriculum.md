@@ -5,87 +5,82 @@
   <a style="padding-right:20px;" href="./bookshelf.html">Bookshelf</a>
 </p>
 
-## Curriculum
+# Curriculum – Machine Learning Sabbatical
 
-**UNDER CONSTRUCTION**
+Constructed in collaboration with [a-martyn](https://github.com/a-martyn/ml-sabbatical)
 
-This curriculum is inspired by phase one from [Karl Rosen's curriculum](http://karlrosaen.com/ml/)
+- Time: 3 months full-time
+- Prequesites: Python programming, A-level/intermediate undergrad level maths 
 
-I like the idea of having two tracks; one applied, one foundational, with a primary linear resource in each.
+This curriculum aims to provide a 3-month course teaching the prerequisite mathemtics and foundational principles of machine learning. We have opted for a bottom-up approach focussing on fundamental principles whilst also allowing scope for applied experimentation.
 
-### Track 1: Applied ML
+Three tracks of study pursued in parallel: 
 
-PML: [Python Machine Learning](https://www.amazon.co.uk/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130)
+1. Foundational track: structured course-based study of fundamental concepts that apply broadly across machine learning including mathematics, statistics and core learning algorithms.
+2. Applied track: goal driven projects intended to test understanding and application of knowledge, and build strong communication of machine learning concepts
+3. Tecnhical interview training: refresh of computer science fundamentals and preparation for technical interviews
 
-For each chapter I intend to publish my notes and working Jupyter Notebooks / python code that exercise the key ideas.
-I intend to cross reference the material as I go with the Andrew Ng courses I've already completed and with other resources that I find along the way.
-I'll also be looking for overlap with the foundational track where possible, in addition to diving deeper in patches where the content errs on "plug and chug".
+## 1. Foundational track
 
-- PML: 1. Giving Computers the Ability to Learn From Data
-- PML: 2. Training Machine Learning Algorithms For Classification
-- PML: 3. A Tour of Machine Learning Classifiers Using Scikit-learn
-- PML: 4. Building Good Training Sets- Data Preprocessing
-- PML: 5. Compressing Data via Dimensionality Reduction
-- PML: 6. Learning Best Practices for Model Evaluation and Hyperparameter Tuning
-- PML: 7. Combining Different Models for Ensemble Learning
-- PML: 10. Predicting Continuous Target Variables with Regression Analysis
-- PML: 11. Working With Unlabeled Data - Clustering Analysis
-- PML: 12. Training Artificial Neural Networks for Image Recognition.
+#### Introduction to Machine Learning (60 hrs)
 
-- Kaggle: [1.Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview)
-- Kaggle: [2.Forest Cover Type Prediction](https://www.kaggle.com/c/forest-cover-type-prediction)
-- Kaggle: [3.Predicting Red Hat Business Value](https://www.kaggle.com/c/predicting-red-hat-business-value) 
+- [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng
 
-- OSS contributions: TBD
-- Side project: TBD
+#### Maths
 
-#### Artefacts of achievement:
+- Course: [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) (60 hrs)
+- Textbook: [DS-GA 1002: Statistical and Mathematical Methods](https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall15/index.html) 
+- Tests:
+    - https://davidrosenberg.github.io/mlcourse/Notes/prereq-questions/math-questions.pdf
+    - [cribsheet](http://www.gatsby.ucl.ac.uk/teaching/courses/ml1-2008/cribsheet.pdf)
 
-- Well documented code that excercises the key ideas.
-- Daily learning log entries.
-- Jupyter notebooks / well documented code for Kaggle contest entries.
-- ? OSS contributions
-- ? Side project
+#### Supervised Learning & Statistics (90 hrs)
 
-### Track 2: Probability and statistics
-
-SPS: [Stanford's Free Probability and Statistics Course](https://lagunita.stanford.edu/courses/course-v1:OLI+ProbStat+Open_Jan2017/about)
-I intend to cross reference the material as I go with other resources including: Kahn Academy, MathMonk (YouTube) and other resources I find along the way.
-
-- SPS: 1.Introduction
-- SPS: 2.Exploratory Data Analysis: Examining Distributions
-- SPS: 3.Exploratory Data Analysis: Examining Relationships
-- SPS: 4.Producing Data: Sampling
-- SPS: 5.Producing Data: Designing Studies
-- SPS: 6.Probability: Introduction
-- SPS: 7.Probability: Finding Probability of Events
-- SPS: 8.Probability: Conditional Probability and Independence
-- SPS: 9.Probability: Discrete Random Variables
-- SPS: 10.Probability: Continuous Random Variables
-- SPS: 11.Probability: Sampling Distributions
-- SPS: 12.Inference: Estimation
-- SPS: 13.Inference: Hypothesis Testing Overview
-- SPS: 14.Inference: Hypothesis Testing for the Population Proportion
-- SPS: 15.Inference: Hypothesis Testing for the Population Mean
-- SPS: 16.Inference: Relationships C -> Q
-- SPS: 17.Inference: Relationships C -> C
-- SPS: 18.Inference: Relationships Q -> Q
-
-AOS: [All of statistics](https://www.amazon.co.uk/All-Statistics-Statistical-Inference-Springer/dp/0387402721)
-
-I gather that this text is ruthlessly dry, providing consise treatment of the key ideas in a sensible order, with plenty of examples.
-
-I intend to use it as a roadmap and expect to jump out to other resources and do cross referencing for 2nd explanations. I expect to make use of MathMonk's [Probability Primer](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4). I've ordered [A first look at rigorous probability theory](https://www.amazon.co.uk/gp/product/9812703713/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) for bedside reading. I'm eying up [The Theory of Probability: explorations and Applications](https://www.amazon.co.uk/Theory-Probability-Explorations-Applications/dp/1107024471) as a second reference text to accompany Wasserman.
-
-- AOS: 1. Probability
-- AOS: 2. Random Variables
-- AOS: 3. Expectation
-
-Looking through [karl's learning log](http://karlrosaen.com/ml/learning-log/) (see my notes [here](https://github.com/coxy1989/mlsabbatical/blob/master/notes/01-karl-rosaen-learning-log-notes.md)) it looks like this is the most lonely part; an area where more hand holding may have sped things up. When I'm done with the Stanford Stats course and begin approaching Wasserman I'll have a low threshold for seeking another MOOC type experience to lubricate this track if I percieve that I'm not moving as fast as I should be.
+- Course: [Foundations of Machine Learning](https://bloomberg.github.io/foml/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=email&utm_source=Artificial_Intelligence_Weekly_81#home) by Bloomberg ML EDU
+- Textbooks:
+    - Hands-On Machine Learning with Scikit-Learn and TensorFlow (Aurélien Géron) 
+    - The Elements of Statistical Learning (Hastie, Friedman, and Tibshirani)
+    - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+    - Understanding Machine Learning: From Theory to Algorithms (Shalev-Shwartz and Ben-David)
+    - Machine Learning: a Probabilistic Perspective by Kevin Murhy
+    - Data Science for Business (Provost and Fawcett)
 
 
-#### Artefacts of achievement:
+#### Unsupervised Learning / Graphical Models
 
-- Well documented code/notes/proofs that excercise the key ideas.
-- HN publication of a notebook on a key idea - [see karls](http://karlrosaen.com/ml/learning-log/2016-05-17/)
-- Homeworks: TBD - [see karls](http://karlrosaen.com/ml/hw/)
+- Course: ?
+- Textbook: ?
+
+## 2. Applied track 
+
+- build a dataset from scratch
+- look for problems where dataset can be built quickly
+- 20% increasing to 50% of course time as knowledge progresses
+- projects should be fun, and have toy-like quality
+- focus on demonstrable deliverables (1 a week)
+
+
+## 3. Interview training track
+
+- Course: [InterviewCake.com](https://www.interviewcake.com/table-of-contents)
+- Textbook: [Cracking the coding interview](https://www.amazon.co.uk/Cracking-Coding-Interview-6th-Programming/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=QPVA208VDTCKHXASXE7M)
+
+
+## Time commitments
+
+- 60% theoretical study
+- 20% technical interview training
+- 20% applied
+- 1 relevant meetup / week
+
+
+## Desired outcomes
+
+- at least one demonstrable project that applies ml techniques
+- 12 jupyter notebooks demonstrating fundamental topics in machine learning
+- Machine Learning by Andrew Ng coursera accreditation
+- Mathematics for Machine Learning by Imperial College coursera accreditation
+- an offer of employment :)
+
+
+
