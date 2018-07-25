@@ -22,7 +22,7 @@ I completed the first three weeks of the Mathematics for machine learning: Linea
 
 I signed up for and had a poke around on [interviewcake](https://www.interviewcake.com/) to get a feel for it. I'll start a more systematic transit through the material tomorrow.
 
-I created [a document]() to track project ideas for the applied track.
+I created [a document](https://github.com/coxy1989/mlsabbatical/blob/master/notes/09-applied-track.md) to track project ideas for the applied track.
 
 ### Monday, 23/07/2018
 
