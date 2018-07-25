@@ -7,7 +7,22 @@
 
 ## Learning Log
 
-Check out the Kanban [here](https://github.com/coxy1989/mlsabbatical/projects/1)
+### Tuesday, 24/07/2018
+
+I completed the first three weeks of the Mathematics for machine learning: Linear Algebra course. This was a nice back to basics linear algebra review, which I didn't mind as it felt good to stake out some ground - topics included:
+
+- Dot product
+- Scalar and vector projection
+- Changing basis
+- Linear Independence
+- Matrix transformations and their composition
+- Gaussian elimination
+- Matrix inverses
+- Determinants
+
+I signed up for and had a poke around on [interviewcake](https://www.interviewcake.com/) to get a feel for it. I'll start a more systematic transit through the material tomorrow.
+
+I created [a document]() to track project ideas for the applied track.
 
 ### Monday, 23/07/2018
 
