@@ -7,6 +7,19 @@
 
 ## Learning Log
 
+### Wednesday, 25/07/2018
+
+I completed week 4 of Mathematics for Machine Learning: Linear Algebra, which continued yesterday’s linear algebra review. Topics included:
+
+- Einstein summation notation
+- Transformations in a changed basis
+- Properties of orthogonal matrices
+- The Gram-Schmidt process
+
+I started my systematic transit through InterviewCake, I did the readings in the first two sections: “Algorithmic Thinking” and “Array and string manipulation“ which was a back to basics CS101 style intro to the rest of the material on the site.
+
+I added some more thoughts to the [applied track doc](https://github.com/coxy1989/mlsabbatical/blob/master/notes/09-applied-track.md)
+
 ### Tuesday, 24/07/2018
 
 I completed the first three weeks of the Mathematics for machine learning: Linear Algebra course. This was a nice back to basics linear algebra review, which I didn't mind as it felt good to stake out some ground - topics included:

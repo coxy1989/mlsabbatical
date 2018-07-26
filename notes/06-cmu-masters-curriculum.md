@@ -14,6 +14,8 @@ MS students take all three Set Core courses:
 
 ### [10-701 Introduction to Machine Learning](http://www.cs.cmu.edu/~pradeepr/701/) OR [10-715 Advanced Introduction to Machine Learning](https://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/index.html)
 
+- [nice resource here with lectures and homeworks](http://www.cs.cmu.edu/~./10701/index.html)
+
 ### [36-700 Probability & Mathematical Statistics](http://www.stat.cmu.edu/~siva/700/main.html) or [36-705 Intermediate Statistics](http://www.stat.cmu.edu/~larry/=stat705/)
 
 Karl Rosaen used 36-705 Intermediate Statistical Theory during his learning sabattical - from his learning log it looks like he got fairly stuck from time to time but found it very valuable.
