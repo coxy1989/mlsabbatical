@@ -78,7 +78,7 @@ Three tracks of study are pursued in parallel:
 
 - [x] Machine Learning by Andrew Ng coursera accreditation
 - [ ] Mathematics for Machine Learning by Imperial College coursera accreditation
-- [ ] Mastery of material convered in [Foundations of Machine Learning](https://bloomberg.github.io/foml/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=email&utm_source=Artificial_Intelligence_Weekly_81#home)
+- [ ] Mastery of material covered in [Foundations of Machine Learning](https://bloomberg.github.io/foml/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=email&utm_source=Artificial_Intelligence_Weekly_81#home)
 - [ ] 12 Jupyter notebooks demonstrating fundamental topics in machine learning
 - [ ] At least one demonstrable project that applies ml techniques
 - [ ] An offer of employment :)
