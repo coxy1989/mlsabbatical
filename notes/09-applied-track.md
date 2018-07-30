@@ -4,7 +4,7 @@ A place to keep thoughts that pop up about what to do in the applied track.
 
 ## Approach
 
-- Medical assessments; in the same vain as [this cool project](http://machinemedicine.com/fingertapping/) what other assessments have a sheet with checkboxes as the 'state of the art' - could any of these benefit from an ML approach? Perhaps you could contribute another task to [ResearchKit](http://researchkit.org/) that utilizes it?
+- Medical assessments; in the same vain as [this cool project](http://machinemedicine.com/fingertapping/) what other assessments have a sheet with checkboxes as the 'state of the art' - could any of these benefit from an ML approach? Perhaps you could contribute another task to [ResearchKit](http://researchkit.org/) that utilizes it? Here is [an example](https://healthy.io/) with urinalysis.
 
 - Search for cool/cheap/unusual sensors - what applications do they enable?
 
@@ -15,6 +15,8 @@ A place to keep thoughts that pop up about what to do in the applied track.
 - How might you encode one information medium in another, to make an interesting application - for example [this application](https://www.scientificamerican.com/article/device-lets-blind-see-with-tongues/) which allows blind people to "see" with their tounges.
 
 - How might you use tiny wearable sensors to collect an interesting dataset, the [thumbnail UV detector](https://gizmodo.com/this-tiny-thumbnail-sensor-tells-you-when-to-get-off-th-1821710657) by L'Oreal is a great example.
+
+- What can you [infer from a persons voice](http://www.peakprofiling.com/?lang=en)?
 
 ## Ideas
 

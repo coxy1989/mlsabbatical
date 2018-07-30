@@ -7,9 +7,19 @@
 
 ## Learning Log
 
+### Friday, 27/07/2018
+
+I completed the assignments for week 5 of the Mathematics for Machine Learning: Linear Algebra. This concluded the course, I had a flick back through the course. I will do a review of the material on Monday before moving onto the next course in the series.
+
+### Thursday, 26/07/2018
+
+I completed the assignments for week 4 and worked through week 5 of the Mathematics for Machine Learning: Linear Algebra. Week 5's topic is eigenvectors/values.
+
+I completed the timetabling excercise on InterviewCake.
+
 ### Wednesday, 25/07/2018
 
-I completed week 4 of Mathematics for Machine Learning: Linear Algebra, which continued yesterday’s linear algebra review. Topics included:
+I worked through week 4 of Mathematics for Machine Learning: Linear Algebra, which continued yesterday’s linear algebra review. Topics included:
 
 - Einstein summation notation
 - Transformations in a changed basis
