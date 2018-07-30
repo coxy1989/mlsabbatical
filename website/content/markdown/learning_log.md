@@ -7,9 +7,17 @@
 
 ## Learning Log
 
+### Monday, 30/07/2018
+
+I reviewed and consolidated my notes from the Machine Learning: Linear Algebra course before moving onto the next course in the specialisation. I completed week one of the Mathematics for Machine Learning: Multivariate Calculus, which was a univariate differential calculus review covering:
+
+- Definition of the derivative
+- The sum, power, product and chain rules
+- The derivatives of 1/x, e^x and trig functions.
+
 ### Friday, 27/07/2018
 
-I completed the assignments for week 5 of the Mathematics for Machine Learning: Linear Algebra. This concluded the course, I had a flick back through the course. I will do a review of the material on Monday before moving onto the next course in the series.
+I completed the assignments for week 5 of the Mathematics for Machine Learning: Linear Algebra, which included a quiz on diagonalization and an implementation of power iteration. This concluded the course, I had a flick back through the course. I will do a review of the material on Monday before moving onto the next course in the series.
 
 ### Thursday, 26/07/2018
 
