@@ -7,9 +7,19 @@
 
 ## Learning Log
 
+### Tuesday, 31/07/2018
+
+I worked through weeks two and three of Mathematics Machine Learning: Multivariate Calculus, topics covered:
+
+- Partial differentiation
+- The Jacobian matrix
+- The Hessian matrix
+- The multivariate chain rule
+- Applying the multivariate chain rule to train a neural network
+
 ### Monday, 30/07/2018
 
-I reviewed and consolidated my notes from the Machine Learning: Linear Algebra course before moving onto the next course in the specialisation. I completed week one of the Mathematics for Machine Learning: Multivariate Calculus, which was a univariate differential calculus review covering:
+I reviewed and consolidated my notes from the Machine Learning: Linear Algebra course before moving onto the next course in the specialisation. I completed week one of Mathematics Machine Learning: Multivariate Calculus, which was a univariate differential calculus review covering:
 
 - Definition of the derivative
 - The sum, power, product and chain rules
