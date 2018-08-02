@@ -7,7 +7,7 @@
 
 ## Learning Log
 
-### Thursday, 1/08/2018
+### Thursday, 2/08/2018
 
 I completed the second half of week four of Mathematics Machine Learning: Multivariate Calculus and wrote up my notes for the week, new topics in the second half of the week were:
 
