@@ -18,7 +18,7 @@ I registered for [a meetup](https://www.meetup.com/London-Data-Science-Journal-C
 
 ### Wednesday, 1/08/2018
 
-I met up with my study buddy. We discussed how we were getting on with the curriculum, we are both spending having too much of a good time in the foundational track and have been neglecting the applied and interview training tracks. Fair enough, the interview training track is pretty dull and we agreed the applied track can wait until the *Mathematics For Machine learning* unit is wrapped up - which it should be within the next couple of weeks. 
+I met up with my study buddy. We discussed how we were getting on with the curriculum, we are both having too much of a good time in the foundational track and have been neglecting the applied and interview training tracks. Fair enough, the interview training track is pretty dull and we agreed the applied track can wait until the *Mathematics For Machine learning* unit is wrapped up - which it should be within the next couple of weeks. 
 
 I completed the first half of week four of Mathematics Machine Learning: Multivariate Calculus, topics covered:
 
