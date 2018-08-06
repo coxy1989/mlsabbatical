@@ -7,6 +7,14 @@
 
 ## Learning Log
 
+### Friday, 3/08/2018
+
+I completed week five of Mathematics Machine Learning: Multivariate Calculus. The week's focus was numerical optimisation, topics covered:
+
+- The Newton-Raphson method
+- Gradient Descent
+- Constrained Optimization: The method of Lagrange Multipliers
+
 ### Thursday, 2/08/2018
 
 I completed the second half of week four of Mathematics Machine Learning: Multivariate Calculus and wrote up my notes for the week, new topics in the second half of the week were:
