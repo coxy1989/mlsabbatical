@@ -7,9 +7,30 @@
 
 ## Learning Log
 
+### Tuesday, 7/08/2018
+
+I completed week 1 of [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning) which covered some elementary statistics material, topics included:
+
+- Expected Value, Variance and Covariance
+- Effect of a linear transformation of the dataset on the moments of the distibution.
+- Statistical operations in numpy.
+
+I started week 2 of [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning), which began with a refresher of the dot product before moving on to the more general definition of an inner product.
+
+
+### Monday, 6/08/2018
+
+I completed week 6 of [Mathematics Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning), topics included:
+
+- Regression as a minimisation of errors problem
+- Distinguish appropriate models for particular data sets
+- Fitting functions to data using gradient descent
+
+This concluded [Mathematics Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning). I did a quick review of the course.
+
 ### Friday, 3/08/2018
 
-I completed week five of Mathematics Machine Learning: Multivariate Calculus. The week's focus was numerical optimisation, topics covered:
+I completed week five of [Mathematics Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning). The week's focus was numerical optimisation, topics covered:
 
 - The Newton-Raphson method
 - Gradient Descent
@@ -17,7 +38,7 @@ I completed week five of Mathematics Machine Learning: Multivariate Calculus. Th
 
 ### Thursday, 2/08/2018
 
-I completed the second half of week four of Mathematics Machine Learning: Multivariate Calculus and wrote up my notes for the week, new topics in the second half of the week were:
+I completed the second half of week four of [Mathematics Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) and wrote up my notes for the week, new topics in the second half of the week were:
 
 - Multivariate Taylor series
 - Linearisation
@@ -26,9 +47,9 @@ I registered for [a meetup](https://www.meetup.com/London-Data-Science-Journal-C
 
 ### Wednesday, 1/08/2018
 
-I met up with my study buddy. We discussed how we were getting on with the curriculum, we are both having too much of a good time in the foundational track and have been neglecting the applied and interview training tracks. Fair enough, the interview training track is pretty dull and we agreed the applied track can wait until the *Mathematics For Machine learning* unit is wrapped up - which it should be within the next couple of weeks. 
+I met up with my study buddy. We discussed how we were getting on with the curriculum, we are both having too much of a good time in the foundational track and have been neglecting the applied and interview training tracks. Fair enough, the interview training track is pretty dull and we agreed the applied track can wait until the [*Mathematics For Machine learning*](https://www.coursera.org/specializations/mathematics-machine-learning) unit is wrapped up - which it should be within the next couple of weeks. 
 
-I completed the first half of week four of Mathematics Machine Learning: Multivariate Calculus, topics covered:
+I completed the first half of week four of [Mathematics Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning), topics covered:
 
 - Building approximate functions
 - Maclaurin series
@@ -36,7 +57,7 @@ I completed the first half of week four of Mathematics Machine Learning: Multiva
 
 ### Tuesday, 31/07/2018
 
-I worked through weeks two and three of Mathematics Machine Learning: Multivariate Calculus, topics covered:
+I worked through weeks two and three of [Mathematics Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning), topics covered:
 
 - Partial differentiation
 - The Jacobian matrix
@@ -46,7 +67,7 @@ I worked through weeks two and three of Mathematics Machine Learning: Multivaria
 
 ### Monday, 30/07/2018
 
-I reviewed and consolidated my notes from the Machine Learning: Linear Algebra course before moving onto the next course in the specialisation. I completed week one of Mathematics Machine Learning: Multivariate Calculus, which was a univariate differential calculus review covering:
+I reviewed and consolidated my notes from [Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) before moving onto the next course in the specialisation. I completed week one of [Mathematics Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning), which was a univariate differential calculus review covering:
 
 - Definition of the derivative
 - The sum, power, product and chain rules
@@ -54,17 +75,17 @@ I reviewed and consolidated my notes from the Machine Learning: Linear Algebra c
 
 ### Friday, 27/07/2018
 
-I completed the assignments for week 5 of the Mathematics for Machine Learning: Linear Algebra, which included a quiz on diagonalization and an implementation of power iteration. This concluded the course, I had a flick back through the course. I will do a review of the material on Monday before moving onto the next course in the series.
+I completed the assignments for week 5 of the Mathematics for [Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning), which included a quiz on diagonalization and an implementation of power iteration. This concluded the course, I had a flick back through the course. I will do a review of the material on Monday before moving onto the next course in the series.
 
 ### Thursday, 26/07/2018
 
-I completed the assignments for week 4 and worked through week 5 of the Mathematics for Machine Learning: Linear Algebra. Week 5's topic is eigenvectors/values.
+I completed the assignments for week 4 and worked through week 5 of the Mathematics for [Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning). Week 5's topic is eigenvectors/values.
 
 I completed the timetabling excercise on InterviewCake.
 
 ### Wednesday, 25/07/2018
 
-I worked through week 4 of Mathematics for Machine Learning: Linear Algebra, which continued yesterday’s linear algebra review. Topics included:
+I worked through week 4 of Mathematics for [Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning), which continued yesterday’s linear algebra review. Topics included:
 
 - Einstein summation notation
 - Transformations in a changed basis
@@ -77,7 +98,7 @@ I added some more thoughts to the [applied track doc](https://github.com/coxy198
 
 ### Tuesday, 24/07/2018
 
-I completed the first three weeks of the Mathematics for machine learning: Linear Algebra course. This was a nice back to basics linear algebra review, which I didn't mind as it felt good to stake out some ground - topics included:
+I completed the first three weeks of [Mathematics for machine learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning). This was a nice back to basics linear algebra review, which I didn't mind as it felt good to stake out some ground - topics included:
 
 - Dot product
 - Scalar and vector projection
@@ -109,7 +130,7 @@ I reviewed the curricula from some masters courses and made notes [here](https:/
 
 ### Thursday, 19/07/2018
 
-I reviewed:
+Review of [Andrew Ng's Machine Learning](https://www.coursera.org/learn/machine-learning) topics:
 
 - K-Means
 - Principal Components Analysis
@@ -119,7 +140,7 @@ In the afternoon I continued working through chapter 3 of "Python Machine Learni
 
 ### Wednesday, 18/07/2018
 
-I reviewed:
+Review of [Andrew Ng's Machine Learning](https://www.coursera.org/learn/machine-learning) topics:
 
 - Neural Networks
 - Bias & Variance, Precsion & Recall
@@ -131,7 +152,7 @@ I took a look at the UCL machine learning masters syllabus and made notes [here]
 
 ### Tuesday, 17/07/2018
 
-Revisited my notes from Andrew Ng's course and cross referenced some topics with some more advanced resources. I found the book I was a little afraid of - Bishop's PRML is challenging but well written and accessible.
+Revisited my notes from [Andrew Ng's course](https://www.coursera.org/learn/machine-learning) and cross referenced some topics with some more advanced resources. I found the book I was a little afraid of - [Bishop's PRML](https://www.amazon.co.uk/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738) is challenging but well written and accessible.
 
 I reviewed:
 
