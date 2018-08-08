@@ -19,7 +19,6 @@ Desirable characteristics of the role include:
 - Application of ML skills: Obtaining and processing data, selecting, fitting and evaluating models.
 - Application of software engineering skills: writing business logic, performance, scale, deployment.
 - Engagement with product.
-- Role is core to the business.
 
 ### Time
 
