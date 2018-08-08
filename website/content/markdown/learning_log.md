@@ -7,6 +7,17 @@
 
 ## Learning Log
 
+### Tuesday, 8/08/2018
+
+I completed week 2 of [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning), topics included:
+
+- The axiomatic definition of an inner product.
+- The dot product as an example of an inner product.
+- General definition of norms angles and orthogonality with respect to the inner product.
+- The inner product over a continuous domain; the inner product of a pair of functions as an integral and the inner product of a pair of random variables as their covariance.
+
+During the week's programming exercise I took a detour to review [broadcasting](https://docs.scipy.org/doc/numpy-1.13.0/user/basics.broadcasting.html) with numpy and read the relevant chapter from the [python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/02.05-computation-on-arrays-broadcasting.html). I had an understanding of broadcasting that served me well in performing binary operations between scalars and arrays, and between pairs of arrays. My intuition was however not robust enough to generalise well to broadcasting pairs of matrices - which requires an intuition fit for three dimensions, after some [playing around]() I grokked it.
+
 ### Tuesday, 7/08/2018
 
 I completed week 1 of [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning) which covered some elementary statistics material, topics included:
@@ -20,17 +31,17 @@ I started week 2 of [Mathematics for Machine Learning: PCA](https://www.coursera
 
 ### Monday, 6/08/2018
 
-I completed week 6 of [Mathematics Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning), topics included:
+I completed week 6 of [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning), topics included:
 
 - Regression as a minimisation of errors problem
 - Distinguish appropriate models for particular data sets
 - Fitting functions to data using gradient descent
 
-This concluded [Mathematics Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning). I did a quick review of the course.
+This concluded [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning). I did a quick review of the course.
 
 ### Friday, 3/08/2018
 
-I completed week five of [Mathematics Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning). The week's focus was numerical optimisation, topics covered:
+I completed week five of [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning). The week's focus was numerical optimisation, topics covered:
 
 - The Newton-Raphson method
 - Gradient Descent
@@ -38,7 +49,7 @@ I completed week five of [Mathematics Machine Learning: Multivariate Calculus](h
 
 ### Thursday, 2/08/2018
 
-I completed the second half of week four of [Mathematics Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) and wrote up my notes for the week, new topics in the second half of the week were:
+I completed the second half of week four of [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) and wrote up my notes for the week, new topics in the second half of the week were:
 
 - Multivariate Taylor series
 - Linearisation
@@ -47,9 +58,9 @@ I registered for [a meetup](https://www.meetup.com/London-Data-Science-Journal-C
 
 ### Wednesday, 1/08/2018
 
-I met up with my study buddy. We discussed how we were getting on with the curriculum, we are both having too much of a good time in the foundational track and have been neglecting the applied and interview training tracks. Fair enough, the interview training track is pretty dull and we agreed the applied track can wait until the [*Mathematics For Machine learning*](https://www.coursera.org/specializations/mathematics-machine-learning) unit is wrapped up - which it should be within the next couple of weeks. 
+I met up with my study buddy. We discussed how we were getting on with the curriculum, we are both having too much of a good time in the foundational track and have been neglecting the applied and interview training tracks. Fair enough, the interview training track is pretty dull and we agreed the applied track can wait until the [*Mathematics for Machine learning*](https://www.coursera.org/specializations/mathematics-machine-learning) unit is wrapped up - which it should be within the next couple of weeks. 
 
-I completed the first half of week four of [Mathematics Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning), topics covered:
+I completed the first half of week four of [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning), topics covered:
 
 - Building approximate functions
 - Maclaurin series
@@ -57,7 +68,7 @@ I completed the first half of week four of [Mathematics Machine Learning: Multiv
 
 ### Tuesday, 31/07/2018
 
-I worked through weeks two and three of [Mathematics Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning), topics covered:
+I worked through weeks two and three of [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning), topics covered:
 
 - Partial differentiation
 - The Jacobian matrix
@@ -67,7 +78,7 @@ I worked through weeks two and three of [Mathematics Machine Learning: Multivari
 
 ### Monday, 30/07/2018
 
-I reviewed and consolidated my notes from [Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) before moving onto the next course in the specialisation. I completed week one of [Mathematics Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning), which was a univariate differential calculus review covering:
+I reviewed and consolidated my notes from [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) before moving onto the next course in the specialisation. I completed week one of [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning), which was a univariate differential calculus review covering:
 
 - Definition of the derivative
 - The sum, power, product and chain rules
@@ -75,17 +86,17 @@ I reviewed and consolidated my notes from [Machine Learning: Linear Algebra](htt
 
 ### Friday, 27/07/2018
 
-I completed the assignments for week 5 of the Mathematics for [Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning), which included a quiz on diagonalization and an implementation of power iteration. This concluded the course, I had a flick back through the course. I will do a review of the material on Monday before moving onto the next course in the series.
+I completed the assignments for week 5 of the [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning), which included a quiz on diagonalization and an implementation of power iteration. This concluded the course, I had a flick back through the course. I will do a review of the material on Monday before moving onto the next course in the series.
 
 ### Thursday, 26/07/2018
 
-I completed the assignments for week 4 and worked through week 5 of the Mathematics for [Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning). Week 5's topic is eigenvectors/values.
+I completed the assignments for week 4 and worked through week 5 of the [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning). Week 5's topic is eigenvectors/values.
 
 I completed the timetabling excercise on InterviewCake.
 
 ### Wednesday, 25/07/2018
 
-I worked through week 4 of Mathematics for [Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning), which continued yesterday’s linear algebra review. Topics included:
+I worked through week 4 of [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning), which continued yesterday’s linear algebra review. Topics included:
 
 - Einstein summation notation
 - Transformations in a changed basis
