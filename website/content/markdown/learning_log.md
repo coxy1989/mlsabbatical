@@ -7,7 +7,7 @@
 
 ## Learning Log
 
-### Tuesday, 8/08/2018
+### Wednesday, 8/08/2018
 
 I completed week 2 of [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning), topics included:
 
