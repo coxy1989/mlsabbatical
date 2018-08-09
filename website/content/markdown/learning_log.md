@@ -9,7 +9,7 @@
 
 ### Wednesday, 8/08/2018
 
-I completed week 2 of [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning), topics included:
+I completed week 2 of [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning), topics included:
 
 - The axiomatic definition of an inner product.
 - The dot product as an example of an inner product.
