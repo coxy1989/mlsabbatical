@@ -7,6 +7,14 @@
 
 ## Learning Log
 
+### Thursday, 9/08/2018
+
+I completed week 3 of [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning), topics included:
+
+- Orthogonal projections using different inner products.
+- Orthogonal projections as reconstruction error in the context of dimensionality reduction.
+- Orthogonal projection with numpy using the [Olivetti faces dataset](http://scikit-learn.org/stable/datasets/olivetti_faces.html) and the [Boston house prices dataset](http://scikit-learn.org/stable/datasets/#boston-house-prices-dataset).
+
 ### Wednesday, 8/08/2018
 
 I completed week 2 of [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning), topics included:
