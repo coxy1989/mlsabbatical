@@ -7,6 +7,15 @@
 
 ## Learning Log
 
+### Monday, 13/08/2018
+
+I worked through the Principal Components Analysis proof on pages 392-3 of [Murphy's MLPP](https://www.amazon.co.uk/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020). Feeling confident following this proof was a satisfying capstone to [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) as it requied the application of much of the knowledge I've acquired over the past few weeks. The proof begins by constructing an expression for the projection error and shows that that it is minimized when the projection onto the subspace is orthonormal, before demonstrating that minimising the projection error is equivalent to maximising the variance of the projected data. This allows one to write an expression for the variance of the projected data in terms of the covariance matrix of the high dimensional data which we can then maximize in a constrained optimization - making use of a Lagrange multiplier. This maximization yields an expression for the variance of the projected data that can be recognised as an eigen problem - we arrive at an expression identifying the vector in the direction of maximal variance as an eigenvector of the covariance matrix with the largest eigenvalue.
+
+I wrote up my notes from the last module of [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning) which I finished on saturday morning and incorporated the proof from [Murphy's MLPP](https://www.amazon.co.uk/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020).
+
+Though I still have some loose ends to tie up with [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning), I permitted myself to watch the first lecture from [Bloomberg's Foundations of Machine Learning](https://bloomberg.github.io/foml/#home) which is the next item in the [curriculum](https://www.coxy1989.com/curriculum.html). The lecture was a gentle introduction to machine learning, though we are assured the learning curve is due to increase steeply. The content was a survey of the basics and the material was familiar from [Andrew Ng's Machine Learning Course](https://www.coursera.org/learn/machine-learning): classification and regression, bias and overfitting, training/validation/test sets etc. The figures on polynomial curve fitting with a power series were familiar from [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) and the introduction to [Bishop's PRML](https://www.amazon.co.uk/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738). Most noteworthy were the good questions from the students in the lecture, I suspect some were software engineers as they shared my discomfort with the nature of deploying the non-deterministic artefacts of ML to production - the Q and A on this subject was interesting. The instructor mentioned the upcoming homeworks, I looked ahead and they look like they are pitched at the right level - I'm looking forward to getting to them and writing some code.
+
+
 ### Friday, 10/08/2018
 
 I completed week 4 of [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning), topics included:
@@ -17,7 +26,7 @@ I completed week 4 of [Mathematics for Machine Learning: PCA](https://www.course
 - Practical considerations when performing PCA on a data set.
 - Programming Exercise: Implementing PCA.
 
-This unit was the most detailed so far. I didn't have time to write up my notes and I ended up finishing the programming exercise on Satarday morning. I'll write up my notes on monday morning and that'll conclude the [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) series.
+This unit was the most detailed so far. I didn't have time to write up my notes and I ended up finishing the programming exercise on Saturday morning. I'll write up my notes on monday morning and that'll conclude the [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) series.
 
 ### Thursday, 9/08/2018
 
