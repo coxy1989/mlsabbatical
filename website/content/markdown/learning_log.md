@@ -7,6 +7,18 @@
 
 ## Learning Log
 
+### Friday, 10/08/2018
+
+I completed week 4 of [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning), topics included:
+
+- The axiomatic definition of: Groups, Fields, Vector Spaces, Vector Subspaces and their orthogonal complement.
+- The objective of PCA; equivalence of maximising variance of projected data and minimizing projection error.
+- Deriving a proof for Principal Components Analysis.
+- Practical considerations when performing PCA on a data set.
+- Programming Exercise: Implementing PCA.
+
+This unit was the most detailed so far. I didn't have time to write up my notes and I ended up finishing the programming exercise on Satarday morning. I'll write up my notes on monday morning and that'll conclude the [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) series.
+
 ### Thursday, 9/08/2018
 
 I completed week 3 of [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning), topics included:
