@@ -7,6 +7,25 @@
 
 ## Learning Log
 
+### Tuesday, 14/08/2018
+
+I did some monumental admin which included booking: dentist, hygenist, haircut ***and*** car MOT. I went through the links, miscellaneous notes and TODOs I had left over from the [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) I finished yesterday and pruned/consolidated them. I modified the [curriculum](https://www.coxy1989.com/curriculum.html) to include a *"Practice track: A "little and often" track; small programming exercises and mathematical problems. Intended to keep maintain and enhance practical skills."*. I created the track to try to retain and enhance what I've learned so far, whilst still making headway in the foundational track.
+
+I ordered another book - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.co.uk/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291). Which is a referece text for the Bloomberg course.
+
+I attended Lecture 2 from [Bloomberg's Foundations of Machine Learning](https://bloomberg.github.io/foml/#home), which was a Case Study: We were asked to frame the problem of customer churn for a mobile network operator as a machine learning problem: predict when a user will churn. Again, the students made this an entertaining and informative session, some suggestions included: a probability distribution over the days in the future that a user may churn, a binary classification of churn/no-churn in some specified window in the future, and 'number of days' until churn prediction. The objective of this activity was to demonstrate that mapping the choice of outcome measure when approaching business problems is often non-trivial.
+
+I attended Lecture 3 from [Bloomberg's Foundations of Machine Learning](https://bloomberg.github.io/foml/#home), which was an introduction to Statistical Learning Theory, topics included:
+
+- The definition of *input*, *action*, *output* spaces and the definition of *decision functions* and *loss functions* in terms of these spaces.
+- The assumptions made when analysing a problem using the Statistical Learning Theory framework.
+- The definition of *risk*, *bayes decision function*, *empirical risk*, *empirical risk minimizer*, *constrained empirical risk minimiser* and the *hypothesis space*. 
+- Linear regression and multiclass classification from the perspective of Statistical Learning Theory.
+
+A fair amount of this language was new to me, I took the opportunity to read the introduction to [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) and the [Statistical Learning Theory Wikipedia page](https://en.wikipedia.org/wiki/Statistical_learning_theory) before writing up my notes from today's lectures.
+
+I'll take down the concept check and homework problems tomorrow.
+
 ### Monday, 13/08/2018
 
 I worked through the Principal Components Analysis proof on pages 392-3 of [Murphy's MLPP](https://www.amazon.co.uk/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020). Feeling confident following this proof was a satisfying capstone to [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) as it requied the application of much of the knowledge I've acquired over the past few weeks. The proof begins by constructing an expression for the projection error and shows that that it is minimized when the projection onto the subspace is orthonormal, before demonstrating that minimising the projection error is equivalent to maximising the variance of the projected data. This allows one to write an expression for the variance of the projected data in terms of the covariance matrix of the high dimensional data which we can then maximize in a constrained optimization - making use of a Lagrange multiplier. This maximization yields an expression for the variance of the projected data that can be recognised as an eigen problem - we arrive at an expression identifying the vector in the direction of maximal variance as an eigenvector of the covariance matrix with the largest eigenvalue.
