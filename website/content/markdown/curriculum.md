@@ -20,7 +20,7 @@ Three tracks of study are pursued in parallel:
 
 1. **Foundational track**: Structured course-based study of fundamental concepts that apply broadly across machine learning including mathematics, statistics and core learning algorithms.
 2. **Applied track**: Goal driven projects intended to test understanding and application of knowledge, and build strong communication of machine learning concepts
-3. **Interview training**: Refresh of computer science fundamentals and preparation for technical interviews
+3. **Practice track**: A "little and often" track; small programming exercises and mathematical problems. Intended to keep maintain and enhance practical skills.
 
 ## 1. Foundational Track
 
@@ -28,7 +28,7 @@ Three tracks of study are pursued in parallel:
 
 - [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng
 
-#### Maths
+#### Mathematics
 
 - Course: [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) (60 hrs)
 - Textbook: [DS-GA 1002: Statistical and Mathematical Methods](https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall15/index.html) 
@@ -60,11 +60,27 @@ Three tracks of study are pursued in parallel:
 - Focus on demonstrable deliverables (1 per week)
 
 
-## 3. Interview training track
+## 3. Practice track
+
+***Software Engineering***
 
 - Course: [InterviewCake.com](https://www.interviewcake.com/table-of-contents)
 - Textbook: [Cracking the coding interview](https://www.amazon.co.uk/Cracking-Coding-Interview-6th-Programming/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=QPVA208VDTCKHXASXE7M)
 
+***Mathematics***
+
+*Linear Algebra*
+
+- Questions: [Practice Questions](https://yutsumura.com/category/linear-algebra/)
+- Course: [Pavel Grinfeld's Lemma](https://www.lem.ma/books/Ai_Km5W5WPfsPZqqV2XWGg/landing)
+
+*Caclulus*
+
+- TBD
+
+*Probability and Statistics*
+
+- TBD
 
 ## Time commitments
 
@@ -73,14 +89,15 @@ Three tracks of study are pursued in parallel:
 - 20% Applied
 - 1 Meetup / week
 
-
 ## Desired outcomes
 
-- [x] Machine Learning by Andrew Ng coursera accreditation
-- [ ] Mathematics for Machine Learning by Imperial College coursera accreditation
-- [ ] Mastery of material covered in [Foundations of Machine Learning](https://bloomberg.github.io/foml/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=email&utm_source=Artificial_Intelligence_Weekly_81#home)
-- [ ] 12 Jupyter notebooks demonstrating fundamental topics in machine learning
-- [ ] At least one demonstrable project that applies ml techniques
+- [x] Machine Learning by Andrew Ng coursera accreditation.
+- [x] Mathematics for Machine Learning: Linear Algebra accreditation.
+- [x] Mathematics for Machine Learning: Multivariate Calculus accreditation.
+- [x] Mathematics for Machine Learning: PCA accreditation.
+- [ ] Completed Homeworks from [Foundations of Machine Learning](https://bloomberg.github.io/foml/) published as Jupyter notebooks.
+- [ ] 12 Jupyter notebooks demonstrating fundamental topics in machine learning.
+- [ ] At least one demonstrable applied ML project.
 - [ ] An offer of employment :)
 
 
