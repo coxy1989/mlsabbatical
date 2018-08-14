@@ -84,10 +84,10 @@ Three tracks of study are pursued in parallel:
 
 ## Time commitments
 
-- 60% Theoretical study
-- 20% Technical interview training
-- 20% Applied
-- 1 Meetup / week
+- 60% Foundational Track
+- 20% Applied Track
+- 20% Practice Track
+- 1 Meetup / Week
 
 ## Desired outcomes
 
