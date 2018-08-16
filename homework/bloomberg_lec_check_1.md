@@ -17,9 +17,9 @@ The model solution included the derivation of the inequality `P(f1(x) ≠ y) ≤
 
 ## Q2
 
-### My Solution
-
 Suppose `A = Y = R` and `X` is some other set, and `l: A x Y → R` is given by: `l(a,y) = (a - y)^2`, the square error loss. What is the Bayes Risk and how does it compare with the variance of `Y`.
+
+### My Solution
 
 *Bayes Risk*
 
