@@ -7,6 +7,17 @@
 
 ## Learning Log
 
+### Thursday, 14/08/2018
+
+I finished [my work](https://github.com/coxy1989/mlsabbatical/blob/master/homework/bloomberg_lec_check_1.md) on the *Statistical Learning Theory* section of the [Bloomberg Concept Check 1](https://davidrosenberg.github.io/mlcourse/ConceptChecks/1-Lec-Check.pdf). I faired well on the subjects I've seen recently: like [fitting linear and quadratic functions to data using the normal equation](https://github.com/coxy1989/mlsabbatical/blob/master/homework/bloomberg_lec_check_1.py). I faired less well, though not catastrophically,  on the probabilty material, which I've yet to review methodically as part of this sabattical yet - I suspect I may need to do this - one to discuss with my study buddy next time we meet.
+
+### Wednesday, 14/08/2018
+
+- I did a unit of work in the *practice track* -  [proving this](https://yutsumura.com/if-the-nullity-of-a-linear-transformation-is-zero-then-linearly-independent-vectors-are-mapped-to-linearly-independent-vectors/), I watched a couple of short Pavel Grinfeld lectures on the null space which enhanced my intution.
+
+- I started working on the Statistical Learning Theory section of the [Bloomberg Concept Check 1](https://davidrosenberg.github.io/mlcourse/ConceptChecks/1-Lec-Check.pdf).
+
+
 ### Tuesday, 14/08/2018
 
 I did some monumental admin which included booking: dentist, hygenist, haircut ***and*** car MOT. I went through the links, miscellaneous notes and TODOs I had left over from the [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) I finished yesterday and pruned/consolidated them. I modified the [curriculum](https://www.coxy1989.com/curriculum.html) to include a *"Practice track: A "little and often" track; small programming exercises and mathematical problems. Intended to keep maintain and enhance practical skills."*. I created the track to try to retain and enhance what I've learned so far, whilst still making headway in the foundational track.
