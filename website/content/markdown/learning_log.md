@@ -7,11 +7,45 @@
 
 ## Learning Log
 
-### Thursday, 14/08/2018
+### Monday, 20/08/2018
+
+I had a look online for a dataset that would be suitable for the week. I looked at:
+
+- [London Data Store](https://data.london.gov.uk/)
+- [Lambeth Open Data](http://openmappingdata.lambeth.gov.uk)
+- [London Public Health Observatory](https://www.herc.ox.ac.uk/downloads/health_datasets/browse-data-sets/london-public-health-observatory-lpho-diseases-datasets)
+- [Land Registry](http://landregistry.data.gov.uk/app/ppd/search)
+- [AWS Open Data](https://aws.amazon.com/opendata/)
+- [Kaggle](https://kaggle.com/)
+
+I took a closer look at [Jupyter notebooks](http://jupyter.org/), which I've been using a fair amount:
+
+- I read the [architecture doc]( https://jupyter.readthedocs.io/en/latest/architecture/how_jupyter_ipython_work.html) and grokked [how it fits in](https://jupyter.readthedocs.io/en/latest/architecture/visual_overview.html) with the other open source tools under the Jupyter umbrella. 
+- I checked out some services in the sphere including [binder](https://mybinder.org/), [kaggle](https://www.kaggle.com/) and [AWS sagemaker](https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-training.html).
+
+I signed up for and poked around on [kaggle](https://www.kaggle.com/):
+
+- Forked some kernels and ran them.
+- Entered the [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) competition and [submitted a trivial model](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/titanic/titanic.ipynb) to get a feel for kaggle and competitions.
+
+I [played with](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/playground/playground.ipynb) some python libraries:
+
+- I read the [pandas intro](http://pandas.pydata.org/pandas-docs/stable/10min.html) and got familiar with [Series, DataFrame](http://pandas.pydata.org/pandas-docs/stable/dsintro.html#dsintro) and a handful of operations like [groupby](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.groupby.html) and [crosstab](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.crosstab.html).
+-  I became aware of and got familiar with [seaborn](https://seaborn.pydata.org/introduction.html#introduction).
+
+### Friday, 17/08/2018
+
+I met up with my study buddy. 
+
+- We compared notes on some of the sticking points we had from [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning). 
+- We decided to do spend next week doing something applied. We're going to meet up on Tuesday to kick off a week long sprint, in which we will select a dataset, perform some exploratory data analysis and make some predictions.
+- We pontificated on the future of the software industry.
+
+### Thursday, 16/08/2018
 
 I finished [my work](https://github.com/coxy1989/mlsabbatical/blob/master/homework/bloomberg_lec_check_1.md) on the *Statistical Learning Theory* section of the [Bloomberg Concept Check 1](https://davidrosenberg.github.io/mlcourse/ConceptChecks/1-Lec-Check.pdf). I faired well on the subjects I've seen recently: like [fitting linear and quadratic functions to data using the normal equation](https://github.com/coxy1989/mlsabbatical/blob/master/homework/bloomberg_lec_check_1.py). I faired less well, though not catastrophically,  on the probabilty material, which I've yet to review methodically as part of this sabattical - I suspect I may need to do this - one to discuss with my study buddy next time we meet.
 
-### Wednesday, 14/08/2018
+### Wednesday, 15/08/2018
 
 - I did a unit of work in the *practice track* -  [proving this](https://yutsumura.com/if-the-nullity-of-a-linear-transformation-is-zero-then-linearly-independent-vectors-are-mapped-to-linearly-independent-vectors/), I watched a couple of short Pavel Grinfeld lectures on the null space which enhanced my intution.
 
