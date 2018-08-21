@@ -7,6 +7,18 @@
 
 ## Learning Log
 
+### Tuesday, 21/08/2018
+
+I met up with my study buddy, as we'd agreed last week. 
+
+- We reviewed some data sets, we decided to spent one week working on Kaggle's [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) competition.
+
+- We spent more time comparing notes from [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) and helped eachother through a few sticking points.
+
+- We pontificated on various topics including: death, software and statistics.
+
+I read [Andrej Karpathy's deep reinforcement learning blog post](http://karpathy.github.io/2016/05/31/rl/). I made a mental note to spend a couple of weekends sometime getting an agent running in an [OpenAI Gym environment](https://gym.openai.com/envs/#robotics).
+
 ### Monday, 20/08/2018
 
 I had a look online for a dataset that would be suitable for the week. I looked at:
