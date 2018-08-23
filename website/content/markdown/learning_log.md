@@ -7,6 +7,12 @@
 
 ## Learning Log
 
+### Wednesday, 22/08/2018
+
+- I [started working](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/house_prices/house_prices.ipynb) on the kaggle [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) competition, by the end of the day I'd fought my way out of the bottom quartile.
+- I dipped in to a few of the [padas guides](http://pandas.pydata.org/pandas-docs/stable/) as I went.
+- I watched [Manipulating and analysing multi-dimensional data with Pandas](https://www.youtube.com/watch?v=sLoap0zH4qg).
+
 ### Tuesday, 21/08/2018
 
 I met up with my study buddy, as we'd agreed last week. 
@@ -55,7 +61,7 @@ I met up with my study buddy.
 
 ### Thursday, 16/08/2018
 
-I finished [my work](https://github.com/coxy1989/mlsabbatical/blob/master/homework/bloomberg_lec_check_1.md) on the *Statistical Learning Theory* section of the [Bloomberg Concept Check 1](https://davidrosenberg.github.io/mlcourse/ConceptChecks/1-Lec-Check.pdf). I faired well on the subjects I've seen recently: like [fitting linear and quadratic functions to data using the normal equation](https://github.com/coxy1989/mlsabbatical/blob/master/homework/bloomberg_lec_check_1.py). I faired less well, though not catastrophically,  on the probabilty material, which I've yet to review methodically as part of this sabattical - I suspect I may need to do this - one to discuss with my study buddy next time we meet.
+I finished [my work](https://github.com/coxy1989/mlsabbatical/blob/master/homework/bloomberg_lec_check_1.md) on the *Statistical Learning Theory* section of the [Bloomberg Concept Check 1](https://davidrosenberg.github.io/mlcourse/ConceptChecks/1-Lec-Check.pdf). I faired well on the subjects I've seen recently: like [fitting linear and quadratic functions to data using the normal equation](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/bloomberg/bloomberg_lec_check_1.py). I faired less well, though not catastrophically,  on the probabilty material, which I've yet to review methodically as part of this sabattical - I suspect I may need to do this - one to discuss with my study buddy next time we meet.
 
 ### Wednesday, 15/08/2018
 
