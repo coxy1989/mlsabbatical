@@ -7,6 +7,21 @@
 
 ## Learning Log
 
+### Friday, 24/08/2018
+
+- I completed modules 5.1 and 5.2 ([cross-validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics))) from [Hastie and Tibshirani's Statistical Learning course](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about). I cross referenced with the corresponding sections of [The Elements of Statistical Learning](https://www.amazon.co.uk/Elements-Statistical-Learning-Prediction-Statistics-ebook/dp/B00475AS2E).
+
+- I completed modules 6.6, 6.7 and 6.8 (shrinkage methods, ridge and lasso regression, finding lambda) from [Hastie and Tibshirani's Statistical Learning course](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about). I cross referenced with the corresponding sections of [The Elements of Statistical Learning](https://www.amazon.co.uk/Elements-Statistical-Learning-Prediction-Statistics-ebook/dp/B00475AS2E).
+
+- I checked out the the scikit-learn [cross validation](http://scikit-learn.org/0.16/modules/cross_validation.html#cross-validation), [model evaluation](http://scikit-learn.org/stable/modules/model_evaluation.html) and [pipeline](http://scikit-learn.org/stable/modules/pipeline.html) docs and [used them](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/house_prices/house_prices.ipynb) in my [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) notebook. Using lasso regression yielded a competition score in the middle of the table.
+
+### Thursday, 23/08/2018
+
+- I [worked on](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/house_prices/house_prices.ipynb) on the kaggle [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) competition.
+
+
+- I read *Chapter 10: Predicting Continuous Target Variables with Regression Analysis* of [Python Machine Learning](https://books.google.co.uk/books/about/Python_Machine_Learning.html?id=HuxuawEACAAJ&source=kp_book_description&redir_esc=y)
+
 ### Wednesday, 22/08/2018
 
 - I [started working](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/house_prices/house_prices.ipynb) on the kaggle [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) competition, by the end of the day I'd fought my way out of the bottom quartile.
