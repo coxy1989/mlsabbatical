@@ -9,7 +9,7 @@
 
 ### Wednesday, 29/08/2018
 
-I completed the Ch1 and Ch2 lectures and questions from [Hastie and Tibshirani's Statistical Learning course](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about). I read the associated chapters from [An Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE) and did the exercies.
+I completed the Ch1 and Ch2 lectures and questions from [Hastie and Tibshirani's Statistical Learning course](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about). I read the associated chapters from [An Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE) and [did the exercies](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch2_statistical_learning/exercises.ipynb).
 
 ### Tuesday, 28/08/2018
 
