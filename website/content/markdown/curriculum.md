@@ -35,6 +35,8 @@ Three tracks of study are pursued in parallel:
 - [Checklist](https://davidrosenberg.github.io/mlcourse/Notes/prereq-questions/math-questions.pdf)
 - [Cribsheet](http://www.gatsby.ucl.ac.uk/teaching/courses/ml1-2008/cribsheet.pdf)
 
+---
+
 #### Supervised Learning & Statistics (90 hrs)
 
 - Course: [Foundations of Machine Learning](https://bloomberg.github.io/foml/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=email&utm_source=Artificial_Intelligence_Weekly_81#home) by Bloomberg ML EDU
@@ -45,6 +47,17 @@ Three tracks of study are pursued in parallel:
     - Understanding Machine Learning: From Theory to Algorithms (Shalev-Shwartz and Ben-David)
     - Machine Learning: a Probabilistic Perspective by Kevin Murhy
     - Data Science for Business (Provost and Fawcett)
+
+***UPDATE***
+
+#### Supervised Learning & Statistics (60 hrs)
+
+- Course: [Statistical Learning](https://bloomberg.github.io/foml/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=email&utm_source=Artificial_Intelligence_Weekly_81#home) by Trevor Hastie and Rob Tibshirani
+- Textbooks:
+    - [The Elements of Statistical Learning (Hastie, Friedman, and Tibshirani)](https://web.stanford.edu/~hastie/ElemStatLearn/)
+    - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+    
+---
 
 #### Unsupervised Learning / Graphical Models
 
