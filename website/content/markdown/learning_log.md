@@ -7,6 +7,14 @@
 
 ## Learning Log
 
+### Wednesday, 29/08/2018
+
+I completed the Ch1 and Ch2 lectures and questions from [Hastie and Tibshirani's Statistical Learning course](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about). I read the associated chapters from [An Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE) and did the exercies.
+
+### Tuesday, 28/08/2018
+
+I met with my study buddy to discuss our experience of the [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) competition, work thorough some sticking points and discuss our next steps. We resolved to complete [Hastie and Tibshirani's Statistical Learning course](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about).
+
 ### Friday, 24/08/2018
 
 - I completed modules 5.1 and 5.2 ([cross-validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics))) from [Hastie and Tibshirani's Statistical Learning course](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about). I cross referenced with the corresponding sections of [The Elements of Statistical Learning](https://www.amazon.co.uk/Elements-Statistical-Learning-Prediction-Statistics-ebook/dp/B00475AS2E).
