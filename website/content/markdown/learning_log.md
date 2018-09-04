@@ -7,6 +7,18 @@
 
 ## Learning Log
 
+### Monday, 3/09/2018
+
+I [started](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch3_statistical_learning/exercises_applied.ipynb) the applied exercises from chapter 3 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE) which I am porting from R to Python. I reviewed some of the material from the chapter and reached out to wikipedia and [The Elements of Statistical Learning](https://www.amazon.co.uk/Elements-Statistical-Learning-Prediction-Statistics-ebook/dp/B00475AS2E) for more detail. [This article](https://medium.com/@emredjan/emulating-r-regression-plots-in-python-43741952c034) was useful in reproducing the diagnostic regression plots that come for free with R.
+
+### Friday, 31/08/2018
+
+I completed reading chapter 3 from [An Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE) and [did the conceptual excercises](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch3_statistical_learning/exercises_conceptual.ipynb). I reviewed some of the material from the chapter and reached out to wikipedia and [The Elements of Statistical Learning](https://www.amazon.co.uk/Elements-Statistical-Learning-Prediction-Statistics-ebook/dp/B00475AS2E) for more detail.
+
+### Thursday, 30/08/2018
+
+I completed the Ch3 lectures and questions from [Hastie and Tibshirani's Statistical Learning course](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about). I started reading the associated chapter from [An Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE).
+
 ### Wednesday, 29/08/2018
 
 I completed the Ch1 and Ch2 lectures and questions from [Hastie and Tibshirani's Statistical Learning course](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about). I read the associated chapters from [An Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE) and [did the exercies](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch2_statistical_learning/exercises.ipynb).
