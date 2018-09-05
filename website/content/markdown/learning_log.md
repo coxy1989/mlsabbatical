@@ -7,6 +7,14 @@
 
 ## Learning Log
 
+### Wednesday, 4/09/2018
+
+A half day, I [very nearly finished](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch3_statistical_learning/exercises_applied.ipynb) the applied exercises from chapter 3 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE). Now I'm off to Bruges for for the rest of the week for my birthday, then I'm away next week in Greece for a  holiday. 
+
+### Tuesday, 4/09/2018
+
+I [continued](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch3_statistical_learning/exercises_applied.ipynb) the applied exercises from chapter 3 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE). Which lead me to read [this page](https://www.statsmodels.org/dev/examples/notebooks/generated/regression_plots.html) from the statsmodels docs about diagnostic regression plots. I also played around with [patsy](https://patsy.readthedocs.io/en/latest/) which I discovered via the [statsmodels formula API](https://www.statsmodels.org/dev/example_formulas.html) and skimmed the [scipy.stats](https://docs.scipy.org/doc/scipy/reference/tutorial/stats.html) documentation.
+
 ### Monday, 3/09/2018
 
 I [started](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch3_statistical_learning/exercises_applied.ipynb) the applied exercises from chapter 3 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE) which I am porting from R to Python. I reviewed some of the material from the chapter and reached out to wikipedia and [The Elements of Statistical Learning](https://www.amazon.co.uk/Elements-Statistical-Learning-Prediction-Statistics-ebook/dp/B00475AS2E) for more detail. [This article](https://medium.com/@emredjan/emulating-r-regression-plots-in-python-43741952c034) was useful in reproducing the diagnostic regression plots that come for free with R.
