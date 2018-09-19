@@ -7,9 +7,26 @@
 
 ## Learning Log
 
+### Wednesday, 18/09/2018
+
+- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_conceptual.ipynb) the conceptual excercises from Chapter 4 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE).
+- I [started](http://localhost:8888/notebooks/Desktop/mlsabbatical/notebooks/statistical_learning/ch4_statistical_learning/lab.ipynb) the Chapter 4 Lab.
+
+### Tuesday, 18/09/2018
+
+Back to the books: 
+
+- I read Chapter 4 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE).
+- I completed the lectures covering Chapter 4 from [Hastie and Tibshirani's Statistical Learning course](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about).
+- I [started the conceptual excercises](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_conceptual.ipynb) from Chapter 4.
+
+### Monday, 17/09/2018
+
+Back from holiday! I spent the day playing around with some applied project ideas that I hope to share once I've articulated them better. I intend to spent one day a week on the applied track from now on.
+
 ### Wednesday, 4/09/2018
 
-A half day, I [very nearly finished](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch3_statistical_learning/exercises_applied.ipynb) the applied exercises from chapter 3 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE). Now I'm off to Bruges for for the rest of the week for my birthday, then I'm away next week in Greece for a  holiday. 
+A half day, I [finished](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch3_statistical_learning/exercises_applied.ipynb) the applied exercises from chapter 3 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE). Now I'm off to Bruges for for the rest of the week for my birthday, then I'm away next week in Greece for a  holiday. 
 
 ### Tuesday, 4/09/2018
 
