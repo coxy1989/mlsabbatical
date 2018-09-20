@@ -7,6 +7,11 @@
 
 ## Learning Log
 
+### Thursday, 19/09/2018
+
+- I [completed](http://localhost:8888/notebooks/Desktop/mlsabbatical/notebooks/statistical_learning/ch4_statistical_learning/lab.ipynb) the Chapter 4 Lab.
+- I [very nearly completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_applied.ipynb) the applied excercises from Chapter 4 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE), just the last problem to do.
+
 ### Wednesday, 18/09/2018
 
 - I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_conceptual.ipynb) the conceptual excercises from Chapter 4 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE).
