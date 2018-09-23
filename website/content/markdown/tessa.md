@@ -25,7 +25,7 @@
 
 ### 1. Participant is enrolled by the investigator
 
-![] (https://github.com/coxy1989/mlsabbatical/blob/master/website/content/img/add_participant.png?raw=true)
+![](https://github.com/coxy1989/mlsabbatical/blob/master/website/content/img/add_participant.png?raw=true)
 
 ### 2. Participant gets first message from Pippa
 
