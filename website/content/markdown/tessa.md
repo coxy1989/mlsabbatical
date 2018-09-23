@@ -1,9 +1,17 @@
+# Project Tessa
+
+`tessa` - **T**essa **i**s a **s**ecure **s**cience **a**utomaton
+
 ## Summary
 
 - Watch [this video](https://www.youtube.com/watch?v=lYC6riNxmis)
 - The video paints a cool picture. However, ResearchKit itself is merely an iOS framework - which helps you build the UIs in the iOS app. Building, launch and maintaining any of the software systems in the video will cost you at least a hundred thousand dollars. You'll need to find and manage a team comprising of at least an iOS engineer, a backend engineer who knows about HIPPA compliance and a technical project manager. The systems in the video are actually [maintained by apple engineers](https://github.com/ResearchKit). 
 - Even if you do spend the hundred thousand dollars (or likely more), only people with apple devices can participate in your study - and they have to download an app to do so.
 - This proposal outlines a system that aims to reduce this cost by a factor of 1000, the objective is for a single individual, with no software engineering resource to be able to conduct a study like those in the video, where participants can use any device (not just an iPhone) for around $100.
+- The system is called tessa and it comprises:
+	-  Web interface for investigators to administer participants, download data and define the protocol for the study.
+	-  An automated messaging system.
+	-  Secure links to standalone web UIs that afford the collection of participant data.
 
 **ERRATA in screenshots**
 
