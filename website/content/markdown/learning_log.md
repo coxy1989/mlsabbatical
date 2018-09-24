@@ -12,7 +12,7 @@
 - I continued working on Chapter 5 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
 	- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/lab.ipynb) the lab.
 	- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/exercises_conceptual.ipynb) the conceptual questions.
-	- I [very nearly completed]() the applied questions, just the last question to finish off.
+	- I [very nearly completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/exercises_applied.ipynb) the applied questions, just the last problem to finish off.
 
 ### Friday, 20/09/2018
 
