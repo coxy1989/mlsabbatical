@@ -7,6 +7,20 @@
 
 ## Learning Log
 
+### Monday, 24/09/2018
+
+- I continued working on Chapter 5 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
+	- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/lab.ipynb) the lab.
+	- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/exercises_conceptual.ipynb) the conceptual questions.
+	- I [very nearly completed]() the applied questions, just the last question to finish off.
+
+### Friday, 20/09/2018
+
+- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_applied.ipynb) the applied excercises from Chapter 4 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE).
+- I started working on Chapter 5: Resampling Methods 
+	- I worked through the [online lectures and questions](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about).
+	- I read the corresponding chapter in [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE).
+
 ### Thursday, 19/09/2018
 
 - I [completed](http://localhost:8888/notebooks/Desktop/mlsabbatical/notebooks/statistical_learning/ch4_statistical_learning/lab.ipynb) the Chapter 4 Lab.
