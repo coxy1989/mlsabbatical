@@ -65,8 +65,8 @@
 
 ### 8. What could an investigator get participants to do?
 
-- [Surveys](http://researchkit.org/docs/docs/Survey/CreatingSurveys.html) as used in research kit - I'd reimplement them for the web.
-- [Active Tasks](http://researchkit.org/docs/docs/ActiveTasks/ActiveTasks.html#range) as used in research kit - I'd reimplement them for the web.
+- [Surveys](http://researchkit.org/docs/docs/Survey/CreatingSurveys.html) as used in research kit - reimplemented for the web.
+- [Active Tasks](http://researchkit.org/docs/docs/ActiveTasks/ActiveTasks.html#range) as used in research kit - reimplemented for the web.
 - Obtain video / images to train [ML models](http://machinemedicine.com/fingertapping/) / use these models to perform assessments.
 - Get participants to sign in with their [fitness trackers / other peripherals](https://dev.fitbit.com/build/reference/web-api/basics/) use data from those sensors in their studies.
 
