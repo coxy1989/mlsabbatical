@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>tessa</title>
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="../css/markdown.css">
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h1 id="project-tessa">Project Tessa</h1>
+<p><code>tessa</code> - <strong>T</strong>essa <strong>i</strong>s a <strong>s</strong>ecure <strong>s</strong>cience <strong>a</strong>utomaton</p>
+<h2 id="summary">Summary</h2>
+<ul>
+<li>Watch <a href="https://www.youtube.com/watch?v=lYC6riNxmis">this video</a></li>
+<li>The video paints a cool picture. However, ResearchKit itself is merely an iOS framework - which helps you build the UIs in the iOS app. Building, launch and maintaining any of the software systems in the video will cost you at least a hundred thousand dollars. You’ll need to find and manage a team comprising of at least an iOS engineer, a backend engineer who knows about HIPPA compliance and a technical project manager. The systems in the video are actually <a href="https://github.com/ResearchKit">maintained by apple engineers</a>.</li>
+<li>Even if you do spend the hundred thousand dollars (or likely more), only people with apple devices can participate in your study - and they have to download an app to do so.</li>
+<li>This proposal outlines a system that aims to reduce this cost by a factor of 1000, the objective is for a single individual, with no software engineering resource to be able to conduct a study like those in the video, where participants can use any device (not just an iPhone) for around $100.</li>
+<li>The system is called tessa and it comprises:
+<ul>
+<li>Web interface for investigators to administer participants, download data and define the protocol for the study.</li>
+<li>An automated messaging system.</li>
+<li>Secure links to standalone web UIs that afford the collection of participant data.</li>
+</ul></li>
+</ul>
+<p><strong>ERRATA in screenshots</strong></p>
+<ul>
+<li>URL in the nav bar shouldn’t be <code>pippa.science</code>, <code>pippa</code> is a study built using the proposed system, working title for the proposed system is <code>tessa</code> - <strong>t</strong>essa <strong>i</strong>s a <strong>s</strong>ecure <strong>s</strong>cience <strong>a</strong>utomaton. i.e as an investigator you would log into <code>https://tessa.science</code> to create your parkinsons study called <code>pippa</code>.</li>
+</ul>
+<h2 id="pippa">Pippa</h2>
+<p><strong>P</strong>ippa <strong>i</strong>s a <strong>P</strong>ersonal <strong>P</strong>arkinson’s <strong>A</strong>utomaton.</p>
+<h3 id="ux">UX</h3>
+<h3 id="participant-is-enrolled-by-the-investigator">1. Participant is enrolled by the investigator</h3>
+<p><img src="https://github.com/coxy1989/mlsabbatical/blob/master/website/content/img/add_participant.png?raw=true" /></p>
+<h3 id="participant-gets-first-message-from-pippa">2. Participant gets first message from Pippa</h3>
+<p><img src="https://github.com/coxy1989/mlsabbatical/blob/master/website/content/img/pippa_chat_1.png?raw=true" /></p>
+<h3 id="participant-follows-the-link-to-complete-the-activity">3. Participant follows the link to complete the activity</h3>
+<p><img src="https://github.com/coxy1989/mlsabbatical/blob/master/website/content/img/pippa_tapping.png?raw=true" /></p>
+<h3 id="participant-gets-his-second-message-from-pippa">4. Participant gets his second message from Pippa</h3>
+<p><img src="https://github.com/coxy1989/mlsabbatical/blob/master/website/content/img/pippa_chat_2.png?raw=true" /></p>
+<h3 id="participant-sends-a-message-to-pippa">5. Participant sends a message to Pippa</h3>
+<p><img src="https://github.com/coxy1989/mlsabbatical/blob/master/website/content/img/pippa_chat_3.png?raw=true" /></p>
+<h3 id="participant-continues-to-interact-with-pippa">6. Participant continues to interact with Pippa</h3>
+<p><img src="https://github.com/coxy1989/mlsabbatical/blob/master/website/content/img/pippa_chat_4.png?raw=true" /></p>
+<p><img src="https://github.com/coxy1989/mlsabbatical/blob/master/website/content/img/pippa_chat_5.png?raw=true" /></p>
+<p><img src="https://github.com/coxy1989/mlsabbatical/blob/master/website/content/img/pippa_chat_6.png?raw=true" /></p>
+<p><img src="https://github.com/coxy1989/mlsabbatical/blob/master/website/content/img/pippa_chart_2.png?raw=true" /></p>
+<h3 id="the-investigator-downloads-the-data">6. The investigator downloads the data</h3>
+<ul>
+<li>Imagine download button on same screen as the first screenshot, you get a csv with all the study data in it.</li>
+</ul>
+<h3 id="how-does-the-investigator-specify-the-responses-given-by-pippa">7. How does the investigator specify the responses given by pippa?</h3>
+<ul>
+<li>Imagine another tab next to the <code>participants</code> on same screen as the first screenshot called <code>protocol</code></li>
+<li>This tab has a UI which lets the investigator define a <a href="https://www.google.co.uk/search?q=finite+state+machine&amp;source=lnms&amp;tbm=isch">finite state machine</a> which models the conversation and including what tasks to link to and what charts/images if any to send. Clearly, this will not support a human-like coversation - but it doesn’t need to. My current thinking is you’d have say 30 days in a study and the investigator will define what goes on for each one with a small finite state machine.</li>
+</ul>
+<h3 id="what-could-an-investigator-get-participants-to-do">8. What could an investigator get participants to do?</h3>
+<ul>
+<li><a href="http://researchkit.org/docs/docs/Survey/CreatingSurveys.html">Surveys</a> as used in research kit - I’d reimplement them for the web.</li>
+<li><a href="http://researchkit.org/docs/docs/ActiveTasks/ActiveTasks.html#range">Active Tasks</a> as used in research kit - I’d reimplement them for the web.</li>
+<li>Obtain video / images to train <a href="http://machinemedicine.com/fingertapping/">ML models</a> / use these models to perform assessments.</li>
+<li>Get participants to sign in with their <a href="https://dev.fitbit.com/build/reference/web-api/basics/">fitness trackers / other peripherals</a> use data from those sensors in their studies.</li>
+</ul>
+</body>
+</html>
