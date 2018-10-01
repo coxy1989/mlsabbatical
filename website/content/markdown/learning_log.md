@@ -7,6 +7,27 @@
 
 ## Learning Log
 
+### Friday, 26/09/2018
+
+- I [started](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch6_statistical_learning/conceptual.ipynb) the conceptual questions from chapter 6.
+
+### Thursday, 25/09/2018
+
+- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch6_statistical_learning/lab.ipynb) the chapter 6 lab.
+
+### Wednesday, 25/09/2018
+
+- I continued working through [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
+	- I finished reading chapter 6.
+	- I [started](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch6_statistical_learning/lab.ipynb) the chapter 6 lab.
+
+### Tuesday, 24/09/2018
+
+- I continued working through [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
+	- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/exercises_applied.ipynb) the applied questions from chapter 5
+	- I worked through the [online lectures and questions](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) from chapter 6.
+	- I read chapter 6 from the book.
+
 ### Monday, 24/09/2018
 
 - I continued working on Chapter 5 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
