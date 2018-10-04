@@ -13,7 +13,7 @@
 	- I [finished](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch7_statistical_learning/applied.ipynb) the applied questions from Chapter 7: Moving Beyond Linearity
 	-  I watched the [online lectures](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) for Chapter 8: Tree Based Methods
 - Work on scoping out the possibility of a Baysian Inferance Unit as part of the sabbatical
-	- I read the preface to and scanned the rest of E.T Jaynes's [Probability Theory - The Logic of Science](https://bayes.wustl.edu/etj/prob/book.pdf)
+	- I read the preface to and flicked through the rest of E.T Jaynes's [Probability Theory - The Logic of Science](https://bayes.wustl.edu/etj/prob/book.pdf)
 	- I watched the first of [Aubrey Clayton's](https://www.youtube.com/watch?v=rfKS69cIwHc&list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_) lecture series which follows Jayne's text
 
 
