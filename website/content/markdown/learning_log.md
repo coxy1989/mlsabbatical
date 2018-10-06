@@ -7,12 +7,22 @@
 
 ## Learning Log
 
+### Friday, 04/10/2018
+
+- Chapter 8 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
+	- I read the chapter from [the book](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
+	- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch8_statistical_learning/lab.ipynb) the lab.
+	- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch8_statistical_learning/conceptual.ipynb) the conceptual questions.
+
+- Research - scoping out what content to include in a unit on Bayesian Inferance
+ 	- I watched the second of [Aubrey Clayton's](https://www.youtube.com/watch?v=rfKS69cIwHc&list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_) lecture series which follows [Probability Theory - The Logic of Science](https://bayes.wustl.edu/etj/prob/book.pdf)
+	
 ### Thursday, 03/10/2018
 
-- Work on [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
+- Chapters 7 and 8 [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
 	- I [finished](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch7_statistical_learning/applied.ipynb) the applied questions from Chapter 7: Moving Beyond Linearity
 	-  I watched the [online lectures](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) for Chapter 8: Tree Based Methods
-- Work on scoping out the possibility of a Bayesian Inferance Unit as part of the sabbatical
+- Research - scoping out what content to include in a unit on Bayesian Inferance
 	- I read the preface to and flicked through the rest of E.T Jaynes's [Probability Theory - The Logic of Science](https://bayes.wustl.edu/etj/prob/book.pdf)
 	- I watched the first of [Aubrey Clayton's](https://www.youtube.com/watch?v=rfKS69cIwHc&list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_) lecture series which follows Jayne's text
 
@@ -20,7 +30,7 @@
 ### Wednesday, 02/10/2018
 
 - Chapter 7 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
-	- I [finished](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch7_statistical_learning/lab.ipynb) the chapter 7 lab.
+	- I [finished off](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch7_statistical_learning/lab.ipynb) the chapter 7 lab.
 	- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch7_statistical_learning/conceptual.ipynb) the conceptual questions.
 	- I [started](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch7_statistical_learning/applied.ipynb) the applied questions.
 
@@ -32,7 +42,7 @@
 
 ### Monday, 01/10/2018
 
-- I finished chapter 6 from [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
+- Chapter 6 and 7 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
 	- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch6_statistical_learning/conceptual.ipynb) the conceptual questions (with the exception of Q7 - which will require an excursion into the Bayesian statistics literature, I've discussed this with my study buddy and we are going to fill this knowledge gap soon).
 	- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch6_statistical_learning/applied.ipynb) the applied questions.
 - I started chapter 7 from [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
@@ -57,34 +67,37 @@
 
 ### Tuesday, 24/09/2018
 
-- I continued working through [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
+- Chapters 5 and 6 [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
 	- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/exercises_applied.ipynb) the applied questions from chapter 5
 	- I worked through the [online lectures and questions](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) from chapter 6.
 	- I read chapter 6 from the book.
 
 ### Monday, 24/09/2018
 
-- I continued working on Chapter 5 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
+- Chapter 5 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
 	- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/lab.ipynb) the lab.
 	- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/exercises_conceptual.ipynb) the conceptual questions.
 	- I [very nearly completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/exercises_applied.ipynb) the applied questions, just the last problem to finish off.
 
 ### Friday, 20/09/2018
 
-- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_applied.ipynb) the applied excercises from Chapter 4 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE).
-- I started working on Chapter 5: Resampling Methods 
-	- I worked through the [online lectures and questions](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about).
-	- I read the corresponding chapter in [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE).
+- Chapters 4 and 5 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
+
+	- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_applied.ipynb) the applied excercises from Chapter 4 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE).
+	- I worked through the [online lectures and questions](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) for Chapter 5: Resampling Methods.
+	- I read the chapter 5 from [the book](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE).
 
 ### Thursday, 19/09/2018
 
-- I [completed](http://localhost:8888/notebooks/Desktop/mlsabbatical/notebooks/statistical_learning/ch4_statistical_learning/lab.ipynb) the Chapter 4 Lab.
-- I [very nearly completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_applied.ipynb) the applied excercises from Chapter 4 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE), just the last problem to do.
+- Chapter 4 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
+	- I [completed](http://localhost:8888/notebooks/Desktop/mlsabbatical/notebooks/statistical_learning/ch4_statistical_learning/lab.ipynb) the lab.
+	- I [very nearly completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_applied.ipynb) the applied excercises, just the last problem to do.
 
 ### Wednesday, 18/09/2018
 
-- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_conceptual.ipynb) the conceptual excercises from Chapter 4 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE).
-- I [started](http://localhost:8888/notebooks/Desktop/mlsabbatical/notebooks/statistical_learning/ch4_statistical_learning/lab.ipynb) the Chapter 4 Lab.
+- Chapter 4 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
+	- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_conceptual.ipynb) the conceptual excercises.
+	- I [started](http://localhost:8888/notebooks/Desktop/mlsabbatical/notebooks/statistical_learning/ch4_statistical_learning/lab.ipynb) the lab.
 
 ### Tuesday, 18/09/2018
 
