@@ -42,6 +42,10 @@
 
 ### Statistical Learning
 
+[The curse of dimensionality](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch2_statistical_learning/curse_of_dimensionality.ipynb)
+
+[Exercises](http://localhost:8888/notebooks/Desktop/mlsabbatical/notebooks/statistical_learning/ch2_statistical_learning/exercises.ipynb)
+
 ### Linear Regression
 
 ### Classification
