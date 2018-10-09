@@ -7,23 +7,38 @@
 
 ** **Under Construction** **
 
-# What you been up to coxy?
+# Units
 
-**Unit 4: TBC: Bayeseian Inferance**
+### Specialist
 
-**->** **Unit 3: Statistical Learning**
+- *Bayesian Inferance*
 
-**Unit 2: Mathematics for Machine Learning**
+- *Reinforcement Learning*
 
-**Unit 1: Introduction to Machine Learning**
+- *Deep Learning*
+
+- *Kaggling*
+
+### Foundational
+
+- *Introduction to Machine Learning*
+	- Course: [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+
+- *Mathematics for Machine Learning*
+
+	- Course: [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
+	- Textbook: [Mathematical Methods in the Physical Sciences](https://www.amazon.co.uk/Mathematical-Methods-Physical-Sciences-Mary/dp/0471365807) 
+
+- *Supervised Learning*
+
+	- Course: [Statistical Learning]() by Trevor Hastie and Rob Tibshirani
+	- Textbooks:
+		- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+	    - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 
-## Unit 3: Statistical Learning
 
-- Course: [Statistical Learning]() by Trevor Hastie and Rob Tibshirani
-- Textbooks:
-	- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
-    - [The Elements of Statistical Learning (Hastie, Friedman, and Tibshirani)](https://web.stanford.edu/~hastie/ElemStatLearn/)
+## Unit 3: Supervised Learning
 
 ### Statistical Learning
 
@@ -44,16 +59,7 @@
 ### Unsupervised Learning
 
 
-### Other Resources
-
-- kaggle house prices before
-- kaggle house prices after
-
 ## Unit 2: Mathematics for Machine Learning
-
-- Course: [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
-
-- Textbook: [Mathematical Methods in the Physical Sciences](https://www.amazon.co.uk/Mathematical-Methods-Physical-Sciences-Mary/dp/0471365807) 
 
 - *I completed all of the assignments and received [accreditation](https://www.coursera.org/account/accomplishments/specialization/ARMLMTNPZJTD)*
 
@@ -153,8 +159,6 @@ The course included multiple choice assignments which, unfortunately it is not p
 - I found the derivation of PCA on pages 392-3 of [Murphy's MLPP](https://www.amazon.co.uk/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) helpful.
 
 ## Unit 1: An Introduction to Machine Learning
-
-- Course: [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 
 - *I completed all the assignments. I haven't paid the $70 so I can't link to a certificate. I've linked to my assignment solutions below.*
 
