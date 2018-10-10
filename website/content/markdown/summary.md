@@ -9,17 +9,18 @@
 
 # Units
 
-### Specialist
+### Optional Modules
 
-- *Bayesian Inferance*
-
+- *Bayesian Inferance / Graphical Models / Probabalistic ML*
+	- TBC
 - *Reinforcement Learning*
-
+	- TBC
 - *Deep Learning*
-
+	- TBC
 - *Kaggling*
-
-### Foundational
+	- TBC
+	
+### Core Modules
 
 - *Introduction to Machine Learning*
 	- Course: [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
@@ -42,9 +43,14 @@
 
 ### Statistical Learning
 
-[The curse of dimensionality](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch2_statistical_learning/curse_of_dimensionality.ipynb)
+![The Curse of Dimensionality](https://github.com/coxy1989/mlsabbatical/blob/master/website/content/img/ch2_curse_of_dim.jpg?raw=true)
 
-[Exercises](http://localhost:8888/notebooks/Desktop/mlsabbatical/notebooks/statistical_learning/ch2_statistical_learning/exercises.ipynb)
+- What Is Statistical Learning?
+- Assessing Model Accuracy
+
+#### Notebooks
+- [The Curse of Dimensionality](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch2_statistical_learning/curse_of_dimensionality.ipynb)
+- [Conceptual Exercises](http://localhost:8888/notebooks/Desktop/mlsabbatical/notebooks/statistical_learning/ch2_statistical_learning/exercises.ipynb)
 
 ### Linear Regression
 
@@ -65,13 +71,12 @@
 
 ## Unit 2: Mathematics for Machine Learning
 
-- *I completed all of the assignments and received [accreditation](https://www.coursera.org/account/accomplishments/specialization/ARMLMTNPZJTD)*
+*FWIW - you get a certificate of completion, mine is [here](https://www.coursera.org/account/accomplishments/specialization/ARMLMTNPZJTD)*
 
 ### Linear Algebra
 
 #### Content
 
-- Dot product
 - Scalar and vector projection
 - Changing basis
 - Linear Independence
@@ -87,14 +92,12 @@
 - Power Iteration
 - Matrix Diagonalisation
 
-#### Assignments
+#### Notebooks
 
-- [Jupyter assignment: Transformation and change of basis](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_ReflectingBear.ipynb)
-- [Jupyter assignment: Singular matrices](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_IdentifyingSpecialMatrices.ipynb)
-- [Jupyter assignment: The Gram-Schmidt process](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_GramSchmidtProcess.ipynb)
-- [Jupyter assignment: Power iteration and PageRank](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_PageRank.ipynb)
-
-The course also multiple choice assignments which, unfortunately it is not possible to link to.
+- [Transformation and change of basis](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_ReflectingBear.ipynb)
+- [Singular matrices](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_IdentifyingSpecialMatrices.ipynb)
+- [The Gram-Schmidt process](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_GramSchmidtProcess.ipynb)
+- [Power iteration and PageRank](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_PageRank.ipynb)
 
 #### Other Resources
 
@@ -124,12 +127,11 @@ The course also multiple choice assignments which, unfortunately it is not possi
 - Distinguish appropriate models for particular data sets
 - Fitting functions to data using gradient descent
 
-#### Assignments
+#### Notebooks
 
-- [Jupypter assignment: Backpropagation](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/calc_Backpropagation.ipynb)
-- [Jupyter assignment: Gradient Descent](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/calc_Fitting%2Bthe%2Bdistribution%2Bof%2Bheights%2Bdata.ipynb)
+- [Backpropagation](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/calc_Backpropagation.ipynb)
+- [Gradient Descent](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/calc_Fitting%2Bthe%2Bdistribution%2Bof%2Bheights%2Bdata.ipynb)
 
-The course included multiple choice assignments which, unfortunately it is not possible to link to.
 
 #### Other Resources
 
@@ -151,12 +153,12 @@ The course included multiple choice assignments which, unfortunately it is not p
 - Deriving a proof for Principal Components Analysis.
 - Practical considerations when performing PCA on a data set.
 
-#### Assignments
+#### Notebooks
 
-- [Jupyter assignment: Variance, covariance and affine transformation of a dataset](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week1.ipynb)
-- [Jupyter assignment: Distance and angles in high dimensions](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week2.ipynb)
-- [Jupyter assignment: Orthogonal Projections](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week3.ipynb)
-- [Juptyter assignment: Implement Principal Component Analysis](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week4.ipynb)
+- [Variance, covariance and affine transformation of a dataset](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week1.ipynb)
+- [Distance and angles in high dimensions](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week2.ipynb)
+- [Orthogonal Projections](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week3.ipynb)
+- [Implement Principal Component Analysis](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week4.ipynb)
 
 #### Other Resources
 
@@ -164,7 +166,7 @@ The course included multiple choice assignments which, unfortunately it is not p
 
 ## Unit 1: An Introduction to Machine Learning
 
-- *I completed all the assignments. I haven't paid the $70 so I can't link to a certificate. I've linked to my assignment solutions below.*
+- *All the material is available for free - you have to pay $70 If you want a certificate, so I gave that a miss. I obtained full credit in all the assignments, I've linked to my solutions below.*
 
 ### Content
 
