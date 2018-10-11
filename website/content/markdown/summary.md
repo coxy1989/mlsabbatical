@@ -41,26 +41,41 @@
 
 ## Unit 3: Supervised Learning
 
-### Statistical Learning
+### Notebooks
 
-![The Curse of Dimensionality](https://github.com/coxy1989/mlsabbatical/blob/master/website/content/img/ch2_curse_of_dim.jpg?raw=true)
+- Statistical Learning Introduction
+	- 📖[The Curse of Dimensionality](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch2_statistical_learning/curse_of_dimensionality.ipynb)
+	- 📖[Exercises - Conceptual](http://localhost:8888/notebooks/Desktop/mlsabbatical/notebooks/statistical_learning/ch2_statistical_learning/exercises.ipynb)
 
-- What Is Statistical Learning?
-- Assessing Model Accuracy
+- Linear Regression
+	- 📖[Algorithm: Linear Regression](TODO)
+	- 📖 [Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch3_statistical_learning/exercises_conceptual.ipynb)
+	- 📖 [Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch3_statistical_learning/exercises_applied.ipynb)
+	
+- Classification
+	- 📖[Algorithm: Logistic Regression](TODO)
+	- 📖[Algorithm: Linear Discriminant Analysis](TODO)
+	- 📖[Algorithm: Quadratic Discriminant Analysis](TODO)
+	- 📖[Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_conceptual.ipynb)
+	- 📖[Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_applied.ipynb)
 
-#### Notebooks
-- [The Curse of Dimensionality](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch2_statistical_learning/curse_of_dimensionality.ipynb)
-- [Conceptual Exercises](http://localhost:8888/notebooks/Desktop/mlsabbatical/notebooks/statistical_learning/ch2_statistical_learning/exercises.ipynb)
+- Resampling Methods
+	- 📖[Algorithm: Cross Validation](TODO)
+	- 📖[Algorithm: The Bootstrap](TODO)
+	- 📖[Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_conceptual.ipynb)
+	- 📖[Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_applied.ipynb)
 
-### Linear Regression
+- Linear Model Selection and Regularisation
+	- 📖[Algorithm: Best Subset Selection](TODO)
+	- 📖[Algorithm: Forward and Backward Stepwise Selection](TODO)
+	- 📖[Algorithm: Ridge Regression](TODO)
+	- 📖[Algorithm: The Lasso](TODO)
+	- 📖[Algorithm: Principal Components Regression](TODO)
+	- 📖[Algorithm: Partial Least Squares](TODO)
+	- 📖[Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/exercises_conceptual.ipynb)
+	- 📖[Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/exercises_applied.ipynb)
 
-### Classification
-
-### Resampling Methods
-
-### Linear Model Selection and Regularisation
-
-### Moving Beyond Linearity
+- Moving Beyond Linearity
 
 ### Tree Based Methods
 
