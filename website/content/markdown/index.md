@@ -33,12 +33,15 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 		- [Khan Academy](https://www.khanacademy.org/math/)
 		- [Murphy's MLPP](https://www.amazon.co.uk/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) 
 
-## Optional Modules
+### Optional Modules
 
 - *Bayesian Inferance / Graphical Models / Probabalistic ML*
 	- TBC
 - *Reinforcement Learning*
-	- TBC
+	- Course: [Introduction to Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) by David Silver
+	- Textbooks: 
+		- [Reinforcment Learning (Sutton)](https://www.amazon.co.uk/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262193981)
+		- [Algorithms for Reinforcement Learning (Szepesvari)](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
 - *Deep Learning*
 	- TBC
 - *Kaggling*
