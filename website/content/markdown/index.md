@@ -162,7 +162,7 @@ Disclaimer - I did not *create* these notebooks in this section, though I did *c
 - [Octave Lab sheet: Implement K-means clustering and PCA](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/andrew_ng/machine-learning-ex7/ex7.pdf)
 	- [My solution](https://github.com/coxy1989/mlsabbatical/tree/master/notebooks/andrew_ng/machine-learning-ex7/ex7)
 
-- [Octave Lab sheet: Implement an anomaly detection algorithm and a movie recommendation system](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/andrew_ng/machine-learning-ex8/ex8.pdf)
+- [Octave Lab sheet: Implement an anomaly detection algorithm and a recommendation algorithm](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/andrew_ng/machine-learning-ex8/ex8.pdf)
 	- [My solution](https://github.com/coxy1989/mlsabbatical/tree/master/notebooks/andrew_ng/machine-learning-ex8/ex8)
 
 ## Dead Ends
