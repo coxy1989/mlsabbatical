@@ -1,9 +1,5 @@
-<p>
-  <a style="padding-right:20px;" href="./index.html">Home</a>
-  <a style="padding-right:20px;" href="./curriculum.html">Curriculum</a>
-  <a style="padding-right:20px;" href="./learning_log.html">Learning Log</a>
-  <a style="padding-right:20px;" href="./bookshelf.html">Bookshelf</a>
-</p>
+
+Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 

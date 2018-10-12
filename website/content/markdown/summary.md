@@ -1,13 +1,30 @@
 <p>
   <a style="padding-right:20px;" href="./index.html">Home</a>
-  <a style="padding-right:20px;" href="./curriculum.html">Curriculum</a>
   <a style="padding-right:20px;" href="./learning_log.html">Learning Log</a>
-  <a style="padding-right:20px;" href="./bookshelf.html">Bookshelf</a>
 </p>
 
-** **Under Construction** **
+# Modules
 
-# Units
+### Core Modules
+
+- Introduction to Machine Learning
+	- Course: [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng
+		
+- Supervised Learning
+	- Course: [Statistical Learning]() by Trevor Hastie and Rob Tibshirani
+	- Textbooks:
+		- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+	   	- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+
+- Mathematics for Machine Learning
+	- Course: [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
+	- Textbook: [Mathematical Methods in the Physical Sciences](https://www.amazon.co.uk/Mathematical-Methods-Physical-Sciences-Mary/dp/0471365807) 
+	- Other Resources:
+		-  [Pavel Grinfeld's Linear Algebra via lem.ma](https://www.lem.ma/home).
+		-  [Gilbert Strang's Linear Algebra via opencourseware](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
+		- [Symbolab](https://www.symbolab.com/)
+		- [Khan Academy](https://www.khanacademy.org/math/)
+		- [Murphy's MLPP](https://www.amazon.co.uk/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) 
 
 ### Optional Modules
 
@@ -20,26 +37,11 @@
 - *Kaggling*
 	- TBC
 	
-### Core Modules
+# Artefacts
 
-- *Introduction to Machine Learning*
-	- Course: [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+*Assignments and other notebooks I've produced along the way*
 
-- *Mathematics for Machine Learning*
-
-	- Course: [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
-	- Textbook: [Mathematical Methods in the Physical Sciences](https://www.amazon.co.uk/Mathematical-Methods-Physical-Sciences-Mary/dp/0471365807) 
-
-- *Supervised Learning*
-
-	- Course: [Statistical Learning]() by Trevor Hastie and Rob Tibshirani
-	- Textbooks:
-		- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
-	    - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
-
-
-
-## Unit 3: Supervised Learning
+## Supervised Learning
 
 ### Notebooks
 
@@ -48,194 +50,113 @@
 	- 📖[Exercises - Conceptual](http://localhost:8888/notebooks/Desktop/mlsabbatical/notebooks/statistical_learning/ch2_statistical_learning/exercises.ipynb)
 
 - Linear Regression
-	- 📖[Algorithm: Linear Regression](TODO)
+	- 📖*Algorithm: Linear Regression*
 	- 📖 [Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch3_statistical_learning/exercises_conceptual.ipynb)
 	- 📖 [Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch3_statistical_learning/exercises_applied.ipynb)
 	
 - Classification
-	- 📖[Algorithm: Logistic Regression](TODO)
-	- 📖[Algorithm: Linear Discriminant Analysis](TODO)
-	- 📖[Algorithm: Quadratic Discriminant Analysis](TODO)
+	- 📖*Algorithm: Logistic Regression*
+	- 📖*Algorithm: Linear Discriminant Analysis*
+	- 📖*Algorithm: Quadratic Discriminant Analysis*
+	- 📖[Lab](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/lab.ipynb)
 	- 📖[Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_conceptual.ipynb)
 	- 📖[Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_applied.ipynb)
 
 - Resampling Methods
-	- 📖[Algorithm: Cross Validation](TODO)
-	- 📖[Algorithm: The Bootstrap](TODO)
+	- 📖*Algorithm: Cross Validation*
+	- 📖*Algorithm: The Bootstrap*
+	- 📖[Lab](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/lab.ipynb)
 	- 📖[Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_conceptual.ipynb)
 	- 📖[Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_applied.ipynb)
 
 - Linear Model Selection and Regularisation
-	- 📖[Algorithm: Best Subset Selection](TODO)
-	- 📖[Algorithm: Forward and Backward Stepwise Selection](TODO)
-	- 📖[Algorithm: Ridge Regression](TODO)
-	- 📖[Algorithm: The Lasso](TODO)
-	- 📖[Algorithm: Principal Components Regression](TODO)
-	- 📖[Algorithm: Partial Least Squares](TODO)
+	- 📖*Algorithm: Best Subset Selection*
+	- 📖*Algorithm: Forward and Backward Stepwise Selection*
+	- 📖*Algorithm: Ridge Regression*
+	- 📖*Algorithm: The Lasso*
+	- 📖*Algorithm: Principal Components Regression*
+	- 📖*Algorithm: Partial Least Squares*
+	- 📖[Lab](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch6_statistical_learning/lab.ipynb)
 	- 📖[Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/exercises_conceptual.ipynb)
 	- 📖[Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/exercises_applied.ipynb)
 
 - Moving Beyond Linearity
+	- 📖*Algorithm: Regression Spline* 
+	- 📖*Algorithm: Smoothing Spline* 	
+	- 📖*Algorithm: Local Regression* 
+	- 📖*Algorithm: Generalized Additive Model (GAM)* 
+	- 📖[Lab](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch7_statistical_learning/lab.ipynb)
+	- 📖[Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch7_statistical_learning/conceptual.ipynb)
+	- 📖[Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch7_statistical_learning/applied.ipynb)
 
-### Tree Based Methods
+- Tree Based Methods
+	- 📖*Algorithm: Regression Tree* 
+	- 📖*Algorithm: Classification Tree* 
+	- 📖*Algorithm: Bagging* 
+	- 📖*Algorithm: Random Forests* 
+	- 📖*Algorithm: Boosting* 
+	- 📖[Lab](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch8_statistical_learning/lab.ipynb)
+	- 📖[Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch8_statistical_learning/conceptual.ipynb)
+	- 📖[Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch8_statistical_learning/applied.ipynb)
 
-### Support Vector Machines
+	
+- Support Vector Machines
+	- 📖*Algorithm: Support Vector Classifier* 
+	- 📖*Algorithm: Support Vector Machine* 
+	- 📖[Lab](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch9_statistical_learning/lab.ipynb)
+	- 📖[Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch9_statistical_learning/conceptual.ipynb)
+	- 📖[Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch9_statistical_learning/applied.ipynb)
 
-### Unsupervised Learning
+- Unsupervised Learning
+	- 📖*Algorithm: PCA* 
+	- 📖*Algorithm: K-Means* 
+	- 📖[Lab](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch10_statistical_learning/lab.ipynb)
+	- 📖[Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch10_statistical_learning/conceptual.ipynb)
+	- 📖[Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch10_statistical_learning/applied.ipynb)
 
 
-## Unit 2: Mathematics for Machine Learning
+## Mathematics for Machine Learning
 
 *FWIW - you get a certificate of completion, mine is [here](https://www.coursera.org/account/accomplishments/specialization/ARMLMTNPZJTD)*
 
-### Linear Algebra
+Disclaimer - I did not *create* these notebooks in this section, though I did *complete* them - they are provided by Coursera for completion as part of the assessement material for the course.
 
-#### Content
-
-- Scalar and vector projection
-- Changing basis
-- Linear Independence
-- Matrix transformations and their composition
-- Gaussian elimination
-- Matrix inverses
-- Determinants
-- Einstein summation notation
-- Transformations in a changed basis
-- Properties of orthogonal matrices
-- The Gram-Schmidt process
-- Eigenvectors and Eigenvalues
-- Power Iteration
-- Matrix Diagonalisation
-
-#### Notebooks
-
-- [Transformation and change of basis](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_ReflectingBear.ipynb)
-- [Singular matrices](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_IdentifyingSpecialMatrices.ipynb)
-- [The Gram-Schmidt process](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_GramSchmidtProcess.ipynb)
-- [Power iteration and PageRank](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_PageRank.ipynb)
-
-#### Other Resources
-
-- A while ago I did a systematic transit through the [Khan Academy Linear Algebra Track](https://www.khanacademy.org/math/linear-algebra), though verbose in places it was thorough and delivered in Sal's inimitable style.
-- Pavel Grinfeld is a superb lecturer, he has a free Linear Algebra series available at [lem.ma](https://www.lem.ma/home).
-- Gilbert Strang is the Linear Algebra don, his MIT Linear Algebra class is available free via [opencourseware](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/). Interestingly he is an adviser on the team at Pavel Grinfeld's lem.ma.
-
-### Multivariate Calculus
-
-- Definition of the derivative
-- The sum, power, product and chain rules
-- The derivatives of 1/x, e^x and trig functions.
-- Partial differentiation
-- The Jacobian matrix
-- The Hessian matrix
-- The multivariate chain rule
-- Applying the multivariate chain rule to train a neural network
-- Building approximate functions
-- Maclaurin series
-- Taylor series
-- Multivariate Taylor series
-- Linearisation
-- The Newton-Raphson method
-- Gradient Descent
-- Constrained Optimization: The method of Lagrange Multipliers
-- Regression as a minimisation of errors problem
-- Distinguish appropriate models for particular data sets
-- Fitting functions to data using gradient descent
-
-#### Notebooks
-
-- [Backpropagation](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/calc_Backpropagation.ipynb)
-- [Gradient Descent](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/calc_Fitting%2Bthe%2Bdistribution%2Bof%2Bheights%2Bdata.ipynb)
+- 📖[Transformation and change of basis](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_ReflectingBear.ipynb)
+- 📖[Singular matrices](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_IdentifyingSpecialMatrices.ipynb)
+- 📖[The Gram-Schmidt process](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_GramSchmidtProcess.ipynb)
+- 📖[Power iteration and PageRank](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_PageRank.ipynb)
+- 📖[Backpropagation](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/calc_Backpropagation.ipynb)
+- 📖[Gradient Descent](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/calc_Fitting%2Bthe%2Bdistribution%2Bof%2Bheights%2Bdata.ipynb)
+- 📖[Variance, covariance and affine transformation of a dataset](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week1.ipynb)
+- 📖[Distance and angles in high dimensions](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week2.ipynb)
+- 📖[Orthogonal Projections](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week3.ipynb)
+- 📖[Implement Principal Component Analysis](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week4.ipynb)
 
 
-#### Other Resources
+## An Introduction to Machine Learning
 
-- A while ago I did a systematic transit through the [Khan Academy Differential Calculus track](https://www.khanacademy.org/math/differential-calculus), though verbose in places it was thorough and delivered in Sal's inimitable style.
-- [Symbolab](https://www.symbolab.com/) is a great resource for checking your steps for careless mistakes if you're dusting off your calculus, it also has a repository of practice problems.
+*All the material is available for free - you have to pay $70 If you want a certificate, so I gave that a miss. I obtained full credit in all the assignments, I've linked to my solutions below.*
 
-### PCA
-
-#### Content
-
-- Expected Value, Variance and Covariance
-- Effect of a linear transformation of the dataset on the moments of the distibution.
-- The axiomatic definition of an inner product.
-- General definition of norms angles and orthogonality with respect to the inner product.
-- The inner product over a continuous domain; the inner product of a pair of functions as an integral and the inner product of a pair of random variables as their covariance.
-- Orthogonal projections
-- The axiomatic definition of: Groups, Fields, Vector Spaces, Vector Subspaces and their orthogonal complement.
-- The objective of PCA; equivalence of maximising variance of projected data and minimizing projection error.
-- Deriving a proof for Principal Components Analysis.
-- Practical considerations when performing PCA on a data set.
-
-#### Notebooks
-
-- [Variance, covariance and affine transformation of a dataset](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week1.ipynb)
-- [Distance and angles in high dimensions](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week2.ipynb)
-- [Orthogonal Projections](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week3.ipynb)
-- [Implement Principal Component Analysis](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week4.ipynb)
-
-#### Other Resources
-
-- I found the derivation of PCA on pages 392-3 of [Murphy's MLPP](https://www.amazon.co.uk/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) helpful.
-
-## Unit 1: An Introduction to Machine Learning
-
-- *All the material is available for free - you have to pay $70 If you want a certificate, so I gave that a miss. I obtained full credit in all the assignments, I've linked to my solutions below.*
-
-### Content
-
-- Linear Algebra Review
-- Octave / Matlab Review
-- Linear Regression
-	- Univariate and multivariate linear regression
-	- Closed form solution using the normal equation
-	- Numerical solution with hand rolled gradient descent
-	- Numerical solution with an advanced optimisation algorithm: L-BFGS
-	- [Octave Lab sheet: Implement Linear Regression](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/andrew_ng/machine-learning-ex1/ex1.pdf)
+- [Octave Lab sheet: Implement Linear Regression](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/andrew_ng/machine-learning-ex1/ex1.pdf)
 	- [My solution](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/andrew_ng/machine-learning-ex1/ex1/ex1.m)
-	- Polynomial regression
-	- The bias-variance trade off
-	- Learning curves
-	- Regularisation: controlling variance with an L2 penalty
-	- Hyperparameter tuning with cross validation
-	- [Octave  Lab sheet: Implement Regularised Linear Regression](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/andrew_ng/machine-learning-ex5/ex5.pdf)
+- [Octave  Lab sheet: Implement Regularised Linear Regression](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/andrew_ng/machine-learning-ex5/ex5.pdf)
 	- [My solution](https://github.com/coxy1989/mlsabbatical/tree/master/notebooks/andrew_ng/machine-learning-ex5/ex5)
-- Binary Classification: Logistic Regression
-	- Sigmoid, Odds and Logit
-	- Non-linear decision boundries with polynomial features
-	- Regularisation: controlling variance with an L2 penalty
-	- [Octave Lab sheet: Implement Logistic Regression](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/andrew_ng/machine-learning-ex2/ex2.pdf)
+- [Octave Lab sheet: Implement Logistic Regression](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/andrew_ng/machine-learning-ex2/ex2.pdf)
 	- [My solution](https://github.com/coxy1989/mlsabbatical/tree/master/notebooks/andrew_ng/machine-learning-ex2/ex2)
-- Multiclass Classification: Logistic Regression and Neural Networks
-	- Multiclass Logistic Regression
-	- Vectorised representation of a neural network
-	- Forward propagation and prediction
-	- [Octave Lab sheet: Implement One vs. All Logistic Regression](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/andrew_ng/machine-learning-ex3/ex3.pdf)
+
+- [Octave Lab sheet: Implement One vs. All Logistic Regression](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/andrew_ng/machine-learning-ex3/ex3.pdf)
 	- [My Solution](https://github.com/coxy1989/mlsabbatical/tree/master/notebooks/andrew_ng/machine-learning-ex3/ex3)
-	- Backpropagation
-	- Random initialisation
-	- Gradient checking
-	- Regularisation
-	- [Octave Lab sheet: Implement Backpropagation](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/andrew_ng/machine-learning-ex4/ex4.pdf)
+
+- [Octave Lab sheet: Implement Backpropagation](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/andrew_ng/machine-learning-ex4/ex4.pdf)
 	- [My Solution](https://github.com/coxy1989/mlsabbatical/tree/master/notebooks/andrew_ng/machine-learning-ex4/ex4)
-- Support Vector Machines
-	- Linear decision boundry
-	- Non-linear decision boundry with Gaussian kernel function
-	- Spam classification with a *bag of words* model
-	- [Octave Lab sheet: Implement an SVM](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/andrew_ng/machine-learning-ex6/ex6.pdf)
+
+- [Octave Lab sheet: Implement an SVM](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/andrew_ng/machine-learning-ex6/ex6.pdf)
 	- [My Solution](https://github.com/coxy1989/mlsabbatical/tree/master/notebooks/andrew_ng/machine-learning-ex6/ex6)
-- Unsupervised Learning
-	- K-Means clustering
-	- Principal component analysis
-	- [Octave Lab sheet: Implement K-means clustering and PCA](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/andrew_ng/machine-learning-ex7/ex7.pdf)
+
+- [Octave Lab sheet: Implement K-means clustering and PCA](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/andrew_ng/machine-learning-ex7/ex7.pdf)
 	- [My solution](https://github.com/coxy1989/mlsabbatical/tree/master/notebooks/andrew_ng/machine-learning-ex7/ex7)
-- Anomaly Detection and Recommender Systems
-	- Estimating parameters for a Gaussian
-	- The F1 score
-	- Anomaly detection in high dimensions
-	- Collaborative filtering
-	- [Octave Lab sheet: (a) Implement an anomaly detection algorithm (b) Implement a movie recommendation system](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/andrew_ng/machine-learning-ex8/ex8.pdf)
+
+- [Octave Lab sheet: Implement an anomaly detection algorithm and a movie recommendation system](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/andrew_ng/machine-learning-ex8/ex8.pdf)
 	- [My solution](https://github.com/coxy1989/mlsabbatical/tree/master/notebooks/andrew_ng/machine-learning-ex8/ex8)
 
 ## Dead Ends
