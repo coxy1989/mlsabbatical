@@ -3,13 +3,33 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
-### Tuesday, 06/10/2018
+### Friday, 12/10/2018
+
+- Chapter 10 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
+	- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch10_statistical_learning/conceptual.ipynb) the conceptual problems
+	- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch10_statistical_learning/applied.ipynb) the applied problems
+
+- I updated the [curriculum page](https://www.coxy1989.com/) of this site to bring it up to date with what I've been up to.
+
+### Thursday, 11/10/2018
+
+- Chapter 10 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
+	- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch10_statistical_learning/lab.ipynb) the lab
+	- I [started](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch10_statistical_learning/conceptual.ipynb) the conceptual problems
+
+### Wednesday, 10/10/2018
+
+- Chapter 10 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
+	-  I watched the [online lectures](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) for Chapter 10: Unsupervised Learning
+	- I read the corresponding Chapter in [the book](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
+	
+### Tuesday, 09/10/2018
 
 - Chapter 9 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
 	- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch9_statistical_learning/conceptual.ipynb) the conceptual problems
 	- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch9_statistical_learning/applied.ipynb) the applied problems
 
-### Monday, 05/10/2018
+### Monday, 08/10/2018
 
 - Chapter 8 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
 	- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch8_statistical_learning/applied.ipynb) the applied problems
@@ -18,7 +38,7 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 	- I read the corresponding Chapter in [the book](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
 	- I [completed](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch9_statistical_learning/lab.ipynb) the lab
 
-### Friday, 04/10/2018
+### Friday, 05/10/2018
 
 - Chapter 8 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
 	- I read the chapter from [the book](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
@@ -28,7 +48,7 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 - Research - scoping out what content to include in a unit on Bayesian Inferance
  	- I watched the second of [Aubrey Clayton's](https://www.youtube.com/watch?v=rfKS69cIwHc&list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_) lecture series which follows [Probability Theory - The Logic of Science](https://bayes.wustl.edu/etj/prob/book.pdf)
 	
-### Thursday, 03/10/2018
+### Thursday, 04/10/2018
 
 - Chapters 7 and 8 [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
 	- I [finished](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch7_statistical_learning/applied.ipynb) the applied questions from Chapter 7: Moving Beyond Linearity
@@ -38,7 +58,7 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 	- I watched the first of [Aubrey Clayton's](https://www.youtube.com/watch?v=rfKS69cIwHc&list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_) lecture series which follows Jayne's text
 
 
-### Wednesday, 02/10/2018
+### Wednesday, 03/10/2018
 
 - Chapter 7 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
 	- I [finished off](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch7_statistical_learning/lab.ipynb) the chapter 7 lab.
