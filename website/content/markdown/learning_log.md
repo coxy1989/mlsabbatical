@@ -3,6 +3,13 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
+### Monday, 13/10/2018
+
+- Working on my algorithm notebooks
+	- Got more comfortable writing [LaTeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics), it reminds me of regex - quick and easy to write, horrible to come back to and read/edit.
+	- Wrote a [linear regression notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/linear_regression.ipynb)
+	- Wrote a [logistic regression notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/logistic_regression.ipynb)
+
 ### Friday, 12/10/2018
 
 - Chapter 10 of [an Introduction to Statistical Learning](https://www.springer.com/gb/book/9781461471370?gclid=CjwKCAjwq57cBRBYEiwAdpx0vaZ-uhYESic2dZGkvVQSmZd6wznJ2LDQKAjkg81sJ_rp6s3mimNREhoCKwsQAvD_BwE)
