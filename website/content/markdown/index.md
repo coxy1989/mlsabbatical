@@ -59,7 +59,7 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 	- 📖[Exercises - Conceptual](http://localhost:8888/notebooks/Desktop/mlsabbatical/notebooks/statistical_learning/ch2_statistical_learning/exercises.ipynb)
 
 - Linear Regression
-	- 📖*Algorithm: Linear Regression*
+	- 📖[Algorithm: Linear Regression](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/linear_regression.ipynb)
 	- 📖 [Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch3_statistical_learning/exercises_conceptual.ipynb)
 	- 📖 [Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch3_statistical_learning/exercises_applied.ipynb)
 	
