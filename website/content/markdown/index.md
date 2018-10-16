@@ -64,7 +64,7 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 	- 📖 [Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch3_statistical_learning/exercises_applied.ipynb)
 	
 - Classification
-	- 📖*Algorithm: Logistic Regression*
+	- 📖[Algorithm: Logistic Regression](http://localhost:8888/notebooks/Desktop/mlsabbatical/notebooks/algorithms/logistic_regression.ipynb)
 	- 📖*Algorithm: Linear Discriminant Analysis*
 	- 📖*Algorithm: Quadratic Discriminant Analysis*
 	- 📖[Lab](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/lab.ipynb)
