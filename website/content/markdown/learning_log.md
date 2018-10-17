@@ -3,6 +3,19 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
+### Wednesday, 15/10/2018
+
+- Working on my algorithm notebooks
+	- Tidied up yesterday's [linear discriminant analysis notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/linear_discriminant_analysis.ipynb)
+	- Wrote a [quadratic discriminant analysis notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/quadratic_discriminant_analysis.ipynb)
+	- Started a [K-Fold cross validation notebook]()
+
+### Tuesday, 14/10/2018
+
+- Working on my algorithm notebooks
+	- Tidied up yesterday's [logistic regression notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/logistic_regression.ipynb)
+	- Wrote a [linear discriminant analysis notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/linear_discriminant_analysis.ipynb)
+
 ### Monday, 13/10/2018
 
 - Working on my algorithm notebooks
