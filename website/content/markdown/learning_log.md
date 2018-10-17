@@ -8,7 +8,7 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 - Working on my algorithm notebooks
 	- Tidied up yesterday's [linear discriminant analysis notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/linear_discriminant_analysis.ipynb)
 	- Wrote a [quadratic discriminant analysis notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/quadratic_discriminant_analysis.ipynb)
-	- Started a [K-Fold cross validation notebook]()
+	- Started a [k-fold cross validation notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/cross_validation.ipynb)
 
 ### Tuesday, 14/10/2018
 
