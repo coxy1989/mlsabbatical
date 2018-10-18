@@ -3,20 +3,27 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
-### Wednesday, 15/10/2018
+### Thursday, 18/10/2018
+
+- Working on my algorithm notebooks
+	- Finished off yesterday evening's [k-fold cross validation notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/cross_validation.ipynb)
+	- Wrote a [perceptron notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/rosenblatt_perceptron.ipynb)
+	- Read section `4.5: Seperating Hyperplanes` and `12.2: Support Vector Classifier` from [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) with the aspiration of writing an SVM notebook. I was thwarted by some unfamiliar mathematics - which was frustrating but I didn't feel too bad about it as the section is associated with an *[Edvard Munch - The Scream](https://www.edvardmunch.org/images/paintings/the-scream.jpg)* icon in the book. I'll need to grok [Lagrangian/Wolfe Duality](https://en.wikipedia.org/wiki/Duality_(optimization)) before I return to it.
+
+### Wednesday, 17/10/2018
 
 - Working on my algorithm notebooks
 	- Tidied up yesterday's [linear discriminant analysis notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/linear_discriminant_analysis.ipynb)
 	- Wrote a [quadratic discriminant analysis notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/quadratic_discriminant_analysis.ipynb)
 	- Started a [k-fold cross validation notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/cross_validation.ipynb)
 
-### Tuesday, 14/10/2018
+### Tuesday, 16/10/2018
 
 - Working on my algorithm notebooks
 	- Tidied up yesterday's [logistic regression notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/logistic_regression.ipynb)
 	- Wrote a [linear discriminant analysis notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/linear_discriminant_analysis.ipynb)
 
-### Monday, 13/10/2018
+### Monday, 15/10/2018
 
 - Working on my algorithm notebooks
 	- Got more comfortable writing [LaTeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics), it reminds me of regex - quick and easy to write, horrible to come back to and read/edit.
