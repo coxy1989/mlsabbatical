@@ -110,6 +110,7 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 
 	
 - Support Vector Machines
+ 	- 📖[Algorithm: Perceptron](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/rosenblatt_perceptron.ipynb)
 	- 📖*Algorithm: Support Vector Classifier* 
 	- 📖*Algorithm: Support Vector Machine* 
 	- 📖[Lab](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch9_statistical_learning/lab.ipynb)
