@@ -79,7 +79,7 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 	- 📖[Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_applied.ipynb)
 
 - Linear Model Selection and Regularisation
-	- 📖*Algorithm: Best Subset Selection*
+	- 📖[Algorithm: Best Subset Selection](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/best_subset_selection.ipynb)
 	- 📖*Algorithm: Forward and Backward Stepwise Selection*
 	- 📖*Algorithm: Ridge Regression*
 	- 📖*Algorithm: The Lasso*
