@@ -73,7 +73,7 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 
 - Resampling Methods
 	- 📖[Algorithm: K-Fold Cross Validation](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/cross_validation.ipynb)
-	- 📖*Algorithm: The Bootstrap*
+	- 📖[Algorithm: The Bootstrap](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/bootstrap.ipynb)
 	- 📖[Lab](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/lab.ipynb)
 	- 📖[Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_conceptual.ipynb)
 	- 📖[Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_applied.ipynb)
