@@ -3,6 +3,13 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
+### Friday, 19/10/2018
+
+- Working on my algorithm notebooks
+	- Wrote a *very* small [bootstrap notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/bootstrap.ipynb)
+	- Wrote a [best subsets notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/best_subset_selection.ipynb)
+	- Wrote a [stepwise selection notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/stepwise_selection.ipynb)
+
 ### Thursday, 18/10/2018
 
 - Working on my algorithm notebooks
