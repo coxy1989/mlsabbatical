@@ -81,7 +81,7 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 - Linear Model Selection and Regularisation
 	- 📖[Algorithm: Best Subset Selection](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/best_subset_selection.ipynb)
 	- 📖[Algorithm: Forward and Backward Stepwise Selection](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/stepwise_selection.ipynb)
-	- 📖*Algorithm: Ridge Regression*
+	- 📖[Algorithm: Ridge Regression](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/ridge_regression.ipynb)
 	- 📖*Algorithm: The Lasso*
 	- 📖*Algorithm: Principal Components Regression*
 	- 📖*Algorithm: Partial Least Squares*
