@@ -64,7 +64,7 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 	- 📖 [Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch3_statistical_learning/exercises_applied.ipynb)
 	
 - Classification
-	- 📖[Algorithm: Logistic Regression](http://localhost:8888/notebooks/Desktop/mlsabbatical/notebooks/algorithms/logistic_regression.ipynb)
+	- 📖[Algorithm: Logistic Regression](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/logistic_regression.ipynb)
 	- 📖[Algorithm: Linear Discriminant Analysis](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/linear_discriminant_analysis.ipynb)
 	- 📖[Algorithm: Quadratic Discriminant Analysis](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/quadratic_discriminant_analysis.ipynb)
 	- 📖[Lab](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/lab.ipynb)
@@ -80,7 +80,7 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 
 - Linear Model Selection and Regularisation
 	- 📖[Algorithm: Best Subset Selection](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/best_subset_selection.ipynb)
-	- 📖*Algorithm: Forward and Backward Stepwise Selection*
+	- 📖[Algorithm: Forward and Backward Stepwise Selection](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/stepwise_selection.ipynb)
 	- 📖*Algorithm: Ridge Regression*
 	- 📖*Algorithm: The Lasso*
 	- 📖*Algorithm: Principal Components Regression*
