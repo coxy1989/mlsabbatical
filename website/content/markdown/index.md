@@ -184,7 +184,7 @@ Disclaimer - I did not *create* these notebooks in this section, though I did *c
 
 - Ridge Regression, Gradient Descent and SGD
 	- [Concept Check 1: Statistical Learning Theory](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/bloomberg/downloads/bloomberg_lec_check_1.pdf)
-	- [Solutions: written](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/bloomberg/bloomberg_lec_check_1.md)
-	- [Solutions: code](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/bloomberg/bloomberg_lec_check_1.py)
+	- [My solutions: written](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/bloomberg/bloomberg_lec_check_1.md)
+	- [My solutions: code](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/bloomberg/bloomberg_lec_check_1.py)
 
 Discontinued in favour of [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) by Trevor Hastie and Rob Tibshirani.
