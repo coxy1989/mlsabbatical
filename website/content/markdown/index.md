@@ -35,8 +35,15 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 
 ### Optional Modules
 
-- *Bayesian Inferance / Graphical Models / Probabalistic ML*
+- *Bayesian Inference / Graphical Models / Probabalistic ML*
 	- TBC
+
+- *Convex Optimization*
+	- Course: 
+		- [Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/) from Carnigie Mellon, delivered by Assoc. Prof Ryan Tibsharani 
+		- [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/info) from Stanford by Prof Stephen Boyd
+	- Textbooks:
+		- 	[Boyd's Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 - *Reinforcement Learning*
 	- Course: [Introduction to Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) by David Silver
 	- Textbooks: 
