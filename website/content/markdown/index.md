@@ -15,16 +15,16 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 ## Core Modules
 
 - Introduction to Machine Learning
-	- Course: [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng
+	- Course: [Machine Learning](https://www.coursera.org/learn/machine-learning) from Stanford by Andrew Ng
 		
 - Supervised Learning
-	- Course: [Statistical Learning]() by Trevor Hastie and Rob Tibshirani
+	- Course: [Statistical Learning]() from Stanford by Trevor Hastie and Rob Tibshirani
 	- Textbooks:
 		- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 	   	- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 - Mathematics for Machine Learning
-	- Course: [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
+	- Course: [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) from Imperial College London
 	- Textbook: [Mathematical Methods in the Physical Sciences](https://www.amazon.co.uk/Mathematical-Methods-Physical-Sciences-Mary/dp/0471365807) 
 	- Other Resources:
 		-  [Pavel Grinfeld's Linear Algebra via lem.ma](https://www.lem.ma/home).
@@ -40,12 +40,12 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 
 - *Convex Optimization*
 	- Course: 
-		- [Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/) from Carnigie Mellon, delivered by Assoc. Prof Ryan Tibsharani 
-		- [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/info) from Stanford by Prof Stephen Boyd
+		- [Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/) from Carnigie Mellon by Ryan Tibsharani 
+		- [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/info) from Stanford by Stephen Boyd
 	- Textbooks:
 		- 	[Boyd's Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 - *Reinforcement Learning*
-	- Course: [Introduction to Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) by David Silver
+	- Course: [Introduction to Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) from DeepMind by David Silver
 	- Textbooks: 
 		- [Reinforcment Learning (Sutton)](https://www.amazon.co.uk/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262193981)
 		- [Algorithms for Reinforcement Learning (Szepesvari)](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
