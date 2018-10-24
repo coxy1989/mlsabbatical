@@ -106,11 +106,8 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 	- 📖[Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch7_statistical_learning/applied.ipynb)
 
 - Tree Based Methods
-	- 📖[Algorithm: Regression Tree](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/regression_tree.ipynb)
-	- 📖*Algorithm: Classification Tree* 
-	- 📖[Algorithm: Bagging](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/bagging.ipynb)
-	- 📖[Algorithm: Random Forests](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/random_forests.ipynb)
-	- 📖*Algorithm: Boosting* 
+	- 📖[Algorithms: Regression Trees with Bagging, Boosting and Random Forests](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/regression_tree.ipynb)
+	- 📖*Algorithms: Classification Trees with Bagging, Boosting and Random Forests* 
 	- 📖[Lab](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch8_statistical_learning/lab.ipynb)
 	- 📖[Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch8_statistical_learning/conceptual.ipynb)
 	- 📖[Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch8_statistical_learning/applied.ipynb)
