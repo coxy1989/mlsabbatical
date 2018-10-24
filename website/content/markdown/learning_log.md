@@ -5,6 +5,11 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ### Monday, 22/10/2018
 - Working on my algorithm notebooks
+	- Wrote a [regression tree notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/regression_tree.ipynb)
+	- Read about [cost complexity pruning](ftp://public.dhe.ibm.com/software/analytics/spss/support/Stats/Docs/Statistics/Algorithms/13.0/TREE-pruning.pdf) the details of which are omitted in [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) and [the algorithm is not implemented in SKLearn](https://github.com/scikit-learn/scikit-learn/issues/6557), I will consider contributing an implementation.
+
+### Monday, 22/10/2018
+- Working on my algorithm notebooks
 	- Wrote a [ridge regression notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/ridge_regression.ipynb)
 	- Read section `3.4.2: The Lasso` from [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) and read about [proximal gradient methods](https://en.wikipedia.org/wiki/Proximal_gradient_methods_for_learning), this technique sits in the domain of convex optimization, which I have yet to take down systematically. I added [some notes to an optional module](https://www.coxy1989.com/) that I may well persue on this subject.
 	- Wrote a [k-means notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/k_means.ipynb)

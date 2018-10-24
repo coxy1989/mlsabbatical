@@ -106,7 +106,7 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 	- 📖[Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch7_statistical_learning/applied.ipynb)
 
 - Tree Based Methods
-	- 📖*Algorithm: Regression Tree* 
+	- 📖[Algorithm: Regression Tree](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/regression_tree.ipynb)
 	- 📖*Algorithm: Classification Tree* 
 	- 📖*Algorithm: Bagging* 
 	- 📖*Algorithm: Random Forests* 
