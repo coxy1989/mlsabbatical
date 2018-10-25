@@ -13,7 +13,7 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 ### Wednesday, 24/10/2018
 - Working on my algorithm notebooks
 	- Added bagging to [yesterday's regression trees notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/regression_trees.ipynb) 
-	- Added random forests to [yesterday's regression trees notbook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/regression_trees.ipynb)
+	- Added random forests to [yesterday's regression trees notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/regression_trees.ipynb)
 
 ### Tuesday, 23/10/2018
 - Working on my algorithm notebooks
