@@ -124,7 +124,7 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 	- 📖[Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch9_statistical_learning/applied.ipynb)
 
 - Unsupervised Learning
-	- 📖*Algorithm: PCA* 
+	- 📖[Algorithm: PCA](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/pca.ipynb)
 	- 📖[Algorithm: K-Means](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/k_means.ipynb)
 	- 📖[Lab](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch10_statistical_learning/lab.ipynb)
 	- 📖[Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch10_statistical_learning/conceptual.ipynb)
