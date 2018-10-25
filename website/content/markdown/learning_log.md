@@ -3,12 +3,12 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
-### Monday, 22/10/2018
+### Wednesday, 24/10/2018
 - Working on my algorithm notebooks
 	- Added bagging to [yesterday's regression trees notbook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/regression_trees.ipynb) 
 	- Added random forests to [yesterday's regression trees notbook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/regression_trees.ipynb)
 
-### Monday, 22/10/2018
+### Tuesday, 23/10/2018
 - Working on my algorithm notebooks
 	- Wrote a [regression tree notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/regression_trees.ipynb)
 	- Read about [cost complexity pruning](ftp://public.dhe.ibm.com/software/analytics/spss/support/Stats/Docs/Statistics/Algorithms/13.0/TREE-pruning.pdf) the details of which are omitted in [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) and [the algorithm is not implemented in SKLearn](https://github.com/scikit-learn/scikit-learn/issues/6557), I will consider contributing an implementation.
