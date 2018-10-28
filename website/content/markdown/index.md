@@ -36,10 +36,15 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 ### Optional Modules
 
 - *Bayesian Inference / Graphical Models / Probabalistic ML*
-	- TBC
+	- Courses:
+		- [Aubrey Clayton's Logic of Science lecture series](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_)
+		- [Richard McElrath's Statisitcal Rethinking lecture series](https://www.youtube.com/playlist?list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc)
+	- Textbooks:
+		- [E.T Jaynes's The Logic of Science](https://bayes.wustl.edu/etj/prob/book.pdf)
+		- [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)
 
 - *Convex Optimization*
-	- Course: 
+	- Courses: 
 		- [Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/) from Carnigie Mellon by Ryan Tibsharani 
 		- [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/info) from Stanford by Stephen Boyd
 	- Textbooks:
@@ -50,9 +55,13 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 		- [Reinforcment Learning (Sutton)](https://www.amazon.co.uk/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262193981)
 		- [Algorithms for Reinforcement Learning (Szepesvari)](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
 - *Deep Learning*
-	- TBC
-- *Kaggling*
-	- TBC
+	- Course: [Andrew Ng's Deep Learning Specialisation](https://www.coursera.org/specializations/deep-learning)
+	- Textbooks:
+		- [Deep Learning (Goodfellow, Bengio, Courville)](https://www.deeplearningbook.org/)
+- *Applied Machine Learning*
+	- Reimplement winning / top scoring kaggle entries
+	- Compete in kaggle contests
+	- Compete at hackathons
 
 
 ## Supervised Learning
