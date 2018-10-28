@@ -3,6 +3,13 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
+### Friday, 26/10/2018
+
+- Investigating AWS Sagemaker
+	- Read [the developer guide](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-dg.pdf)
+	- Worked through the [breast cancer prediction notebook](https://github.com/awslabs/amazon-sagemaker-examples/blob/master/introduction_to_applying_machine_learning/breast_cancer_prediction/Breast%20Cancer%20Prediction.ipynb)
+	- Worked through [the XGBoost notebook](https://github.com/awslabs/amazon-sagemaker-examples/blob/master/introduction_to_applying_machine_learning/xgboost_customer_churn/xgboost_customer_churn.ipynb)
+
 ### Thursday, 25/10/2018
 
 - Read about [XGBoost](https://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf)
