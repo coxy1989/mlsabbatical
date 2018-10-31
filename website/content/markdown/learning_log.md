@@ -3,6 +3,21 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
+### Tuesday, 30/10/2018
+
+- Competing in [South East Water's preventing bursts hackathon](https://solveitsew.devpost.com/)
+	- With the clock ticking we finished off yesterdays preprocessing pipeline and had only a couple of hours to fit some models - which, given the size of the dataset took 20 minutes each to train.
+	- We got best performance with a boosted classification tree and presented our solution: *Burst Forecast*.
+	- Although we did not make it into the prizes, my study buddy and I got a special mention from the judges - who saw potential in our solution. It was encouraging to get nice feedback from them and the wider team. The process was a lot of fun and I learned alot. 
+
+### Monday, 29/10/2018
+
+- Competing in [South East Water's preventing bursts hackathon](https://solveitsew.devpost.com/) 
+	-  I entered alongside my study buddy. 
+	-  The datasets we were given access to were very large, containing hundreds of millions of rows.
+	-  We set ourselves the goal of predicting the chance of a burst occuring tomorrow in each section of the network.
+	-  We concieved of and implemented a data preprocessing pipeline that emitted a dataset that was ameanable to our arsenal of supervised learning techniques. This was the lion's share of the work.
+	
 ### Friday, 26/10/2018
 
 - Investigating AWS Sagemaker
