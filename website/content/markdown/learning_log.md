@@ -3,12 +3,16 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
+### Wednesdy, 31/10/2018
+
+- Struck down with a chest infection
+
 ### Tuesday, 30/10/2018
 
 - Competing in [South East Water's preventing bursts hackathon](https://solveitsew.devpost.com/)
 	- With the clock ticking we finished off yesterdays preprocessing pipeline and had only a couple of hours to fit some models - which, given the size of the dataset took 20 minutes each to train.
 	- We got best performance with a boosted classification tree and presented our solution: *Burst Forecast*.
-	- Although we did not make it into the prizes, my study buddy and I got a special mention from the judges - who saw potential in our solution. It was encouraging to get nice feedback from them and the wider team. The process was a lot of fun and I learned alot. 
+	- Although we did not make it into the prizes, my study buddy and I got a special mention from the judges - who saw potential in our solution. It was encouraging to get nice feedback from them and the South East Water team. The process was a lot of fun and I learned alot. 
 
 ### Monday, 29/10/2018
 

@@ -52,7 +52,7 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 - *Reinforcement Learning*
 	- Course: [Introduction to Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) from DeepMind by David Silver
 	- Textbooks: 
-		- [Reinforcment Learning (Sutton)](https://www.amazon.co.uk/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262193981)
+		- [Reinforcement Learning (Sutton)](https://www.amazon.co.uk/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262193981)
 		- [Algorithms for Reinforcement Learning (Szepesvari)](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
 - *Deep Learning*
 	- Course: [Andrew Ng's Deep Learning Specialisation](https://www.coursera.org/specializations/deep-learning)
