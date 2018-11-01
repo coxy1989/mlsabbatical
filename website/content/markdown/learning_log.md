@@ -6,6 +6,9 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 ### Wednesdy, 31/10/2018
 
 - Struck down with a chest infection
+	- Added classification to my [trees notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/trees.ipynb)
+	- Indulged in some Pavel Grindfeld lectures
+	- Not much else
 
 ### Tuesday, 30/10/2018
 
