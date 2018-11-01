@@ -119,8 +119,7 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 	- 📖[Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch8_statistical_learning/conceptual.ipynb)
 	- 📖[Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch8_statistical_learning/applied.ipynb)
 	- 📖[Lab](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch8_statistical_learning/lab.ipynb)
-	- 📖[Algorithms: Regression Trees, Bagging and Random Forests](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/regression_trees_ensemble.ipynb)
-	- 📖*Algorithms: Classification Trees, Bagging and Random Forests* 
+	- 📖[Algorithms: Trees, Bagging, Random Forests and Boosting](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/trees.ipynb)
 	- 📖*Algorithm: AdaBoost* 
 	- 📖*Algorithm: Gradient Boosting* 
 
