@@ -71,73 +71,73 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 ### Notebooks
 
 - Statistical Learning Introduction
-	- 📖[Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch2_statistical_learning/exercises.ipynb)
-	- 📖[The Curse of Dimensionality](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch2_statistical_learning/curse_of_dimensionality.ipynb)
+	- 📖[Exercises - Conceptual](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch2_statistical_learning/exercises.ipynb)
+	- 📖[The Curse of Dimensionality](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch2_statistical_learning/curse_of_dimensionality.ipynb)
 
 - Linear Regression
-	- 📖 [Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch3_statistical_learning/exercises_conceptual.ipynb)
-	- 📖 [Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch3_statistical_learning/exercises_applied.ipynb)
-	- 📖[Algorithm: Linear Regression](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/linear_regression.ipynb)
+	- 📖 [Exercises - Conceptual](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch3_statistical_learning/exercises_conceptual.ipynb)
+	- 📖 [Exercises - Applied](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch3_statistical_learning/exercises_applied.ipynb)
+	- 📖[Algorithm: Linear Regression](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/linear_regression.ipynb)
 	
 - Classification
-	- 📖[Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_conceptual.ipynb)
-	- 📖[Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_applied.ipynb)
-	- 📖[Lab](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/lab.ipynb)
-	- 📖[Algorithm: Logistic Regression](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/logistic_regression.ipynb)
-	- 📖[Algorithm: Linear Discriminant Analysis](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/linear_discriminant_analysis.ipynb)
-	- 📖[Algorithm: Quadratic Discriminant Analysis](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/quadratic_discriminant_analysis.ipynb)
+	- 📖[Exercises - Conceptual](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_conceptual.ipynb)
+	- 📖[Exercises - Applied](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_applied.ipynb)
+	- 📖[Lab](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/lab.ipynb)
+	- 📖[Algorithm: Logistic Regression](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/logistic_regression.ipynb)
+	- 📖[Algorithm: Linear Discriminant Analysis](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/linear_discriminant_analysis.ipynb)
+	- 📖[Algorithm: Quadratic Discriminant Analysis](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/quadratic_discriminant_analysis.ipynb)
 
 - Resampling Methods
-	- 📖[Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_conceptual.ipynb)
-	- 📖[Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_applied.ipynb)
-	- 📖[Lab](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/lab.ipynb)
-	- 📖[Algorithm: K-Fold Cross Validation](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/cross_validation.ipynb)
-	- 📖[Algorithm: The Bootstrap](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/bootstrap.ipynb)
+	- 📖[Exercises - Conceptual](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_conceptual.ipynb)
+	- 📖[Exercises - Applied](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_applied.ipynb)
+	- 📖[Lab](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/lab.ipynb)
+	- 📖[Algorithm: K-Fold Cross Validation](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/cross_validation.ipynb)
+	- 📖[Algorithm: The Bootstrap](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/bootstrap.ipynb)
 
 
 - Linear Model Selection and Regularisation
-	- 📖[Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/exercises_conceptual.ipynb)
-	- 📖[Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/exercises_applied.ipynb)
-	- 📖[Lab](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch6_statistical_learning/lab.ipynb)
-	- 📖[Algorithm: Best Subset Selection](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/best_subset_selection.ipynb)
-	- 📖[Algorithm: Forward and Backward Stepwise Selection](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/stepwise_selection.ipynb)
-	- 📖[Algorithm: Ridge Regression](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/ridge_regression.ipynb)
+	- 📖[Exercises - Conceptual](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/exercises_conceptual.ipynb)
+	- 📖[Exercises - Applied](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/exercises_applied.ipynb)
+	- 📖[Lab](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch6_statistical_learning/lab.ipynb)
+	- 📖[Algorithm: Best Subset Selection](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/best_subset_selection.ipynb)
+	- 📖[Algorithm: Forward and Backward Stepwise Selection](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/stepwise_selection.ipynb)
+	- 📖[Algorithm: Ridge Regression](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/ridge_regression.ipynb)
 	- 📖*Algorithm: The Lasso*
 	- 📖*Algorithm: Principal Components Regression*
 	- 📖*Algorithm: Partial Least Squares*
 
 - Moving Beyond Linearity
-	- 📖[Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch7_statistical_learning/conceptual.ipynb)
-	- 📖[Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch7_statistical_learning/applied.ipynb)
-	- 📖[Lab](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch7_statistical_learning/lab.ipynb)
+	- 📖[Exercises - Conceptual](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch7_statistical_learning/conceptual.ipynb)
+	- 📖[Exercises - Applied](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch7_statistical_learning/applied.ipynb)
+	- 📖[Lab](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch7_statistical_learning/lab.ipynb)
 	- 📖*Algorithm: Regression Spline* 
 	- 📖*Algorithm: Smoothing Spline* 	
 	- 📖*Algorithm: Local Regression* 
 	- 📖*Algorithm: Generalized Additive Model (GAM)* 
 
 - Tree Based Methods
-	- 📖[Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch8_statistical_learning/conceptual.ipynb)
-	- 📖[Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch8_statistical_learning/applied.ipynb)
-	- 📖[Lab](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch8_statistical_learning/lab.ipynb)
-	- 📖[Algorithms: Trees, Bagging, Random Forests and Boosting](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/trees.ipynb)
+	- 📖[Exercises - Conceptual](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch8_statistical_learning/conceptual.ipynb)
+	- 📖[Exercises - Applied](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch8_statistical_learning/applied.ipynb)
+	- 📖[Lab](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch8_statistical_learning/lab.ipynb)
+	- 📖[Algorithms: Trees, Bagging, Random Forests and Boosting](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/trees.ipynb)
 	- 📖*Algorithm: AdaBoost* 
 	- 📖*Algorithm: Gradient Boosting* 
 
 	
 - Support Vector Machines
-	- 📖[Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch9_statistical_learning/conceptual.ipynb)
-	- 📖[Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch9_statistical_learning/applied.ipynb)
-	- 📖[Lab](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch9_statistical_learning/lab.ipynb)
- 	- 📖[Algorithm: Perceptron](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/rosenblatt_perceptron.ipynb)
+	- 📖[Exercises - Conceptual](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch9_statistical_learning/conceptual.ipynb)
+	- 📖[Exercises - Applied](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch9_statistical_learning/applied.ipynb)
+	- 📖[Lab](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch9_statistical_learning/lab.ipynb)
+ 	- 📖[Algorithm: Perceptron](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/rosenblatt_perceptron.ipynb)
 	- 📖*Algorithm: Support Vector Classifier* 
 	- 📖*Algorithm: Support Vector Machine* 
 
 - Unsupervised Learning
-	- 📖[Exercises - Conceptual](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch10_statistical_learning/conceptual.ipynb)
-	- 📖[Exercises - Applied](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch10_statistical_learning/applied.ipynb)
-	- 📖[Lab](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch10_statistical_learning/lab.ipynb)
-	- 📖[Algorithm: PCA](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/pca.ipynb)
-	- 📖[Algorithm: K-Means](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/k_means.ipynb)
+	- 📖[Exercises - Conceptual](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch10_statistical_learning/conceptual.ipynb)
+	- 📖[Exercises - Applied](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch10_statistical_learning/applied.ipynb)
+	- 📖[Lab](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch10_statistical_learning/lab.ipynb)
+	- 📖[Algorithm: PCA](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/pca.ipynb)
+	- 📖[Algorithm: K-Means](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/k_means.ipynb)
 
 
 ## Mathematics for Machine Learning
@@ -146,16 +146,16 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 
 Disclaimer - I did not *create* these notebooks in this section, though I did *complete* them - they are provided by Coursera for completion as part of the assessement material for the course.
 
-- 📖[Transformation and change of basis](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_ReflectingBear.ipynb)
-- 📖[Singular matrices](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_IdentifyingSpecialMatrices.ipynb)
-- 📖[The Gram-Schmidt process](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_GramSchmidtProcess.ipynb)
-- 📖[Power iteration and PageRank](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_PageRank.ipynb)
-- 📖[Backpropagation](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/calc_Backpropagation.ipynb)
-- 📖[Gradient Descent](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/calc_Fitting%2Bthe%2Bdistribution%2Bof%2Bheights%2Bdata.ipynb)
-- 📖[Variance, covariance and affine transformation of a dataset](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week1.ipynb)
-- 📖[Distance and angles in high dimensions](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week2.ipynb)
-- 📖[Orthogonal Projections](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week3.ipynb)
-- 📖[Implement Principal Component Analysis](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week4.ipynb)
+- 📖[Transformation and change of basis](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_ReflectingBear.ipynb)
+- 📖[Singular matrices](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_IdentifyingSpecialMatrices.ipynb)
+- 📖[The Gram-Schmidt process](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_GramSchmidtProcess.ipynb)
+- 📖[Power iteration and PageRank](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_PageRank.ipynb)
+- 📖[Backpropagation](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/imperial/calc_Backpropagation.ipynb)
+- 📖[Gradient Descent](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/imperial/calc_Fitting%2Bthe%2Bdistribution%2Bof%2Bheights%2Bdata.ipynb)
+- 📖[Variance, covariance and affine transformation of a dataset](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week1.ipynb)
+- 📖[Distance and angles in high dimensions](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week2.ipynb)
+- 📖[Orthogonal Projections](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week3.ipynb)
+- 📖[Implement Principal Component Analysis](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week4.ipynb)
 
 
 ## An Introduction to Machine Learning
