@@ -3,9 +3,21 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
+### Friday, 2/11/2018
+
+- Struck down with a chest infection 🤒
+	- Indulged in some Pavel Grindfeld lectures, surely the greatest maths lecturer out there. Although the material is not new to me, I feel like he is going in and organsing my brain and it is glorious.
+	- Not much else
+
+### Thursday, 1/11/2018
+
+- Struck down with a chest infection 🤒
+	- Indulged in some Pavel Grindfeld lectures
+	- Not much else
+
 ### Wednesdy, 31/10/2018
 
-- Struck down with a chest infection
+- Struck down with a chest infection 🤒
 	- Added classification to my [trees notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/trees.ipynb)
 	- Indulged in some Pavel Grindfeld lectures
 	- Not much else

@@ -33,7 +33,12 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 		- [Khan Academy](https://www.khanacademy.org/math/)
 		- [Murphy's MLPP](https://www.amazon.co.uk/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) 
 
-### Optional Modules
+- *Applied Machine Learning*
+	- Compete at hackathons
+	- Compete in kaggle contests
+	- Complete project / contract work
+
+## Future Study
 
 - *Bayesian Inference / Graphical Models / Probabalistic ML*
 	- Courses:
@@ -58,10 +63,6 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 	- Course: [Andrew Ng's Deep Learning Specialisation](https://www.coursera.org/specializations/deep-learning)
 	- Textbooks:
 		- [Deep Learning (Goodfellow, Bengio, Courville)](https://www.deeplearningbook.org/)
-- *Applied Machine Learning*
-	- Reimplement winning / top scoring kaggle entries
-	- Compete in kaggle contests
-	- Compete at hackathons
 
 
 ## Supervised Learning
