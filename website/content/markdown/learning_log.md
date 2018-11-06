@@ -3,6 +3,15 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
+### Tuesday, 6/11/2018
+- Kagglin'
+	- Working on [my house prices notebook](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/house_prices/house_prices.ipynb)
+
+### Monday, 5/11/2018
+
+- Kagglin'
+	- Working on [my house prices notebook](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/house_prices/house_prices.ipynb)
+
 ### Friday, 2/11/2018
 
 - Struck down with a chest infection 🤒
