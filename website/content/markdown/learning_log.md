@@ -3,14 +3,37 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
+### Thursday, 8/11/2018
+
+- Working on [my house prices notebook](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/house_prices/house_prices.ipynb)
+	- Did a better implementation of stacking in my [my house prices notebook](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/house_prices/house_prices.ipynb), which is less wasteful of training data.
+	- Feature engineering
+
+- Pavel Grinfeld Lectures
+
+### Wednesday, 7/11/2018
+
+- Working on [my house prices notebook](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/house_prices/house_prices.ipynb)
+	- Looked for some literature on the subject of *stacking/blending/meta-ensembling*  and stuggled to find anything authoritative. These techniques seems to be omitted from textbooks but are very popular amongst kagglers. I read two write ups [here](https://mlwave.com/kaggle-ensembling-guide/) and [here](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/). There is some [higher brow academic coverage](https://rd.springer.com/content/pdf/10.1007%2FBF00117832.pdf) from none other than Leo Brieman himself, which I will return to.
+	- Did a quick and dirty implementation of stacking in my [my house prices notebook](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/house_prices/house_prices.ipynb).
+- Pavel Grinfeld Lectures
+
 ### Tuesday, 6/11/2018
-- Kagglin'
-	- Working on [my house prices notebook](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/house_prices/house_prices.ipynb)
+
+- Working on [my house prices notebook](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/house_prices/house_prices.ipynb)
+	- Feature engineering
+	- Anomaly identification and removal
+
+- Pavel Grinfeld Lectures
 
 ### Monday, 5/11/2018
 
-- Kagglin'
-	- Working on [my house prices notebook](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/house_prices/house_prices.ipynb)
+- Working on [my house prices notebook](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/house_prices/house_prices.ipynb)
+	- Initial exploratory data analysis
+	- Identification and preprocessing of numerical, categorical and ordinal predictors
+	- Fit L1 and L2 regularised linear regressions, boosted tree regressor and random forest.
+
+- Pavel Grinfeld Lectures
 
 ### Friday, 2/11/2018
 
