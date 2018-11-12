@@ -3,6 +3,15 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
+### Monday, 12/11/2018
+
+- Working on [my West Nile Virus notebook](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/west_nile_virus/west_nile_virus.ipynb)
+	- Did a detailed exploratory data analysis.
+	- Read about [Quality Controlled Local Climatological Data](https://catalog.data.gov/dataset/quality-controlled-local-climatological-data-qclcd-publication) and checked out [NOAA](https://www.weather.gov/informationcenter)
+
+
+- Pavel Grinfeld Lectures
+
 ### Friday, 9/11/2018
 - Working on [my West Nile Virus notebook](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/west_nile_virus/west_nile_virus.ipynb)
 	- Read data descriptors and did an initial exploratory data analysis.
