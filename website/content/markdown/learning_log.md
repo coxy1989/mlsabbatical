@@ -3,6 +3,13 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
+### Friday, 9/11/2018
+- Working on [my West Nile Virus notebook](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/west_nile_virus/west_nile_virus.ipynb)
+	- Read data descriptors and did an initial exploratory data analysis.
+	- Read about [kernel density estimation](https://en.wikipedia.org/wiki/Kernel_density_estimation)
+
+- Pavel Grinfeld Lectures
+
 ### Thursday, 8/11/2018
 
 - Working on [my house prices notebook](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/house_prices/house_prices.ipynb)

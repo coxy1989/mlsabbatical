@@ -18,32 +18,35 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 	- Course: [Machine Learning](https://www.coursera.org/learn/machine-learning) from Stanford by Andrew Ng
 		
 - Supervised Learning
-	- Course: [Statistical Learning]() from Stanford by Trevor Hastie and Rob Tibshirani
+	- Course: [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) from Stanford by Trevor Hastie and Rob Tibshirani
 	- Textbooks:
 		- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 	   	- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+	   	- [Machine Learning: A Probabalistic Perspective](https://www.amazon.co.uk/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) 
+	- Projects: 
+		- [Predicting house prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) in Iowa
+		- [Predicting bursts](https://solveitsew.devpost.com/) in South East Water's distribution network
+		- [Predicting West Nile virus](https://www.kaggle.com/c/predict-west-nile-virus) in Chicago
 
 - Mathematics for Machine Learning
-	- Course: [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) from Imperial College London
-	- Textbook: [Mathematical Methods in the Physical Sciences](https://www.amazon.co.uk/Mathematical-Methods-Physical-Sciences-Mary/dp/0471365807) 
-	- Other Resources:
-		-  [Pavel Grinfeld's Linear Algebra via lem.ma](https://www.lem.ma/home).
+	- Courses: 
+		- [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) from Imperial College London
+		-  [Linear Algebra via lem.ma](https://www.lem.ma/home) by Pavel Grinfeld 
+	- Textbooks: 
+		- [Mathematical Methods in the Physical Sciences](https://www.amazon.co.uk/Mathematical-Methods-Physical-Sciences-Mary/dp/0471365807) 
+		- [Hello Again, Linear Algebra: A Second Look at the Subject through a Collection of Exercises and Solutions](https://www.amazon.co.uk/Hello-Again-Linear-Algebra-Collection-ebook/dp/B00HLW5V9U)
+	- Other Resources:		
 		-  [Gilbert Strang's Linear Algebra via opencourseware](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 		- [Symbolab](https://www.symbolab.com/)
 		- [Khan Academy](https://www.khanacademy.org/math/)
-		- [Murphy's MLPP](https://www.amazon.co.uk/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) 
-
-- *Applied Machine Learning*
-	- Compete at hackathons
-	- Compete in kaggle contests
-	- Complete project / contract work
 
 ## Future Study
 
 - *Bayesian Inference / Graphical Models / Probabalistic ML*
 	- Courses:
-		- [Aubrey Clayton's Logic of Science lecture series](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_)
-		- [Richard McElrath's Statisitcal Rethinking lecture series](https://www.youtube.com/playlist?list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc)
+		- [Aubrey Clayton's Logic of Science](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_)
+		- [Richard McElrath's Statisitcal Rethinking](https://www.youtube.com/playlist?list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc)
+		- [Daphne Coller's Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models)
 	- Textbooks:
 		- [E.T Jaynes's The Logic of Science](https://bayes.wustl.edu/etj/prob/book.pdf)
 		- [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)
@@ -71,6 +74,8 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 
 ### Notebooks
 
+#### Labs, Conceptual and Applied Excercises
+
 - Statistical Learning Introduction
 	- 📖[Exercises - Conceptual](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch2_statistical_learning/exercises.ipynb)
 	- 📖[The Curse of Dimensionality](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch2_statistical_learning/curse_of_dimensionality.ipynb)
@@ -78,74 +83,72 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 - Linear Regression
 	- 📖 [Exercises - Conceptual](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch3_statistical_learning/exercises_conceptual.ipynb)
 	- 📖 [Exercises - Applied](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch3_statistical_learning/exercises_applied.ipynb)
-	- 📖[Algorithm: Linear Regression](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/linear_regression.ipynb)
 	
 - Classification
 	- 📖[Exercises - Conceptual](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_conceptual.ipynb)
 	- 📖[Exercises - Applied](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_applied.ipynb)
 	- 📖[Lab](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/lab.ipynb)
-	- 📖[Algorithm: Logistic Regression](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/logistic_regression.ipynb)
-	- 📖[Algorithm: Linear Discriminant Analysis](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/linear_discriminant_analysis.ipynb)
-	- 📖[Algorithm: Quadratic Discriminant Analysis](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/quadratic_discriminant_analysis.ipynb)
 
 - Resampling Methods
 	- 📖[Exercises - Conceptual](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_conceptual.ipynb)
 	- 📖[Exercises - Applied](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch4_statistical_learning/exercises_applied.ipynb)
 	- 📖[Lab](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/lab.ipynb)
-	- 📖[Algorithm: K-Fold Cross Validation](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/cross_validation.ipynb)
-	- 📖[Algorithm: The Bootstrap](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/bootstrap.ipynb)
-
 
 - Linear Model Selection and Regularisation
 	- 📖[Exercises - Conceptual](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/exercises_conceptual.ipynb)
 	- 📖[Exercises - Applied](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch5_statistical_learning/exercises_applied.ipynb)
 	- 📖[Lab](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch6_statistical_learning/lab.ipynb)
-	- 📖[Algorithm: Best Subset Selection](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/best_subset_selection.ipynb)
-	- 📖[Algorithm: Forward and Backward Stepwise Selection](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/stepwise_selection.ipynb)
-	- 📖[Algorithm: Ridge Regression](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/ridge_regression.ipynb)
-	- 📖*Algorithm: The Lasso*
-	- 📖*Algorithm: Principal Components Regression*
-	- 📖*Algorithm: Partial Least Squares*
 
 - Moving Beyond Linearity
 	- 📖[Exercises - Conceptual](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch7_statistical_learning/conceptual.ipynb)
 	- 📖[Exercises - Applied](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch7_statistical_learning/applied.ipynb)
 	- 📖[Lab](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch7_statistical_learning/lab.ipynb)
-	- 📖*Algorithm: Regression Spline* 
-	- 📖*Algorithm: Smoothing Spline* 	
-	- 📖*Algorithm: Local Regression* 
-	- 📖*Algorithm: Generalized Additive Model (GAM)* 
 
 - Tree Based Methods
 	- 📖[Exercises - Conceptual](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch8_statistical_learning/conceptual.ipynb)
 	- 📖[Exercises - Applied](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch8_statistical_learning/applied.ipynb)
 	- 📖[Lab](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch8_statistical_learning/lab.ipynb)
-	- 📖[Algorithms: Trees, Bagging, Random Forests and Boosting](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/trees.ipynb)
-	- 📖*Algorithm: AdaBoost* 
-	- 📖*Algorithm: Gradient Boosting* 
 
-	
 - Support Vector Machines
 	- 📖[Exercises - Conceptual](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch9_statistical_learning/conceptual.ipynb)
 	- 📖[Exercises - Applied](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch9_statistical_learning/applied.ipynb)
 	- 📖[Lab](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch9_statistical_learning/lab.ipynb)
- 	- 📖[Algorithm: Perceptron](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/rosenblatt_perceptron.ipynb)
-	- 📖*Algorithm: Support Vector Classifier* 
-	- 📖*Algorithm: Support Vector Machine* 
 
 - Unsupervised Learning
 	- 📖[Exercises - Conceptual](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch10_statistical_learning/conceptual.ipynb)
 	- 📖[Exercises - Applied](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch10_statistical_learning/applied.ipynb)
 	- 📖[Lab](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch10_statistical_learning/lab.ipynb)
-	- 📖[Algorithm: PCA](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/pca.ipynb)
-	- 📖[Algorithm: K-Means](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/k_means.ipynb)
+
+#### Algorithms
+
+- 📖[Linear Regression](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/linear_regression.ipynb)
+- 📖[Logistic Regression](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/logistic_regression.ipynb)
+- 📖[Linear Discriminant Analysis](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/linear_discriminant_analysis.ipynb)
+- 📖[Quadratic Discriminant Analysis](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/quadratic_discriminant_analysis.ipynb)
+- 📖[K-Fold Cross Validation](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/cross_validation.ipynb)
+- 📖[The Bootstrap](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/bootstrap.ipynb)
+- 📖[Best Subset Selection](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/best_subset_selection.ipynb)
+- 📖[Forward and Backward Stepwise Selection](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/stepwise_selection.ipynb)
+- 📖[Ridge Regression](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/ridge_regression.ipynb)
+- 📖[Trees, Bagging, Random Forests and Boosting](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/trees.ipynb)
+- 📖[Perceptron](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/rosenblatt_perceptron.ipynb)
+- 📖[PCA](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/pca.ipynb)
+- 📖[K-Means](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/k_means.ipynb)
+
+#### Projects
+
+- [Predicting house prices](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/house_prices/house_prices.ipynb) in Iowa
+- *Predicting West Nile virus in Chicago*
+- *Predicting bursts in South East Water's distribution network*
 
 
 ## Mathematics for Machine Learning
 
-*FWIW - you get a certificate of completion, mine is [here](https://www.coursera.org/account/accomplishments/specialization/ARMLMTNPZJTD)*
+*FWIW - you get a certificate of completion from the Imperial course, mine is [here](https://www.coursera.org/account/accomplishments/specialization/ARMLMTNPZJTD)*
 
-Disclaimer - I did not *create* these notebooks in this section, though I did *complete* them - they are provided by Coursera for completion as part of the assessement material for the course.
+### Notebooks
+
+Disclaimer - I did not *create* these notebooks in this section, though I did *complete* them - they are provided by Coursera for completion as part of the assessement material for the Imperial course.
 
 - 📖[Transformation and change of basis](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_ReflectingBear.ipynb)
 - 📖[Singular matrices](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/imperial/la_IdentifyingSpecialMatrices.ipynb)
