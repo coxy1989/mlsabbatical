@@ -139,7 +139,7 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 
 - [Predicting house prices](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/house_prices/house_prices.ipynb) in Iowa
 - *Predicting West Nile virus in Chicago*
-- *Predicting bursts in South East Water's distribution network*
+- [Predicting bursts](https://docs.google.com/presentation/d/1kaTD7jr0DhJR7IDXVY0lVQ7-jD_r_qhhgqzK9_5nKRc/edit#slide=id.p) in South East Water's distribution network]
 
 
 ## Mathematics for Machine Learning
