@@ -3,6 +3,14 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
+### Wednesday, 14/11/2018
+- Working on [my West Nile Virus notebook](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/west_nile_virus/west_nile_virus.ipynb)
+- Pavel Grinfeld Lectures
+
+### Tuesday, 13/11/2018
+- Working on [my West Nile Virus notebook](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/west_nile_virus/west_nile_virus.ipynb)
+- Pavel Grinfeld Lectures
+
 ### Monday, 12/11/2018
 
 - Working on [my West Nile Virus notebook](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/west_nile_virus/west_nile_virus.ipynb)
