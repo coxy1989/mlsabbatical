@@ -3,6 +3,24 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
+### Monday, 19/11/2018
+- Met up with my study buddy.
+	- Talked through career/curriculum plans.
+	- Pontificated about software and the future of work.
+- Pavel Grinfeld Lectures
+
+### Friday, 16/11/2018
+- More career and curriculum planning
+	- Researched roles I'd be interested in doing
+	- Reviewed the curriculum, planned next steps.
+- Pavel Grinfeld Lectures
+
+### Thursday, 15/11/2018
+- Career and curriculum planning
+	- Listened to [this](https://80000hours.org/podcast/episodes/olsson-and-ziegler-ml-engineering-and-safety/) podcast; a couple of research engineers talking about what they do.
+	- Researched roles I'd be interested in doing
+- Pavel Grinfeld Lectures
+
 ### Wednesday, 14/11/2018
 - Working on [my West Nile Virus notebook](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/west_nile_virus/west_nile_virus.ipynb)
 - Pavel Grinfeld Lectures
