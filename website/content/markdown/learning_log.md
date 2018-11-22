@@ -3,6 +3,20 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
+### Wednesday, 21/11/2018
+
+- Deep Learning:
+	- The [third](https://course.fast.ai/lessons/lesson3.html) lecture from Jeremy Howard's [deep learning series](https://course.fast.ai/index.html).
+	- Worked through the [lab notebook](https://github.com/fastai/fastai/blob/master/courses/dl1/lesson1.ipynb)
+- Pavel Grinfeld Lectures
+
+### Tuesday, 20/11/2018
+
+- Deep Learning, CNNs:
+	- The [first](https://course.fast.ai/lessons/lesson1.html) and [second](https://course.fast.ai/lessons/lesson2.html) Jeremy Howard lectures from his [deep learning series](https://course.fast.ai/index.html).
+	- Worked through the [lab notebook](https://github.com/fastai/fastai/blob/master/courses/dl1/lesson1.ipynb)
+- Pavel Grinfeld Lectures
+
 ### Monday, 19/11/2018
 - Met up with my study buddy.
 	- Talked through career/curriculum plans.

@@ -12,10 +12,22 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 - Domain knowledge of medicine.
 
 
-## Core Modules
+## Modules
 
 - Introduction to Machine Learning
 	- Course: [Machine Learning](https://www.coursera.org/learn/machine-learning) from Stanford by Andrew Ng
+		
+- Maths Refresher
+	- Courses: 
+		- [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) from Imperial College London
+		-  [Linear Algebra via lem.ma](https://www.lem.ma/home) by Pavel Grinfeld 
+	- Textbooks: 
+		- [Mathematical Methods in the Physical Sciences](https://www.amazon.co.uk/Mathematical-Methods-Physical-Sciences-Mary/dp/0471365807) 
+		- [Hello Again, Linear Algebra: A Second Look at the Subject through a Collection of Exercises and Solutions](https://www.amazon.co.uk/Hello-Again-Linear-Algebra-Collection-ebook/dp/B00HLW5V9U)
+	- Other Resources:		
+		-  [Gilbert Strang's Linear Algebra via opencourseware](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
+		- [Symbolab](https://www.symbolab.com/)
+		- [Khan Academy](https://www.khanacademy.org/math/)
 		
 - Supervised Learning
 	- Course: [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) from Stanford by Trevor Hastie and Rob Tibshirani
@@ -28,21 +40,16 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 		- [Predicting bursts](https://solveitsew.devpost.com/) in South East Water's distribution network
 		- [Predicting West Nile virus](https://www.kaggle.com/c/predict-west-nile-virus) in Chicago
 
-- Mathematics for Machine Learning
+- Deep Learning
 	- Courses: 
-		- [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) from Imperial College London
-		-  [Linear Algebra via lem.ma](https://www.lem.ma/home) by Pavel Grinfeld 
-	- Textbooks: 
-		- [Mathematical Methods in the Physical Sciences](https://www.amazon.co.uk/Mathematical-Methods-Physical-Sciences-Mary/dp/0471365807) 
-		- [Hello Again, Linear Algebra: A Second Look at the Subject through a Collection of Exercises and Solutions](https://www.amazon.co.uk/Hello-Again-Linear-Algebra-Collection-ebook/dp/B00HLW5V9U)
-	- Other Resources:		
-		-  [Gilbert Strang's Linear Algebra via opencourseware](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
-		- [Symbolab](https://www.symbolab.com/)
-		- [Khan Academy](https://www.khanacademy.org/math/)
+		- [Jeremy Howard's deep learning I](https://course.fast.ai/index.html)
+		- [Jeremy Howard's deep learning II](https://course.fast.ai/part2.html)
+	- Textbooks:
+		- [Deep Learning - Goodfellow, Bengio, Courville](https://www.deeplearningbook.org/)
 
 ## Future Study
 
-- *Bayesian Inference / Graphical Models / Probabalistic ML*
+- *Bayesian Inference & Graphical Models*
 	- Courses:
 		- [Aubrey Clayton's Logic of Science](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_)
 		- [Richard McElrath's Statisitcal Rethinking](https://www.youtube.com/playlist?list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc)
@@ -62,17 +69,12 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 	- Textbooks: 
 		- [Reinforcement Learning (Sutton)](https://www.amazon.co.uk/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262193981)
 		- [Algorithms for Reinforcement Learning (Szepesvari)](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
-- *Deep Learning*
-	- Course: [Andrew Ng's Deep Learning Specialisation](https://www.coursera.org/specializations/deep-learning)
-	- Textbooks:
-		- [Deep Learning (Goodfellow, Bengio, Courville)](https://www.deeplearningbook.org/)
 
-
-## Supervised Learning
+## Artefacts
 
 *Assignments and other notebooks I've produced along the way*
 
-### Notebooks
+### *Supervised Learning*
 
 #### Labs, Conceptual and Applied Excercises
 
@@ -138,15 +140,13 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 #### Projects
 
 - [Predicting house prices](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/house_prices/house_prices.ipynb) in Iowa
-- *Predicting West Nile virus in Chicago*
-- [Predicting bursts](https://docs.google.com/presentation/d/1kaTD7jr0DhJR7IDXVY0lVQ7-jD_r_qhhgqzK9_5nKRc/edit#slide=id.p) in South East Water's distribution network]
+- [Predicting West Nile virus](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/west_nile_virus/west_nile_virus.ipynb)  in Chicago
+- [Predicting bursts](https://docs.google.com/presentation/d/1kaTD7jr0DhJR7IDXVY0lVQ7-jD_r_qhhgqzK9_5nKRc/edit#slide=id.p) in South East Water's distribution network
 
 
-## Mathematics for Machine Learning
+### *Mathematics for Machine Learning*
 
 *FWIW - you get a certificate of completion from the Imperial course, mine is [here](https://www.coursera.org/account/accomplishments/specialization/ARMLMTNPZJTD)*
-
-### Notebooks
 
 Disclaimer - I did not *create* these notebooks in this section, though I did *complete* them - they are provided by Coursera for completion as part of the assessement material for the Imperial course.
 
@@ -162,9 +162,9 @@ Disclaimer - I did not *create* these notebooks in this section, though I did *c
 - 📖[Implement Principal Component Analysis](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week4.ipynb)
 
 
-## An Introduction to Machine Learning
+### *Introduction to Machine Learning*
 
-*All the material is available for free - you have to pay $70 If you want a certificate, so I gave that a miss. I obtained full credit in all the assignments, I've linked to my solutions below.*
+*All the material for Andrew Ng's course is available for free - you have to pay $70 If you want a certificate, so I gave that a miss. I obtained full credit in all the assignments, I've linked to my solutions below.*
 
 - [Octave Lab sheet: Implement Linear Regression](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/andrew_ng/machine-learning-ex1/ex1.pdf)
 	- [My solution](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/andrew_ng/machine-learning-ex1/ex1/ex1.m)
