@@ -1,10 +1,10 @@
 Check out the [Learning Log](https://www.coxy1989.com/learning_log.html)
 
-## Welcome
+# Welcome
 
 Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track my machine learning studies, the site is statically hosted on S3 - you can find the source code [here](https://github.com/coxy1989/mlsabbatical).
 
-### Starting point
+## Starting point
 
 - 3 years professional software engineering: variety of domains/platforms/languages.
 - Working maths knowledge.
@@ -12,7 +12,7 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 - Domain knowledge of medicine.
 
 
-## Modules
+# Modules
 
 - Introduction to Machine Learning
 	- Course: [Machine Learning](https://www.coursera.org/learn/machine-learning) from Stanford by Andrew Ng
@@ -47,7 +47,7 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 	- Textbooks:
 		- [Deep Learning - Goodfellow, Bengio, Courville](https://www.deeplearningbook.org/)
 
-## Future Study
+# Future Study
 
 - *Bayesian Inference & Graphical Models*
 	- Courses:
@@ -70,13 +70,13 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 		- [Reinforcement Learning (Sutton)](https://www.amazon.co.uk/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262193981)
 		- [Algorithms for Reinforcement Learning (Szepesvari)](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
 
-## Artefacts
+# Artefacts
 
 *Assignments and other notebooks I've produced along the way*
 
-### *Supervised Learning*
+## *Supervised Learning*
 
-#### Labs, Conceptual and Applied Excercises
+### Labs, Conceptual and Applied Excercises
 
 - Statistical Learning Introduction
 	- 📖[Exercises - Conceptual](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch2_statistical_learning/exercises.ipynb)
@@ -121,7 +121,7 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 	- 📖[Exercises - Applied](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch10_statistical_learning/applied.ipynb)
 	- 📖[Lab](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/statistical_learning/ch10_statistical_learning/lab.ipynb)
 
-#### Algorithms
+### Algorithms
 
 - 📖[Linear Regression](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/linear_regression.ipynb)
 - 📖[Logistic Regression](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/logistic_regression.ipynb)
@@ -137,14 +137,14 @@ Hello, I'm [Jamie](https://github.com/coxy1989). I've created this site to track
 - 📖[PCA](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/pca.ipynb)
 - 📖[K-Means](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/algorithms/k_means.ipynb)
 
-#### Projects
+### Projects
 
 - [Predicting house prices](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/house_prices/house_prices.ipynb) in Iowa
 - [Predicting West Nile virus](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/west_nile_virus/west_nile_virus.ipynb)  in Chicago
 - [Predicting bursts](https://docs.google.com/presentation/d/1kaTD7jr0DhJR7IDXVY0lVQ7-jD_r_qhhgqzK9_5nKRc/edit#slide=id.p) in South East Water's distribution network
 
 
-### *Mathematics for Machine Learning*
+## *Mathematics for Machine Learning*
 
 *FWIW - you get a certificate of completion from the Imperial course, mine is [here](https://www.coursera.org/account/accomplishments/specialization/ARMLMTNPZJTD)*
 
@@ -162,7 +162,7 @@ Disclaimer - I did not *create* these notebooks in this section, though I did *c
 - 📖[Implement Principal Component Analysis](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/imperial/pca_week4.ipynb)
 
 
-### *Introduction to Machine Learning*
+## *Introduction to Machine Learning*
 
 *All the material for Andrew Ng's course is available for free - you have to pay $70 If you want a certificate, so I gave that a miss. I obtained full credit in all the assignments, I've linked to my solutions below.*
 
@@ -190,7 +190,7 @@ Disclaimer - I did not *create* these notebooks in this section, though I did *c
 
 ## Dead Ends
 
-#### Candidate for Unit 3: Statistical Learning
+### Candidate for Unit 3: Statistical Learning
 
 [Foundations of Machine Learning](https://bloomberg.github.io/foml/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=email&utm_source=Artificial_Intelligence_Weekly_81#home) by Bloomberg ML EDU
 
