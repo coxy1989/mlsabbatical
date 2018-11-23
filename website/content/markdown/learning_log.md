@@ -3,11 +3,20 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
+### Thursday, 22/11/2018
+
+- Deep Learning:
+	- The [fourth](https://course.fast.ai/lessons/lesson3.html) lecture from Jeremy Howard's [deep learning series](https://course.fast.ai/index.html).
+	- Experimented with architecture and training of convnet in my [dog breed identification notebook](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/breeds/breeds.ipynb)
+	- [Got started](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) with pytorch.
+
+- Pavel Grinfeld Lectures
+
 ### Wednesday, 21/11/2018
 
 - Deep Learning:
 	- The [third](https://course.fast.ai/lessons/lesson3.html) lecture from Jeremy Howard's [deep learning series](https://course.fast.ai/index.html).
-	- Worked through the [lab notebook](https://github.com/fastai/fastai/blob/master/courses/dl1/lesson1.ipynb)
+	- [Entered](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/breeds/breeds.ipynb) the [dog breeds kaggle competiton](https://www.kaggle.com/c/dog-breed-identification) with a convnet.
 - Pavel Grinfeld Lectures
 
 ### Tuesday, 20/11/2018
@@ -15,6 +24,7 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 - Deep Learning, CNNs:
 	- The [first](https://course.fast.ai/lessons/lesson1.html) and [second](https://course.fast.ai/lessons/lesson2.html) Jeremy Howard lectures from his [deep learning series](https://course.fast.ai/index.html).
 	- Worked through the [lab notebook](https://github.com/fastai/fastai/blob/master/courses/dl1/lesson1.ipynb)
+	- Workflow for experimenting in Jupyter on ec2 with access to cuda enabled gpu.
 - Pavel Grinfeld Lectures
 
 ### Monday, 19/11/2018
