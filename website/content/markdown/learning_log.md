@@ -3,10 +3,31 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
+### Monday, 26/11/2018
+
+- Deep Learning:
+	- Read Karpathy's [cs231n](http://cs231n.github.io/convolutional-networks/) CNN write up.
+	- Pytorch
+		- Read about [autograd](https://pytorch.org/docs/stable/notes/autograd.html) and [experimented](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/pytorch/blitz2.ipynb)
+		- Read about the [nn module](https://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html#sphx-glr-beginner-blitz-neural-networks-tutorial-py) and [experimented](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/pytorch/blitz3.ipynb)
+		- Read about a [typical pytorch classification pipeline](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html#sphx-glr-beginner-blitz-cifar10-tutorial-py) and [experimented](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/pytorch/blitz4.ipynb)
+		- Read about the [`Dataset` and `Dataloader` abstractions]() and [experimented](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/pytorch/dataloading_and_processing.ipynb)
+
+- Pavel Grinfeld Lectures
+
+### Friday, 23/11/2018
+
+- Deep Learning:
+	- The [sixth](https://course.fast.ai/lessons/lesson6.html) lecture from Jeremy Howard's [deep learning series](https://course.fast.ai/index.html).
+	- The [seventh](https://course.fast.ai/lessons/lesson7.html) lecture from Jeremy Howard's [deep learning series](https://course.fast.ai/index.html).
+
+- Pavel Grinfeld Lectures
+
 ### Thursday, 22/11/2018
 
 - Deep Learning:
-	- The [fourth](https://course.fast.ai/lessons/lesson3.html) lecture from Jeremy Howard's [deep learning series](https://course.fast.ai/index.html).
+	- The [fourth](https://course.fast.ai/lessons/lesson4.html) lecture from Jeremy Howard's [deep learning series](https://course.fast.ai/index.html).
+	- The [fifth](https://course.fast.ai/lessons/lesson5.html) lecture from Jeremy Howard's [deep learning series](https://course.fast.ai/index.html).
 	- Experimented with architecture and training of convnet in my [dog breed identification notebook](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/breeds/breeds.ipynb)
 	- [Got started](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) with pytorch.
 
