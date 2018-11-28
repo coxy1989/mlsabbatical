@@ -6,7 +6,7 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 ### Tuesday, 27/11/2018
 
 - Deep Learning:
-	- [Experimented]() with some CNN architectures with pytorch.
+	- [Experimented](https://nbviewer.jupyter.org/github/coxy1989/mlsabbatical/blob/master/notebooks/pytorch/cnn.ipynb) with some CNN architectures with pytorch.
 	- Read the [VGG paper](https://arxiv.org/pdf/1409.1556.pdf)
 - Pavel Grinfeld Lectures
 
