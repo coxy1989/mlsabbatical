@@ -3,6 +3,13 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
+### Tuesday, 27/11/2018
+
+- Deep Learning:
+	- [Experimented]() with some CNN architectures with pytorch.
+	- Read the [VGG paper](https://arxiv.org/pdf/1409.1556.pdf)
+- Pavel Grinfeld Lectures
+
 ### Monday, 26/11/2018
 
 - Deep Learning:
