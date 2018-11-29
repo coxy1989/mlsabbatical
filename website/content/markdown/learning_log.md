@@ -3,6 +3,14 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
+### Wednesday, 27/11/2018
+
+- Deep Learning:
+	- Used the [dog breed classification challenge](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/breeds/breeds2.ipynb) as an opportunity to apply some traning protocols / CNN architectures.
+	- Read about [Pytorch's CUDA semantics](https://pytorch.org/docs/stable/notes/cuda.html#cuda-semantics)
+
+- Pavel Grinfeld Lectures
+
 ### Tuesday, 27/11/2018
 
 - Deep Learning:
