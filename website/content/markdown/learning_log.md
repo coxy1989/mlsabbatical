@@ -3,10 +3,28 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
+### Friday, 29/11/2018
+
+- Deep Learning
+	- Precomputed the weights for the images in my [dog breed notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/breeds/breeds2.ipynb) on the ResNeXt architecture, to obtain feature encodings.
+	- Removed the final layer from the ResNext architecture and trained a few fully fully connected layers in my [dog breed notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/breeds/breeds2.ipynb).
+
+- Pavel Grinfeld Lectures
+
+### Thursday, 28/11/2018
+
+- Deep Learning:
+	- Read about [transfer learning](http://cs231n.github.io/transfer-learning/) and did the [pytorch transfer learning walkthrough](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html).
+	- Fetched the weights for [ResNeXt](https://arxiv.org/abs/1611.05431) from [FAIR](https://github.com/facebookresearch/ResNeXt#imagenet-pretrained-models) and [processed them for consumption from pytorch](https://github.com/clcarwin/convert_torch_to_pytorch).
+	- Read about pytorch's [persistant state model](https://pytorch.org/tutorials/beginner/saving_loading_models.html).
+
+	
+- Pavel Grinfeld Lectures
+
 ### Wednesday, 27/11/2018
 
 - Deep Learning:
-	- Used the [dog breed classification challenge](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/breeds/breeds2.ipynb) as an opportunity to apply some traning protocols / CNN architectures.
+	- [Dog breed classification challenge](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/breeds/breeds2.ipynb) experimented with some traning protocols / CNN architectures.
 	- Read about [Pytorch's CUDA semantics](https://pytorch.org/docs/stable/notes/cuda.html#cuda-semantics)
 
 - Pavel Grinfeld Lectures
