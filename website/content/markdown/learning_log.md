@@ -3,6 +3,15 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
+### Monday, 03/12/2018
+
+- Deep Learning
+	- Checked out the [fast.ai 1.0 release](https://docs.fast.ai/) - I've worked with the fast.ai 0.7 library whilst following Jeremy Howards series.
+	- Moved my GPU workflow from AWS to [paperspace](https://www.paperspace.com/) as the latter is cheaper to run.
+	- Started looking at the [Human Protein Atlas Classification Competition](https://www.kaggle.com/c/human-protein-atlas-image-classification)
+
+- Pavel Grinfeld Lectures
+
 ### Friday, 29/11/2018
 
 - Deep Learning
