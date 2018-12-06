@@ -3,6 +3,20 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
+### Wednesday, 05/12/2018
+
+- Deep Learning
+	- Worked on the [Human Protein Atlas Classification Competition](https://www.kaggle.com/c/human-protein-atlas-image-classification)
+	- Got frustrated by an environment issue which led me to dockerize my setup and to read about and configure [NVIDIA-docker](https://devblogs.nvidia.com/gpu-containers-runtime/).
+- Pavel Grinfeld Lectures
+- I'm away on a trip to NYC now until Tuesday.
+
+### Tuesday, 04/12/2018
+
+- Caught up with study buddy
+- Worked on the [Human Protein Atlas Classification Competition](https://www.kaggle.com/c/human-protein-atlas-image-classification)
+- Pavel Grinfeld Lectures
+
 ### Monday, 03/12/2018
 
 - Deep Learning
@@ -16,7 +30,7 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 - Deep Learning
 	- Precomputed the weights for the images in my [dog breed notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/breeds/breeds2.ipynb) on the ResNeXt architecture, to obtain feature encodings.
-	- Removed the final layer from the ResNext architecture and trained a few fully fully connected layers in my [dog breed notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/breeds/breeds2.ipynb).
+	- Removed the final layer from the ResNext architecture and trained a few fully connected layers in my [dog breed notebook](https://github.com/coxy1989/mlsabbatical/blob/master/notebooks/breeds/breeds2.ipynb).
 
 - Pavel Grinfeld Lectures
 

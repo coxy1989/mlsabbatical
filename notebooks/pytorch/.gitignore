@@ -1,1 +1,4 @@
 data
+*.pth
+*.swp
+/t7
