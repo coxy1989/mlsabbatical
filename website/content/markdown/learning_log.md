@@ -3,13 +3,45 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
+### Monday, 17/12/2018
+
+- Deep Learning
+	- Read [a disciplined approach to neural network
+hyper-parameters: part 1 – learning rate,
+batch size, momentum, and weight decay
+](https://arxiv.org/pdf/1803.09820.pdf)
+	- Applied the 1cycle policy from the aforementioned paper to the [Human Protein Atlas Classification Competition](https://www.kaggle.com/c/human-protein-atlas-image-classification).
+
+### Friday, 14/12/2018
+
+- Deep Learning
+	- Worked on [Human Protein Atlas Classification Competition](https://www.kaggle.com/c/human-protein-atlas-image-classification).
+	- Experimented with [the fast.ai library's callback system](https://docs.fast.ai/callback.html).
+	- Read [Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/pdf/1506.01186.pdf)
+- Pavel Grinfeld Lectures
+
+### Thursday, 13/12/2018
+
+- Deep Learning
+	- Worked on getting a baseline classifier up for [Human Protein Atlas Classification Competition](https://www.kaggle.com/c/human-protein-atlas-image-classification).
+	- [Fixed](https://github.com/fastai/fastai/pull/1332) an issue that I ran into in the [fast.ai library](https://github.com/fastai/fastai)
+- Pavel Grinfeld Lectures
+
+
+### Wednesday, 12/12/2018
+
+- Deep Learning
+	- Set up a dev environment which will allow me to use the [Human Protein Atlas Classification Competition](https://www.kaggle.com/c/human-protein-atlas-image-classification) as a test bed against the master branch of [fast.ai](https://github.com/fastai/fastai)
+	- Worked on getting a baseline classifier up for [Human Protein Atlas Classification Competition](https://www.kaggle.com/c/human-protein-atlas-image-classification), ran into and fixed quite a few teething problems.
+- Pavel Grinfeld Lectures
+
 ### Wednesday, 05/12/2018
 
 - Deep Learning
 	- Worked on the [Human Protein Atlas Classification Competition](https://www.kaggle.com/c/human-protein-atlas-image-classification)
 	- Got frustrated by an environment issue which led me to dockerize my setup and to read about and configure [NVIDIA-docker](https://devblogs.nvidia.com/gpu-containers-runtime/).
 - Pavel Grinfeld Lectures
-- I'm away on a trip to NYC now until Tuesday.
+- I'm away on a trip to NYC - back in a week.
 
 ### Tuesday, 04/12/2018
 
