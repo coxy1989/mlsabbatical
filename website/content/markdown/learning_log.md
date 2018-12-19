@@ -3,6 +3,15 @@ Go back to the [Homepage](https://www.coxy1989.com/).
 
 ## Learning Log
 
+### Tuesday, 18/12/2018
+
+- Deep Learning
+	- Submitted an entry to [Human Protein Atlas Classification Competition](https://www.kaggle.com/c/human-protein-atlas-image-classification) which yielded a top 15% score on the public leaderboard.
+	- Read [Super-Convergence: Very Fast Training of Neural
+Networks Using Large Learning Rates](https://arxiv.org/pdf/1708.07120.pdf)
+	- Cross-referenced fast.ai's modified versions of the [1cycle policy](https://github.com/fastai/fastai/blob/master/fastai/callbacks/one_cycle.py) and [learning rate finder](https://github.com/fastai/fastai/blob/master/fastai/callbacks/lr_finder.py) with their specification as described by Leslie Smith in the literature.
+- Pavel Grinfeld Lectures
+
 ### Monday, 17/12/2018
 
 - Deep Learning
@@ -11,6 +20,7 @@ hyper-parameters: part 1 – learning rate,
 batch size, momentum, and weight decay
 ](https://arxiv.org/pdf/1803.09820.pdf)
 	- Applied the 1cycle policy from the aforementioned paper to the [Human Protein Atlas Classification Competition](https://www.kaggle.com/c/human-protein-atlas-image-classification).
+- Pavel Grinfeld Lectures
 
 ### Friday, 14/12/2018
 
