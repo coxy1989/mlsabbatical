@@ -1,5 +1,5 @@
 # Machine Learning Sabattical
 
-This is the repo for my machine learning sabattical - vist [my website](https://www.coxy1989.com/) for more info.
+**UPDATE** - I've split out the contents of this project into their own repos and moved my site to [coxy1989](https://github.com/coxy1989/coxy1989)
 
 ![](https://imgs.xkcd.com/comics/machine_learning_2x.png)
